@@ -1,0 +1,18 @@
+{
+    "What is Aren Desai's educational background?": "[arendesai.com/portfolio] with more details in resume.pdf",
+    "Can you tell me about the projects Aren has worked on?": ["[arendesai.com/datascience/MSO-README.md]", "[arendesai.com/datascience/LMPF-README.md]", "[github.com/ArenKDesai/ArenWebsite]"],
+    "What programming languages does Aren know?": "**Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB**",
+    "What graphics projects has Aren created?": ["[github.com/ArenKDesai/Boat]", "[arendesai.com/bookofjoe]", "[arendesai.com/cybercity]"],
+    "How does Aren's experience with robotics relate to his current work?": "**OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2**",
+    "What courses has Aren taken in data science?": "[UW-Madison coursework]",
+    "What is the purpose of the MarketSimOptimizer project?": "[arendesai.com/datascience/MSO-README.md] MISO market simulation for energy markets.",
+    "Can you provide details about Aren's work experience?": ["[Madison Gas & Electric]", "[Compeer Financial]"],
+    "What leadership roles has Aren held?": "**Google Developer Student Club (Finance Lead), Wisconsin Robotics (Arm Developer)**",
+    "How can I view Aren's resume?": "[arendesai.com/portfolio/resume.pdf]",
+    "What skills does Aren have in data science?": "**Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras**",
+    "Tell me about Aren's involvement with the Wisconsin Rover project.": "[github.com/WisconsinRobotics/WRoverSoftware] UW-Madison rover software development.",
+    "What is the AI Assistant project?": "**GPT/Whisper integration for a personal assistant**",
+    "How does Aren use Python in his work?": "**Data analysis, machine learning, and software development**",
+    "Can you explain Aren's approach to 3D graphics?": "[OpenGL, WebGL, Unity]",
+    "What are some key features of the CyberCity project?": "**3D cyberpunk city environment visualization**"
+}

@@ -1,0 +1,49 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com]AREN Desai is a Computer Science and Data Science student at the University of Wisconsin-Madison, with expertise in programming, data science, computer graphics, and robotics."
+    ],
+    "What are some of Aren's academic achievements?": [
+        "[github.com/ArenKDesai/academics]AREN has excelled in coursework related to machine learning, computational mathematics, and software engineering at UW-Madison."
+    ],
+    "Can you provide details about Aren's robotics projects?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware]AREN contributed to the Wisconsin Rover project, developing software for autonomous navigation using ROS2."
+    ],
+    "What graphics projects has Aren worked on?": [
+        "[github.com/ArenKDesai/Boat]Aren created a 3D boat model in Blender and Unity. He also developed a cyberpunk city environment ([arendesai.com/cybercity]).",
+        "[arendesai.com/bookofjoe]He designed a web-based portfolio game called Book of Joe."
+    ],
+    "What programming languages does Aren know?": [
+        "**Python**, **SQL**, **R**, **Java**, **C/C++/C#**, **JavaScript**, **Julia**, and **MATLAB**. He frequently uses these for data science, software development, and robotics projects."
+    ],
+    "What is Aren's experience with energy systems?": [
+        "[linkedin.com/in/ArenDesai]Aren interned at Madison Gas & Electric, focusing on energy supply analysis and market modeling."
+    ],
+    "Can you tell me about Aren's data science projects?": [
+        "[arendesai.com/MarketSimOptimizer]He developed the MarketSimOptimizer for MISO market simulation. He also worked on LMP forecasting using LEAR and DNN models ([arendesai.com/LMPF-README.md])."
+    ],
+    "What leadership roles has Aren held?": [
+        "**Google Developer Student Club (Finance Lead)** and **Wisconsin Robotics (Arm Developer)**, where he led teams and contributed to open-source projects."
+    ],
+    "How can I view Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf]Download his detailed resume from the portfolio section."
+    ],
+    "What courses has Aren taken in data science?": [
+        "**Data Science Methods**, **Machine Learning**, **Probability and Statistics**, and **Applied Data Analysis** at UW-Madison."
+    ],
+    "What tools does Aren use for data analysis?": [
+        "**Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras**. He also uses Julia and MATLAB for advanced computations."
+    ],
+    "Can you provide examples of Aren's problem-solving skills?": [
+        "[github.com/ArenKDesai/Boat]His 3D graphics work demonstrates creative problem-solving in geometry and rendering.",
+        "[github.com/WisconsinRobotics/WRoverSoftware]The Wisconsin Rover project highlights his ability to solve complex robotics challenges."
+    ],
+    "What is Aren's approach to software development?": [
+        "**Modular, object-oriented design** with a focus on clean code and version control using Git. He often collaborates on GitHub ([github.com/ArenKDesai])."
+    ],
+    "How does Aren apply machine learning in his projects?": [
+        "**Classification algorithms**, **time series forecasting**, and **optimization techniques** are commonly used in his work."
+    ],
+    "What are some of Aren's career goals?": [
+        "**Robotics research**, **data science applications**, and **leadership roles in tech development**. He aims to bridge the gap between theory and practical innovation."
+    ]
+}

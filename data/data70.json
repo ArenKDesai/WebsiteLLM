@@ -1,0 +1,51 @@
+{
+    "What is your background?": [
+        "[arendesai.com/portfolio] He has a BS in Computer Science & Data Science from UW-Madison. His work spans data science, computer graphics, and robotics."
+    ],
+    "Can you tell me about yourself?": [
+        "[about-aren-desai]" He is a student at UW-Madison with interests in AI, data science, and software development. **AI** and **robotics** are key areas of his focus."
+    ],
+    "What programming languages do you know?": [
+        "[skills] His technical skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."
+    ],
+    "Do you have experience with machine learning?": [
+        "[datascience] Yes, he has worked on projects like MarketSimOptimizer and LMP Forecasting. **Data science** and **machine learning** are integral to his work."
+    ],
+    "What projects have you worked on?": [
+        "[portfolio/projects]", 
+        "[datascience] He developed MarketSimOptimizer for market simulation and LMP Forecasting using LEAR & DNN models. **Projects** showcase his technical skills in AI and data science."
+    ],
+    "What is the AI Assistant project?": [
+        "[projects/ai-assistant]" It uses GPT and Whisper for text-to-speech. His work in **AI development** highlights his expertise in language models and audio processing."
+    ],
+    "What courses have you taken in computer science?": [
+        "[coursework] He has completed courses like Machine Learning, Data Structures, Algorithms, Computer Graphics, and Robotics at UW-Madison."
+    ],
+    "Can you tell me about your data science coursework?": [
+        "[datascience/coursework] His coursework includes statistical methods, machine learning, and big data technologies. **Data analysis** is a core component of his education."
+    ],
+    "How did you develop the MarketSimOptimizer?": [
+        "[datascience/market-sim-optimizer] It uses Python and PyTorch for simulating energy markets. His work in **market simulation** demonstrates advanced AI applications."
+    ],
+    "What graphics projects have you created?": [
+        "[computergraphics]", 
+        "[portfolio/graphics] Projects include a 3D boat model using Blender and Unity, and the Book of Joe web game. **Computer graphics** is a passion area for him."
+    ],
+    "What is the Wisconsin Rover software?": [
+        "[robotics/wisconsin-rover]" It's open-source software developed with ROS2 for autonomous vehicles. His contributions highlight his expertise in **robotics development**."
+    ],
+    "Where have you interned?": [
+        "[experience/internships] He has interned at companies focusing on AI and data analysis, applying his skills in real-world projects."
+    ],
+    "Can you explain your leadership roles in clubs and robotics?": [
+        "[leadership/roles] He leads the UW Robotics Club and organizes workshops. **Leadership** in tech clubs enhances his project management and teamwork abilities."
+    ],
+    "What tools do you use for data science work?": [
+        "[datascience/tools]", 
+        "[skills/data-tools] Tools include Python, Pandas, NumPy, TensorFlow, PyTorch, Jupyter Notebooks. His proficiency spans **data analysis** and **machine learning frameworks**."
+    ],
+    "How did you create the CyberCity project?": [
+        "[computergraphics/cyber-city]", 
+        "[portfolio/graphics] It's a large-scale 3D cityscape using Blender and Cycles Render. His work in **urban visualization** shows his creativity with graphics tools."
+    ]
+}

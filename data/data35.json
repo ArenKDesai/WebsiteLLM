@@ -1,0 +1,31 @@
+{
+    "Tell me about Aren Desai": "[arendesai.com/portfolio] His professional background includes education in Computer Science & Data Science at UW-Madison, technical skills in programming languages like Python and Java, experience in robotics and data science projects.",
+    "What degrees is Aren pursuing?": "[arendesai.com/portfolio] He is currently pursuing a BS in Computer Science & Data Science at the University of Wisconsin-Madison, expected Spring 2025.",
+    "Which programming languages does Aren know?": "[arendesai.com/portfolio] He has proficiency in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB.",
+    "Can you describe his AI Assistant project?": [
+        "[github.com/ArenKDesai/AIAssistant] This project integrates GPT for natural language processing and Whisper for speech recognition, showcasing his skills in AI development."
+    ],
+    "Where has Aren interned?": "[arendesai.com/portfolio] He has interned at Madison Gas & Electric (Energy Supply Intern) and Compeer Financial (Data Analytics).",
+    "Does he have experience with machine learning?": [
+        "[github.com/ArenKDesai/LMP-Forecasting] His work on LMP Forecasting using LEAR and DNN models demonstrates his ML expertise.",
+        "[github.com/ArenKDesai/MarketSimOptimizer] Market simulation project also involves predictive modeling techniques."
+    ],
+    "What 3D tools does he use?": "[github.com/ArenKDesai/Boat] He uses Blender, Unity, OpenGL, and WebGL for graphics projects like the Boat model.",
+    "What's the WRoverSoftware about?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] It is software developed for a rover at UW-Madison, utilizing ROS2 and Gazebo for simulation."
+    ],
+    "Has he worked on specific data science models?": [
+        "[github.com/ArenKDesai/LMP-Forecasting] LMP Forecasting project uses PyTorch and Scikit-Learn for price prediction.",
+        "[github.com/ArenKDesai/MarketSimOptimizer] Market simulation also involves advanced modeling techniques."
+    ],
+    "Can you tell me more about his roles at Compeer Financial?": "[arendesai.com/portfolio] His role involved data analytics tasks, including report generation and financial analysis.",
+    "What courses has he taken?": [
+        "[github.com/ArenKDesai/MarketSimOptimizer] Relevant coursework includes subjects in data science, programming, and machine learning."
+    ],
+    "How did he create the CyberCity environment?": "[github.com/ArenKDesai/CyberCity] Built using Unity and Blender for 3D modeling, showcasing his skills in game development and graphics.",
+    "Is he familiar with cloud technologies?": "[github.com/ArenKDesai/GCP-Website] He has experience with Google Cloud Platform, as evidenced by his GCP-related projects.",
+    "How long was his internship at Madison Gas & Electric?": "[arendesai.com/portfolio] His internship lasted for [duration], providing hands-on experience in energy supply analysis.",
+    "Can you suggest related topics for further questions?": [
+        "Explore his work in robotics ([github.com/ArenKDesai/WRoverSoftware]) or his AI projects ([github.com/ArenKDesai/AIAssistant])."
+    ]
+}

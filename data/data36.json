@@ -1,0 +1,18 @@
+{
+    "What is Aren Desai's background?": ["[arendesai.com/portfolio] He is a Computer Science & Data Science BS student at UW-Madison with interests in AI, robotics, and computer graphics. His work includes projects like MarketSimOptimizer for market simulation and WRoverSoftware for robotic systems."],
+    "What are his academic achievements?": ["[arendesai.com/coursework] He has completed coursework in machine learning, data analysis, and computational methods, demonstrating strong performance in technical subjects."],
+    "Can you summarize his technical skills?": ["His skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras."],
+    "What data science tools does he use?": ["[link] He utilizes Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras for data analysis and machine learning tasks."],
+    "What makes the MarketSimOptimizer project unique?": ["The project uses MISO market simulation to optimize energy pricing, demonstrating his expertise in **energy systems** and **market modeling**."],
+    "How does Aren approach problem-solving in data science?": ["He employs a systematic approach, leveraging frameworks like LEAR and DNN models for accurate forecasting, as seen in the LMP Forecasting project."],
+    "Where can I find his resume and CV?": ["[arendesai.com/resume_nodetails.pdf] and [arendesai.com/cv_nodetails.pdf] provide detailed professional overviews."],
+    "Tell me about his robotics projects.": ["The WRoverSoftware project, developed at UW-Madison, showcases his work on robotic systems using ROS2, a key area in **robotics engineering**."],
+    "What inspired him to work on the AI Assistant?": ["Interest in natural language processing and AI led him to develop an assistant using GPT and Whisper models, highlighting his passion for **AI development**."],
+    "How did his experience at Compeer Financial shape his career?": ["His role in data analytics honed his skills in statistical modeling and market analysis, essential for his academic and professional pursuits."],
+    "Can you explain his role with Google Developer Student Club?": ["As Finance Lead, he organized workshops and events, fostering community engagement in tech innovation and **leadership development**."],
+    "What are some highlights of his academic coursework?": ["Courses include machine learning, algorithms, databases, and robotics, reflecting a diverse technical education."],
+    "What's next for Aren after graduation?": ["He plans to leverage his skills in AI and data science, exploring roles that combine **technical innovation** with **problem-solving**."],
+    "How has Unity been used in his projects?": ["Unity was integral in the Boat project, showcasing his ability to create interactive 3D models using **Blender** and **Unity**."],
+    "How does he stay updated with the latest tech trends?": ["Active participation in developer communities and continuous learning through platforms like Coursera keep him updated on the latest advancements."],
+    "What inspired him to pursue computer graphics?": ["A fascination with rendering techniques and 3D modeling led him to explore **computer graphics** applications in gaming and simulations."]
+}

@@ -1,0 +1,19 @@
+{
+    "Tell me about Aren": ["[arendesai.com] Overview of Aren's professional background and projects", "**Education** to learn more about his academic journey."],
+    "What is Aren's educational background?": ["[arendesai.com/portfolio] BS in Computer Science & Data Science at UW-Madison (Spring 2025)", "**Courses** for details on specific academic coursework."],
+    "Can you provide details about Aren's technical skills?": ["[arendesai.com/About] Skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB", "**Skills** to explore his expertise in data science and programming."],
+    "What data science projects has Aren worked on?": ["[arendesai.com/datascience] Projects like MarketSimOptimizer and LMP Forecasting", "**Projects** for more details on specific initiatives."],
+    "What graphics projects does Aren have?": ["[arendesai.com/computergraphics] Boat, Book of Joe, and CyberCity projects", "**Computer Graphics** to explore his creative work in 3D modeling."],
+    "Does Aren have experience with robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] Work on the Wisconsin Rover project", "**Robotics** for more details on his contributions."],
+    "Where can I find Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Downloadable PDF of his resume", "[cv.pdf] Detailed CV available here as well."],
+    "What programming languages does Aren know?": ["[About section] Languages include Python, SQL, R, Java, and more", "**Skills** to explore his proficiency in coding."],
+    "Can you tell me about Aren's work experience?": ["[arendesai.com/portfolio] Experience at Madison Gas & Electric and Compeer Financial", "**Experience** for detailed roles and responsibilities."],
+    "What is the MarketSimOptimizer project?": ["[arendesai.com/MSO-README.md] MISO market simulation tool", "**Projects** to learn more about his data science work."],
+    "How does Aren use Python in his projects?": ["[Pandas, NumPy, PyTorch] Key libraries used in data science and AI", "**Skills** for more details on Python applications."],
+    "What is the LMP Forecasting project?": ["[arendesai.com/LMPF-README.md] LEAR & DNN price models for energy forecasting", "**Projects** to explore his work in energy markets."],
+    "How can I stay updated with Aren's latest projects?": ["[github.com/ArenKDesai] Follow his GitHub profile for updates", "[arendesai.com/blog] Check his personal blog for news and insights."],
+    "What is the AI Assistant project?": ["[GPT/Whisper] AI-based assistant developed by Aren", "**Projects** to learn more about its capabilities."],
+    "What leadership roles has Aren held?": ["[About section] Leadership in Google Developer Student Club and Wisconsin Robotics", "**Leadership** for detailed contributions."],
+    "How can I contact Aren for collaboration?": ["[arendesai.com/contact] Contact information available on his website", "[LinkedIn profile] Connect with him professionally."],
+    "What is the AI Assistant's functionality?": ["[AI Assistant project details] Capabilities include natural language processing and more", "**Projects** to explore its features in-depth."]
+}

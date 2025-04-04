@@ -1,0 +1,16 @@
+{
+    "What is Aren Desai's educational background?": ["[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science at UW-Madison, expected to graduate in Spring 2025.", "[coursework] Relevant coursework includes data science, computer graphics, and robotics."],
+    "Can you explain MarketSimOptimizer?": ["[arendesai.com/MarketSimOptimizer-README.md] It's a MISO market simulation tool developed using Python and related frameworks. **Energy markets** might be of interest for follow-up questions."],
+    "What data science tools does Aren know?": ["[Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras] He is proficient in these libraries and frameworks, with a focus on machine learning and deep learning."],
+    "Tell me about Aren's work experience": ["[LinkedIn profile] He has interned at Madison Gas & Electric (Energy Supply Intern) and Compeer Financial (Data Analytics). **Energy supply** and **data analytics** might be areas to explore further."],
+    "What is the Wisconsin Rover project?": ["[github.com/WisconsinRobotics/WRoverSoftware] It's robotics software developed for the UW-Madison rover, utilizing ROS2. **Robotics** and **ROS2** are related topics."],
+    "How can I view Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Download his detailed resume here. For a more concise version, see [cv.pdf]."],
+    "What graphics projects has Aren worked on?": ["[github.com/ArenKDesai/Boat] A Blender/Unity 3D boat model was created for this project. **Blender** and **Unity** are related tools."],
+    "Does Aren have experience with machine learning?": ["Yes, he has worked on projects like LMP Forecasting ([arendesai.com/LMPF-README.md]) which uses DNN price models. **Machine learning** might lead to discussions about **PyTorch** or **TensorFlow**."],
+    "What is Aren's proficiency in programming languages?": ["[Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB] He has a strong foundation across multiple languages and frameworks."],
+    "Can you tell me about the GCP Website project?": ["[github.com/ArenKDesai/ArenWebsite] It's a website hosted on Google Cloud Platform (GCP) featuring an LLM. **GCP** and **LLM** are related topics."],
+    "What courses has Aren taken in data science?": ["UW-Madison coursework includes data analysis, machine learning, and statistical methods. Relevant materials can be found [here](coursework)."],
+    "What is the AI Assistant project?": ["It's based on GPT/Whisper technology, showcasing his work in natural language processing and audio recognition. **AI** and **GPT** are related topics."],
+    "How does Aren use graphics libraries like OpenGL?": ["He has experience using OpenGL for rendering 3D environments, as seen in projects like [CyberCity](arendesai.com/cybercity). **Computer graphics** might lead to discussions about **WebGL** or **Blender**."],
+    "What is the significance of LEAR in LMP Forecasting?": ["LEAR stands for Localized Energy And Demand forecasting, used in predicting energy prices. **Energy markets** and **forecasting models** are related topics."]
+}

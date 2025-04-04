@@ -1,0 +1,52 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com/portfolio] Aren Desai is a BS student in Computer Science & Data Science at UW-Madison, with expertise in programming, data science, computer graphics, and robotics."
+    ],
+    "What is Aren's academic background?": [
+        "[arendesai.com/portfolio] Aren is pursuing a Bachelor of Science in Computer Science and Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."
+    ],
+    "What programming languages does Aren know?": [
+        "**Programming Languages**: Aren is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more. [Explore his projects]([arendesai.com/portfolio) to see these languages in action."
+    ],
+    "Can you tell me about Aren's work experience?": [
+        "[arendesai.com/portfolio] Aren has interned at Madison Gas & Electric (Energy Supply Intern) and Compeer Financial (Data Analytics). He also holds leadership roles in Google Developer Student Club (Finance Lead) and Wisconsin Robotics (Arm Developer)."
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience] Notable projects include the MarketSimOptimizer for MISO market simulation, LMP Forecasting using LEAR and DNN models, and a GCP-hosted website with an integrated LLM."
+    ],
+    "What graphics projects has Aren created?": [
+        "[arendesai.com/computergraphics] Projects include a Blender/Unity 3D boat model, the Book of Joe web-based portfolio game, and a CyberCity 3D cyberpunk environment."
+    ],
+    "Does Aren have experience with robotics?": [
+        "**Robotics Experience**: Yes, Aren contributed to the Wisconsin Rover Software project ([github.com/WisconsinRobotics/WRoverSoftware]) as part of his work at UW-Madison's robotics lab."
+    ],
+    "What coursework has Aren completed?": [
+        "[arendesai.com/coursework] Aren has taken advanced courses in data science, computer graphics, and robotics at UW-Madison, including topics like machine learning and software development."
+    ],
+    "How can I see Aren's resume?": [
+        "[arendesai.com/portfolio/resume.pdf] Download Aren's resume for details on his education, skills, projects, and experience. A more detailed version is available upon request."
+    ],
+    "What tools does Aren use for data science?": [
+        "**Data Science Tools**: Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras, and more. [Explore his work]([arendesai.com/datascience) to see these tools in action."
+    ],
+    "Can you tell me about Aren's leadership roles?": [
+        "[arendesai.com/portfolio] Aren serves as the Finance Lead for Google Developer Student Club and has contributed significantly to Wisconsin Robotics as an Arm Developer."
+    ],
+    "What is the MarketSimOptimizer?": [
+        "**MarketSimOptimizer**: A project by Aren to simulate MISO electricity markets. [Learn more](http://arendesai.com/datascience) about its development and applications."
+    ],
+    "How does Aren use computer graphics?": [
+        "**Computer Graphics Applications**: Aren uses Blender, Unity, and other tools for projects like the Book of Joe and CyberCity. [View his work]([arendesai.com/computergraphics)."
+    ],
+    "What is LMP Forecasting?": [
+        "**LMP Forecasting**: A project by Aren using LEAR and DNN models to predict Local Market Prices (LMPs) in energy markets. [Explore details](http://arendesai.com/datascience)."
+    ],
+    "How does Aren contribute to robotics research?": [
+        "**Robotics Contributions**: Aren works on the Wisconsin Rover Software project, focusing on software development for robotic systems. [Learn more]([github.com/WisconsinRobotics/WRoverSoftware])."
+    ],
+    "What is the Book of Joe?": [
+        "**Book of Joe**: A web-based portfolio game developed by Aren using computer graphics and interactive design. [Play it here](http://arendesai.com/computergraphics)."
+    },
+    "How can I contact Aren for collaboration?": [
+        "[arendesai.com/portfolio] Contact Aren through his portfolio website or via LinkedIn for potential collaborations in programming, data science, or robotics."
+}

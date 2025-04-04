@@ -1,0 +1,49 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com/portfolio] Learn about his education, skills, and experience",
+        "[github.com/ArenKDesai] Explore his GitHub profile for projects and code"
+    ],
+    "What is Aren's educational background?": [
+        "[arendesai.com/portfolio] BS in Computer Science & Data Science at UW-Madison (Spring 2025)"
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience] Explore his portfolio for detailed project descriptions",
+        "[github.com/ArenKDesai/MSO-README.md] MarketSimOptimizer: MISO market simulation",
+        "[github.com/ArenKDesai/LMPF-README.md] LMP Forecasting: LEAR & DNN price models"
+    ],
+    "What robotics projects is Aren involved in?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware: UW-Madison rover software",
+        "**ROS/ROS2, Gazebo**: Tools used for robotics development"
+    ],
+    "How does Aren's experience with AI relate to his work?": [
+        "[github.com/ArenKDesai/ArenWebsite] GCP Website: Hosted LLM implementation details",
+        "**AI Assistant**: Developed using GPT/Whisper technology [arendesai.com/GPT-Project]"
+    ],
+    "What leadership roles has Aren held?": [
+        "**Google Developer Student Club (Finance Lead)**: Leadership in tech communities",
+        "**Wisconsin Robotics (Arm Developer)**: Contributions to robotics projects"
+    ],
+    "Can you provide examples of Aren's academic work?": [
+        "[uwm.edu/coursework] Detailed coursework at UW-Madison",
+        "**Data Science, Computer Graphics, Robotics**: Relevant academic topics"
+    ],
+    "How can I view Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Download his resume PDF"
+    ],
+    "What tools does Aren use for data science?": [
+        "**Pandas, NumPy, PyTorch**: Core libraries he utilizes",
+        "**TensorFlow, Scikit-Learn, Keras**: Additional frameworks in his toolkit"
+    ],
+    "How did Aren get started with robotics?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Contributions to UW-Madison rover software",
+        "**ROS/ROS2, Gazebo**: Tools for robotics simulation and development"
+    ],
+    "What inspired Aren to work on the AI Assistant project?": [
+        "**GPT/Whisper Integration**: Combining NLP and speech processing [github.com/ArenKDesai/AIAssistant]",
+        "[arendesai.com/blog] Read his blog posts about AI development"
+    ],
+    "How can I stay updated with Aren's projects?": [
+        "[github.com/ArenKDesai] Follow his GitHub profile for updates",
+        "**LinkedIn**: Connect with him on professional networks [linkedin.com/in/ArenDesai]"
+    ]
+}

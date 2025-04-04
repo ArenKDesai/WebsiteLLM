@@ -1,0 +1,30 @@
+{
+    "What is Aren Desai's educational background?": ["[arendesai.com/portfolio] Education details include a BS in Computer Science & Data Science from UW-Madison (Spring 2025)."],
+    "Can you provide details about Aren's technical skills?": ["**Technical Skills**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB. **Follow-up**: Learn more about [data science tools](#) or [programming languages](#) for deeper insights."],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for MISO market simulation.",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting with LEAR & DNN models."
+    ],
+    "How does OpenGL factor into Aren's work?": ["**OpenGL**: Used in graphics projects like [Boat](github.com/ArenKDesai/Boat) and [CyberCity](arendesai.com/cybercity)."],
+    "What leadership roles has Aren held?": [
+        "**Leadership Roles**: Google Developer Student Club Finance Lead, Wisconsin Robotics Arm Developer. **Follow-up**: Explore [leadership experience](#) for more details."
+    ],
+    "What programming languages does Aren know?": ["**Languages**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB. **Follow-up**: Learn about [data science tools](#) or [graphics development](#)."],
+    "Can you tell me about Aren's project called CyberCity?": ["**CyberCity**: A 3D cyberpunk city environment project available at [arendesai.com/cybercity]."],
+    "What is the AI Assistant project that Aren developed?": [
+        "**AI Assistant**: Uses GPT and Whisper models. Available on request for more info."
+    ],
+    "What coursework has Aren completed at UW-Madison?": ["**Coursework**: Check [arendesai.com/coursework] for academic details."],
+    "How can I view Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] for a detailed version. **Follow-up**: Visit the [portfolio](#) for more resources."
+    ],
+    "What experience does Aren have with GCP?": ["**GCP Experience**: Developed a hosted website using Google Cloud Platform."],
+    "What graphics projects has Aren created using Unity?": [
+        "**Boat Project**: A 3D model using Blender and Unity available on [github.com/ArenKDesai/Boat]."
+    ],
+    "Can you explain Aren's involvement with Wisconsin Robotics?": ["**Involvement**: Worked on ROS2 software for robotic arms. **Follow-up**: Visit [Wisconsin Robotics](#) for more info."],
+    "Which machine learning models has Aren worked on?": [
+        "**Models**: Experience includes GPT and Whisper. **Follow-up**: Learn about [AI projects](#) for details."
+    ],
+    "What is the purpose of the Book of Joe project?": ["**Purpose**: A creative project showcasing Unity skills, available at [arendesai.com]."]
+}

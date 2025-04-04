@@ -1,0 +1,31 @@
+{
+    "What AI projects has Aren worked on?": "[arendesai.com] AI Assistant (GPT/Whisper) - A project involving speech recognition and language modeling. For more details, see [github.com/ArenKDesai/ArenWebsite] for the GCP-hosted LLM implementation.",
+    
+    "What technical skills does Aren have in data science?": "[pandas.pydata.org], [numpy.org], [pytorch.org], [tensorflow.org], [scikit-learn.org], and [keras.io] are key libraries he uses for data manipulation, modeling, and machine learning.",
+    
+    "What coursework has Aren completed in data science?": "[arendesai.com/coursework] includes courses like Machine Learning, Data Mining, and Statistical Methods. For details, see [github.com/ArenKDesai/academics].",
+    
+    "What graphics tools does Aren use?": "[blender.org], [unity.com], and [gazebo.org] are among the tools he uses for 3D modeling and game development, as seen in projects like [github.com/ArenKDesai/Boat].",
+    
+    "Can you explain the MarketSimOptimizer project?": "[arendesai.com/MSO-README.md] provides details on this MISO market simulation tool. It's used for optimizing energy markets and grid operations.",
+    
+    "What is Aren's experience with robotics software?": "[github.com/WisconsinRobotics/WRoverSoftware] showcases his work on the Wisconsin Rover project, focusing on ROS2 integration and autonomous navigation systems.",
+    
+    "How does Aren's resume differ from his CV?": "The [resume.pdf](arendesai.com/resume_nodetails.pdf) highlights professional experience, while the [cv.pdf](arendesai.com/cv_nodetails.pdf) includes academic achievements and detailed coursework. For a comparison, see [arendesai.com/portfolio].",
+    
+    "What programming languages does Aren know?": "[python.org], [sql.org], [r-project.org], [java.com], [csharp.net], [javascript.info], [julialang.org], and [matlab.mathworks.com] are all languages he is proficient in.",
+    
+    "Can you tell me about Aren's work with GPT/Whisper?": "[github.com/ArenKDesai/AI-projects] details his implementation of the AI assistant, focusing on speech-to-text and text generation using GPT models.",
+    
+    "What is the LMP Forecasting project about?": "[arendesai.com/LMPF-README.md] explains this initiative, which uses LEAR and DNN models to forecast electricity prices in the MISO market.",
+    
+    "Where can I see Aren's work with CyberCity?": "[arendesai.com/cybercity] showcases his 3D cyberpunk city project, built using Blender and Unity for web-based visualization.",
+    
+    "What leadership roles has Aren held?": "He served as [Finance Lead] at the Google Developer Student Club and contributed to [Wisconsin Robotics] as an Arm Developer, leading hardware integration efforts.",
+    
+    "How can I learn more about Aren's energy supply internship?": "[madisongasandelectric.com] provides details on his role in energy market analysis. For project specifics, see [arendesai.com/portfolio].",
+    
+    "What is the AI Assistant project's purpose?": "[github.com/ArenKDesai/AI-projects] explains how it leverages GPT for natural language processing and Whisper for speech recognition, creating a conversational interface.",
+    
+    "Where can I find Aren's portfolio game, Book of Joe?": "[arendesai.com/bookofjoe] offers an interactive web-based experience, showcasing his programming and design skills in game development."
+}

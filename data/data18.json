@@ -1,0 +1,48 @@
+{
+    "What is Aren Desai's educational background?": "[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science at UW-Madison, expected to graduate in Spring 2025.",
+    
+    "Can you list the technical skills Aren Desai possesses?": [
+        "**Python**", 
+        "**SQL, R, Java, C/C++/C#**, and others. See [arendesai.com/portfolio] for a detailed list."
+    ],
+    
+    "What notable data science projects has Aren worked on?": [
+        "[arendesai.com/LMPF-README.md] LMP Forecasting using LEAR & DNN models, and [arendesai.com/MSO-README.md] MarketSimOptimizer for MISO market simulation."
+    ],
+    
+    "Which graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] Boat model in Blender/Unity and [arendesai.com/bookofjoe] Book of Joe, a web-based portfolio game."
+    ],
+    
+    "How does Aren Desai contribute to robotics?": [
+        "He is involved with [github.com/WisconsinRobotics/WRoverSoftware], developing software for UW-Madison's rover project using **ROS2**."
+    ],
+    
+    "What work experience does Aren have?": [
+        "[ Madison Gas & Electric ] Energy Supply Intern and [ Compeer Financial ] Data Analytics role. See [arendesai.com/portfolio] for details."
+    ],
+    
+    "Where can I find Aren Desai's resume?": "[arendesai.com/resume_nodetails.pdf]",
+    
+    "What coursework has Aren completed in data science?": [
+        "**Data Science Methods**, **Intro to Machine Learning**, and others. See [arendesai.com/coursework] for specifics."
+    ],
+    
+    "Which programming languages does Aren know?": [
+        "**Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB**. He is also skilled in **low-level languages** like C."
+    ],
+    
+    "Can you tell me about Aren's AI/ML projects?": "[arendesai.com/AIAssistant-README.md] AI Assistant using GPT and Whisper models hosted on a GCP website."
+    
+    "What leadership roles has Aren held?": [
+        "**Google Developer Student Club Finance Lead** and contributions to **Wisconsin Robotics** as an Arm Developer."
+    ],
+    
+    "How familiar is Aren with robotics tools like ROS or Gazebo?": "He uses **ROS2** for rover software development and has experience with **Gazebo** for simulation."
+    
+    "Does Aren have experience with computer graphics libraries like OpenGL or WebGL?": "Yes, he utilized these in developing the [Boat] project."
+    
+    "What machine learning frameworks does Aren use?": "**TensorFlow, Keras, PyTorch**. See his projects on GitHub for examples."
+    
+    "How can I see examples of Aren's work in data science?": "[arendesai.com/LMPF-README.md] and [github.com/ArenKDesai/MarketSimOptimizer]."
+}

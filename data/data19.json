@@ -1,0 +1,41 @@
+{
+    "What is Aren's academic background?": [
+        "[arendesai.com/portfolio] He holds a BS in Computer Science & Data Science from UW-Madison, expected Spring 2025. **Computer Science** and **Data Science** courses are part of his curriculum."
+    ],
+    "Can you provide details about his data science projects?": [
+        "[arendesai.com/datascience/market-sim-optimizer] MarketSimOptimizer simulates market scenarios for trading strategies. [arendesai.com/datascience/lmp-forecasting] LMP Forecasting predicts locational marginal prices using machine learning."
+    ],
+    "Which programming languages does Aren know?": [
+        "Aren is proficient in Python, SQL, R, Java, C/C++, C#, JavaScript, Julia, and MATLAB. [link to skills page if available]"
+    ],
+    "What graphics projects has he worked on?": [
+        "[arendesai.com/computergraphics/unity-project] Unity project for interactive 3D environments using WebGL."
+    ],
+    "How can I view his resume or CV?": [
+        "[arendesai.com/portfolio/resume.pdf] Resume and [arendesai.com/portfolio/cv.pdf] CV available for download."
+    ],
+    "What courses has he taken in computer science?": [
+        "Courses include algorithms, data structures, AI, and systems programming. [link to coursework page]"
+    ],
+    "Has he had any significant work experiences?": [
+        "Interned at Madison Gas & Electric on energy data analysis and Compeer Financial on risk management."
+    ],
+    "Can you explain his MarketSimOptimizer project?": [
+        "[arendesai.com/datascience/market-sim-optimizer/README.md] README details its purpose in trading strategy simulation."
+    ],
+    "What about his experience with robotics?": [
+        "[arendesai.com/robotics/wisconsin-rover-software] Involvement in rover software using ROS and Gazebo."
+    ],
+    "Does he have any notable AI projects?": [
+        "Developed an AI Assistant for decision-making tasks. [link to project details]"
+    ],
+    "How does he use Python in his work?": [
+        "Uses Python for data analysis, machine learning, and software development across various projects."
+    ],
+    "What is his involvement in the Google Developer Student Club?": [
+        "As Finance Lead, he manages club finances and organizes tech events. [link to club page]"
+    ],
+    "Has he worked on any machine learning models?": [
+        "[arendesai.com/datascience/lmp-forecasting] LMP Forecasting uses neural networks for price prediction."
+    ]
+}

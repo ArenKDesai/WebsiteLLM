@@ -1,0 +1,17 @@
+{
+    "What is Aren's educational background?": ["[arendesai.com/portfolio] He is currently pursuing a BS in Computer Science & Data Science at UW-Madison, expected to graduate in Spring 2025."],
+    "Can you provide details on his technical skills?": ["**Technical Skills**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."],
+    "What data science projects has he worked on?": ["[arendesai.com/datasets] MarketSimOptimizer for MISO market simulation and LMP Forecasting using LEAR & DNN models."],
+    "Tell me about his work experience": ["[arendesai.com/portfolio#experience] Internships at Madison Gas & Electric (Energy Supply) and Compeer Financial (Data Analytics)."],
+    "What graphics projects has he created?": ["[github.com/ArenKDesai/Boat] 3D boat model, [arendesai.com/bookofjoe] portfolio game, [arendesai.com/cybercity] cyberpunk city environment."],
+    "What robotics work has he been involved in?": ["[github.com/WRoverSoftware] Contributions to autonomous vehicle software for Formula SAE."],
+    "How does Aren approach leadership?": ["**Leadership Roles**: Co-founder of UW Madison GDCS and active member of Wisconsin Robotics, integrating AI into projects."],
+    "Where can I find his resume?": ["[arendesai.com/portfolio#_resume] Downloadable PDF available for review."],
+    "What AI projects has he developed?": ["Developed GPT/Whisper AI tools, hosted on a Google Cloud Platform website."],
+    "What coursework has he completed?": ["[arendesai.com/coursework] Includes machine learning, data analysis, and software engineering courses."],
+    "Which programming languages does he know?": ["Proficient in Python, C++, Java, JavaScript, and more."],
+    "Can you explain the WRoverSoftware project?": ["Serves as the software for UW's Formula SAE car, focusing on autonomous driving systems."],
+    "What 3D modeling tools does he use?": ["Utilizes Blender, Unity, and Gazebo for 3D projects."],
+    "How did he integrate AI into web development?": ["Hosted a Google Cloud Platform website with an integrated AI language model."],
+    "Is there a general overview of Aren's profile?": ["[arendesai.com/portfolio] Summary highlighting his academic, professional, and project background."]
+}

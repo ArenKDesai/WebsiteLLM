@@ -1,0 +1,17 @@
+{
+    "What are some of Aren's most notable projects?": ["[Boat] A 3D Unity/Blender boat model project", "[Book of Joe] Web-based portfolio game", "[CyberCity] A 3D cyberpunk city environment built with Blender"],
+    "How can I learn more about Aren's academic background?": ["[Portfolio] Detailed education and coursework information", "[CV] Full curriculum vitae (arendesai.com/cv_nodetails.pdf)", "[Resume] Condensed resume (arendesai.com/resume_nodetails.pdf)"],
+    "What programming languages does Aren know?": ["[Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB] Core technical skills in software development and data science"],
+    "Can you tell me about Aren's experience with machine learning?": ["[LMP Forecasting] Price prediction models using LEAR and DNN", "[MarketSimOptimizer] MISO market simulation optimization project (arendesai.com/MSO-README.md)"],
+    "What is the AI Assistant project that Aren worked on?": ["[AI Assistant] GPT/Whisper-based assistant hosted on a GCP website (github.com/ArenKDesai/ArenWebsite)"],
+    "Where can I find Aren's professional portfolio?": ["[Portfolio] Professional overview and links to LinkedIn and GitHub profiles"],
+    "What courses has Aren taken in data science?": ["[Coursework section] UW-Madison academic coursework in data science and computer science"],
+    "How does Aren's experience with robotics stand out?": ["[WRoverSoftware] ROS2-based software for the Wisconsin Rover project (github.com/WisconsinRobotics/WRoverSoftware)"],
+    "What tools does Aren use for graphics development?": ["[OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2] Graphics and robotics software stack"],
+    "Tell me about Aren's leadership roles.": ["[Google Developer Student Club] Finance Lead", "[Wisconsin Robotics] Arm Developer role in a team setting"],
+    "What is the difference between a CV and resume?": ["[Portfolio] CV (cv_nodetails.pdf) for detailed academic and professional history; Resume (resume_nodetails.pdf) for concise job-specific details"],
+    "Can you provide examples of Aren's data science projects?": ["[LMP Forecasting] Predictive pricing models", "[MarketSimOptimizer] Market simulation optimization tools (MSO-README.md)"],
+    "What is the focus of Aren's undergraduate research?": ["[UW-Madison] Research in computer science and data science, with a focus on AI applications"],
+    "How can I contact Aren for collaboration?": ["[Portfolio] LinkedIn profile for professional inquiries", "[GitHub] Open-source project repositories for collaboration"],
+    "What is the Book of Joe project about?": ["[Book of Joe] A web-based interactive portfolio game showcasing creativity and technical skills"]
+}

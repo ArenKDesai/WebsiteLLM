@@ -1,0 +1,47 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com/portfolio] He is a Computer Science & Data Science BS student at UW-Madison with experience in AI, robotics, and data science."
+    ],
+    "What are Aren's academic achievements?": [
+        "[arendesai.com/portfolio/resume.pdf] He has earned coursework in machine learning, computer graphics, and algorithms."
+    ],
+    "Can you summarize Aren's professional background?": [
+        "[arendesai.com/portfolio] Aspiring data scientist with internships at Madison Gas & Electric and Compeer Financial."
+    ],
+    "What programming languages does Aren know?": [
+        "[arendesai.com/About] He is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more."
+    ],
+    "What tools does Aren use for data science?": [
+        "[arendesai.com/datascience] Tools include Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras, and GCP."
+    ],
+    "Tell me about Aren's portfolio projects": [
+        "[arendesai.com/portfolio] Highlights include MarketSimOptimizer for MISO simulation and a GCP-hosted LLM website."
+    ],
+    "What graphics projects has Aren worked on?": [
+        "[arendesai.com/computergraphics] Projects include a 3D cyberpunk city and a web-based portfolio game called Book of Joe."
+    ],
+    "Can you explain Aren's work with robotics?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] He contributed to the Wisconsin Rover project using ROS2."
+    ],
+    "What is Aren's experience with AI?": [
+        "[arendesai.com/About] He built an AI Assistant using GPT and Whisper, showcasing his expertise in NLP and speech recognition."
+    ],
+    "How does Aren use Python professionally?": [
+        "[arendesai.com/datascience] He applies Python for data analysis, machine learning, and AI development."
+    ],
+    "What is the MarketSimOptimizer project?": [
+        "[arendesai.com/MSO-README.md] It's a tool to simulate market behavior in energy markets using MISO data."
+    ],
+    "How can I learn about Aren's resume details?": [
+        "[arendesai.com/portfolio/resume.pdf] Download his resume for detailed professional and academic information."
+    ],
+    "What leadership roles has Aren held?": [
+        "[arendesai.com/About] He served as Finance Lead for Google Developer Student Club and worked with ROS in Wisconsin Robotics."
+    ],
+    "What is Aren's experience with cloud technologies?": [
+        "[github.com/ArenKDesai/ArenWebsite] He built a website using GCP, demonstrating his skills in cloud hosting and deployment."
+    },
+    "How does Aren apply machine learning?": [
+        "[arendesai.com/datascience/LMPF-README.md] He uses DNN models for LMP forecasting, showing his expertise in energy market analytics."
+    ]
+}

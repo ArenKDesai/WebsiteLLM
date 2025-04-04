@@ -1,0 +1,19 @@
+{
+    "What can you tell me about Aren Desai?": ["[arendesai.com/portfolio] Learn about his education, skills, and experience.", "[arendesai.com/about] Explore his background in computer science and data science."],
+    "What educational background does Aren have?": ["[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science at UW-Madison (Spring 2025)."],
+    "What programming languages does Aren know?": ["[arendesai.com/technical-skills]熟练掌握Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB."],
+    "What data science tools and libraries is Aren familiar with?": ["[arendesai.com/datascience] He uses Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."],
+    "Can you tell me about Aren's graphics projects?": ["[github.com/ArenKDesai/Boat] Created a 3D boat model using Blender and Unity.", "[arendesai.com/cybercity] Developed a cyberpunk city environment in 3D."],
+    "What robotics work has Aren been involved in?": ["[github.com/WisconsinRobotics/WRoverSoftware] Contributed to the Wisconsin Rover project using ROS2."],
+    "Where can I find Aren's resume or CV?": ["[arendesai.com/resume.pdf] Download his resume with minimal details.", "[arendesai.com/cv.pdf] Access his comprehensive CV (CV_nodetails.pdf)."],
+    "What are some of Aren's recent projects?": ["[github.com/ArenKDesai/AI-projects] Explore his latest AI-related work, including GPT and Whisper implementations."],
+    "What leadership roles has Aren held?": ["[google.com/developer-student-clubs] Served as Finance Lead for Google Developer Student Club at UW-Madison.", "[github.com/WisconsinRobotics] Acted as Arm Developer for Wisconsin Robotics team."],
+    "How can I see examples of Aren's data science work?": ["[arendesai.com/datascience/MarketSimOptimizer] Check out his MarketSimOptimizer project on MISO market simulation.", "[arendesai.com/datascience/LMP-Forecasting] Review his LMP Forecasting models using LEAR and DNN."],
+    "What courses has Aren taken in data science?": ["[arendesai.com/coursework] 查看他完成的 UW-Madison 数据科学相关课程，包括机器学习、统计推断等。"],
+    "Does Aren have experience with machine learning frameworks?": ["[arendesai.com/datascience] He has worked with PyTorch and TensorFlow for various projects."],
+    "What graphics libraries does Aren know?": ["[github.com/ArenKDesai/graphics-projects] 熟悉OpenGL, WebGL, Unity, Blender等工具和技术栈。"],
+    "How can I learn more about Aren's energy supply internship?": ["[linkedin.com/company/madison-gas-electric] 查看他 在 Madison Gas & Electric 的能源供应实习经历。"],
+    "What is the purpose of the Book of Joe project?": ["[arendesai.com/bookofjoe] A web-based portfolio game showcasing his development skills."],
+    "How did Aren contribute to the Wisconsin Rover project?": ["[github.com/WisconsinRobotics/WRoverSoftware] 他负责软件开发和 ROS2 集成工作。"],
+    "What is Aren's experience with cloud technologies?": ["[github.com/ArenKDesai/ArenWebsite] He built a website hosted on Google Cloud Platform (GCP)."]
+}

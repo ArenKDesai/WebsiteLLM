@@ -1,0 +1,50 @@
+{
+    "What is your background?": ["[arendesai.com/portfolio] Professional overview including education, projects, and experience"],
+    "Can you tell me about Aren's education?": ["[arendesai.com/resume_nodetails.pdf] BS in Computer Science & Data Science at UW-Madison (Spring 2025)"],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer for MISO market simulation",
+        "[arendesai.com/LMPF-README.md] LMP Forecasting with LEAR & DNN models"
+    ],
+    "What are Aren's technical skills?": [
+        "**Programming Languages**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB",
+        "**Data Science Tools**: Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras",
+        "**Graphics & Robotics Tools**: OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2"
+    ],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] Boat - 3D model in Blender/Unity",
+        "[arendesai.com/bookofjoe] Book of Joe - Web-based portfolio game",
+        "[arendesai.com/cybercity] CyberCity - 3D cyberpunk environment"
+    ],
+    "Can you tell me about the WRoverSoftware project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Wisconsin Rover software developed at UW-Madison"
+    ],
+    "What is Aren's work experience?": [
+        "Madison Gas & Electric - Energy Supply Intern",
+        "Compeer Financial - Data Analytics role"
+    ],
+    "Tell me about the AI Assistant project.": ["[github.com/ArenKDesai/ArenWebsite] GPT/Whisper-based AI assistant hosted on GCP"],
+    "What courses has Aren taken in data science?": [
+        "Data Science Methods",
+        "Machine Learning",
+        "Statistical Computing"
+    ],
+    "How can I see Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Download resume",
+        "[arendesai.com/cv_nodetails.pdf] Download CV"
+    ],
+    "What is your favorite programming language?": [
+        "**Python** for its versatility and extensive libraries; used in data science and AI projects"
+    ],
+    "Which data visualization tools do you use?": [
+        "Matplotlib, Seaborn, Plotly for data analysis and visualization tasks"
+    ],
+    "What are your future career goals?": [
+        "**AI/ML Research**, **Robotics Development** - focusing on innovative technologies and leadership roles"
+    ],
+    "Tell me about the CyberCity project.": [
+        "3D cyberpunk city environment created using Blender, Unity, and modern graphics techniques"
+    ],
+    "How can others collaborate with you?": [
+        "Connect via LinkedIn or email for potential collaborations in AI/ML or robotics"
+    ]
+}

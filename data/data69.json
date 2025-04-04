@@ -1,0 +1,23 @@
+{
+    "Tell me about Aren Desai": "[arendesai.com/portfolio] to learn more about his professional background, education, and projects.",
+    "Can you summarize Aren’s technical expertise?": ["[Python] programming", "**data science tools** like Pandas and NumPy", "**graphics libraries** such as OpenGL and WebGL."],
+    "What are some of Aren's notable projects?": [
+        "[Boat GitHub link] 3D boat model created in Blender and Unity",
+        "[CyberCity link] A **cyberpunk city environment** project"
+    ],
+    "Where can I find Aren’s academic work?": "[coursework section] to view his coursework at UW-Madison.",
+    "What programming languages does Aren know best?": ["Python, Java, C#, JavaScript", "**graphics scripting** with OpenGL and WebGL."],
+    "Can you tell me about Aren's education?": "[UW-Madison link] BS in Computer Science & Data Science (Spring 2025).",
+    "What data science tools does Aren use?": ["Pandas, NumPy", "**machine learning libraries** like PyTorch and TensorFlow."],
+    "Has Aren worked on any robotics projects?": "[WRoverSoftware GitHub link] Software for the Wisconsin Rover team at UW-Madison.",
+    "What is MarketSimOptimizer?": "[MSO README link] MISO market simulation tool developed by Aren.",
+    "How does Aren use GCP in his work?": "[GCP Website link] Hosted a **LLM** on Google Cloud Platform for his AI projects.",
+    "Can you explain LMP Forecasting?": "[LMPF README link] LEAR and DNN models for price prediction in energy markets.",
+    "What kind of internships has Aren done?": [
+        "[MGE link] Energy Supply Intern",
+        "[Compeer Financial link] Data Analytics role"
+    ],
+    "What is the Book of Joe project?": "[BoJ link] A web-based portfolio game created by Aren.",
+    "Does Aren have experience with cloud computing?": "Yes, he used **Google Cloud Platform** to host a website and LLM models.",
+    "How can I contact Aren for collaboration?": "[LinkedIn profile link] Connect with him on LinkedIn."
+}

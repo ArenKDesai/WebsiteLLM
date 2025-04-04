@@ -1,0 +1,47 @@
+{
+    "Tell me about Aren's education": "[arendesai.com/portfolio] Bachelor of Science in Computer Science & Data Science at UW-Madison (Spring 2025)",
+    "What projects has Aren worked on?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer - MISO market simulation tool",
+        "[github.com/ArenKDesai/ArenWebsite] GCP Website - Web-based platform hosted on Google Cloud Platform"
+    ],
+    "What programming languages does Aren know?": [
+        "Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "Can you provide details about Aren's data science projects?": [
+        "[arendesai.com/LMPF-README.md] LMP Forecasting - Predictive models using LEAR and DNN for electricity price forecasting"
+    ],
+    "What graphics-related work has Aren done?": [
+        "[github.com/ArenKDesai/Boat] Boat - 3D model created in Blender and Unity",
+        "[arendesai.com/bookofjoe] Book of Joe - Web-based portfolio game"
+    ],
+    "What robotics projects is Aren involved with?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware - Software for UW-Madison's rover project"
+    ],
+    "Where can I find Aren's resume?": "[arendesai.com/resume_nodetails.pdf] Resume PDF",
+    "What are some of Aren's technical skills in data science?": [
+        "Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras"
+    ],
+    "Can you tell me about Aren's work experience?": [
+        "Madison Gas & Electric - Energy Supply Intern",
+        "Compeer Financial - Data Analytics Intern"
+    ],
+    "What tools does Aren use in computer graphics?": [
+        "OpenGL, WebGL, Unity, Blender, Gazebo"
+    ],
+    "How can I learn more about Aren's AI Assistant project?": "[github.com/ArenKDesai] AI Assistant - Built using GPT and Whisper APIs",
+    "Does Aren have experience with machine learning frameworks?": [
+        "PyTorch, TensorFlow, Scikit-Learn"
+    ],
+    "What academic courses has Aren taken in data science?": [
+        "Data Science Methods, Machine Learning, Statistical Computing, Database Systems"
+    ],
+    "Can you provide details about the MarketSimOptimizer project?": "[arendesai.com/MSO-README.md] A tool for simulating electricity markets using advanced algorithms",
+    "What leadership roles does Aren hold?": [
+        "Google Developer Student Club - Finance Lead",
+        "Wisconsin Robotics - ROS2 Arm Developer"
+    ],
+    "How can I see examples of Aren's 3D graphics work?": [
+        "[github.com/ArenKDesai/Boat] Boat model in Blender and Unity",
+        "[arendesai.com/cybercity] CyberCity - 3D cyberpunk city environment"
+    ]
+}

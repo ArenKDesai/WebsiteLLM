@@ -1,0 +1,17 @@
+{
+    "What degrees is Aren Desai pursuing?": ["[arendesai.com/portfolio] BS in Computer Science & Data Science at UW-Madison (Spring 2025)", "**data science** and **computer science**"],
+    "Can you explain how Aren got started with data science?": ["[arendesai.com/datascience/LMPF-README.md] Began with coursework in statistics and programming, leading to projects like LMP Forecasting", "**coursework** and **projects**"],
+    "What tools does Aren use for machine learning?": ["[Pandas, NumPy, PyTorch, TensorFlow] Includes libraries like Scikit-Learn and Keras", "**machine learning** and **tools**"],
+    "How did Aren's internship at Madison Gas & Electric impact their career?": ["[arendesai.com/portfolio#experience] Gained experience in energy supply analysis and data analytics techniques", "**internships** and **experience**"],
+    "What 3D modeling tools does Aren know?": ["[Blender, Unity, OpenGL, WebGL] Used for projects like the Boat model and CyberCity environment", "**graphics** and **3D modeling**"],
+    "Tell me about Aren's role in the Google Developer Student Club.": ["[arendesai.com/portfolio#leadership] Served as Finance Lead, organizing workshops and events", "**leadership** and **clubs**"],
+    "What is MarketSimOptimizer?": ["[arendesai.com/datascience/MSO-README.md] MISO market simulation tool for energy markets", "**energy markets** and **projects**"],
+    "How does Aren approach problem-solving in robotics?": ["[arendesai.com/portfolio#robotics] Uses ROS2 and Gazebo for software development on the Wisconsin Rover project", "**robotics** and **problem-solving**"],
+    "What inspired Aren to work on the Book of Joe game?": ["[arendesai.com/computergraphics/bookofjoe] A web-based portfolio game showcasing development skills", "**games** and **projects**"],
+    "Which cloud platforms has Aren worked with?": ["[Google Cloud Platform (GCP)] Hosted a website using GCP services", "**cloud computing** and **GCP**"],
+    "What courses has Aren taken in data science at UW-Madison?": ["[arendesai.com/coursework] Includes AI, Machine Learning, and Data Analysis", "**coursework** and **data science**"],
+    "How can I stay updated on Aren's latest projects?": ["[github.com/ArenKDesai] Follow Aren's GitHub profile for updates", "**GitHub** and **projects**"],
+    "What programming languages does Aren know besides Python?": ["[C/C++, Java, JavaScript, Julia, MATLAB] Skilled in multiple programming languages", "**programming languages**"],
+    "Can you describe the AI Assistant project?": ["[github.com/ArenKDesai/AI-Whisper] Uses GPT and Whisper APIs for text-to-speech conversion", "**AI** and **projects**"],
+    "How did Aren's experience at Compeer Financial shape their skills?": ["[arendesai.com/portfolio#experience] Worked on data analytics projects, enhancing SQL and R skills", "**internships** and **skills**"]
+}

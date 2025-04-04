@@ -1,0 +1,49 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com] General overview of Aren's professional background, education, skills, and projects."
+    ],
+    "What is Aren's educational background?": [
+        "[arendesai.com/portfolio] Computer Science & Data Science BS at UW-Madison (Spring 2025)"
+    ],
+    "Can you list Aren's technical skills?": [
+        "[arendesai.com/portfolio] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for MISO market simulation",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting with LEAR & DNN models"
+    ],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] 3D boat model in Blender/Unity",
+        "[arendesai.com/bookofjoe] Web-based portfolio game"
+    ],
+    "How is Aren involved in robotics?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Software development for UW-Madison rover project"
+    ],
+    "What coursework has Aren completed?": [
+        "[arendesai.com/coursework] Academic courses at UW-Madison related to data science and computer graphics"
+    ],
+    "Does Aren have experience with machine learning?": [
+        "[github.com/ArenKDesai/ArenWebsite] GCP-hosted LLM project for website implementation"
+    ],
+    "What programming languages does Aren know?": [
+        "[arendesai.com/portfolio] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "Can you tell me about Aren's work experience?": [
+        "[arendesai.com/portfolio] Madison Gas & Electric (Energy Supply Intern), Compeer Financial (Data Analytics)"
+    ],
+    "How can I view Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Downloadable PDF of Aren's resume"
+    ],
+    "What AI projects has Aren worked on?": [
+        "[github.com/ArenKDesai/AIAssistant] GPT/Whisper-based AI Assistant project"
+    ],
+    "What 3D modeling tools does Aren use?": [
+        "**Blender** and **Unity** for graphics projects like the Boat model"
+    ],
+    "Can you explain Aren's involvement with Wisconsin Robotics?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Software development for rover project at UW-Madison"
+    ],
+    "What is the CyberCity project about?": [
+        "[arendesai.com/cybercity] 3D cyberpunk city environment created by Aren"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "What universities has Aren attended?": ["[arendesai.com/portfolio] University of Wisconsin-Madison, pursuing a BS in Computer Science & Data Science."],
+    "Can you tell me about Aren's technical skills?": [
+        "[arendesai.com/portfolio] Skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience] Projects include MarketSimOptimizer for MISO simulation and LMP Forecasting using LEAR & DNN models."
+    ],
+    "What graphics projects has Aren created?": [
+        "[arendesai.com/computergraphics] Features include a 3D boat model and the Book of Joe portfolio game."
+    ],
+    "What robotics work has Aren done?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Contributions to Wisconsin Rover software using ROS2."
+    ],
+    "What coursework has Aren completed?": [
+        "[arendesai.com/coursework] Includes data science, computer graphics, and machine learning courses at UW-Madison."
+    ],
+    "How can I view Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Download from the portfolio section."
+    ],
+    "Tell me about the AI Assistant project.": [
+        "[github.com/ArenKDesai/AIAssistant] Combines GPT and Whisper for text and speech interactions."
+    ],
+    "What leadership roles does Aren hold?": [
+        "[arendesai.com/portfolio] Finance Lead at Google Developer Student Club and contributions to Wisconsin Robotics."
+    ],
+    "What is Aren's experience with data analytics?": [
+        "[compeerfinancial.com] Interned at Compeer Financial, applying SQL and Python for data analysis."
+    ],
+    "Can you explain the WRoverSoftware project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] ROS2-based software for UW-Madison's rover project."
+    ],
+    "Which programming languages does Aren know?": [
+        "[arendesai.com/portfolio] Proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB."
+    ],
+    "What are Aren's career goals?": [
+        "[arendesai.com/portfolio] Focus on AI, data science, and robotics roles in tech or automotive industries."
+    ],
+    "What tools and technologies does Aren use in data science?": [
+        "[arendesai.com/datascience] Uses Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras for projects."
+    ],
+    "Does Aren contribute to open-source projects?": [
+        "[github.com/ArenKDesai] Contributions include the AI Assistant and collaboration on WRoverSoftware."
+    ]
+}

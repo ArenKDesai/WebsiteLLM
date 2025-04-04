@@ -1,0 +1,18 @@
+{
+    "Tell me about Aren Desai": ["[arendesai.com/portfolio] Learn about his education, skills, and experience. He is a Computer Science & Data Science BS student at UW-Madison.", "**Explore more about his projects** to see his work in data science, graphics, and robotics."],
+    "What is Aren's educational background?": ["[arendesai.com/portfolio] He is pursuing a BS in Computer Science and Data Science at UW-Madison, expected Spring 2025.", "**Check his coursework** for details on relevant academic experiences."],
+    "Can you list some of Aren's technical skills?": ["He knows Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more. [github.com/ArenKDesai] Explore his repositories for examples.", "**Learn about his data science tools** like Pandas and PyTorch."],
+    "What are some of Aren's notable projects?": ["[arendesai.com/portfolio] Projects include MarketSimOptimizer, Book of Joe, and Wisconsin Rover software. [github.com/ArenKDesai/Boat] Check out 3D graphics work too.", "**Discover more about his AI work** in the GPT/Whisper project."],
+    "Does Aren have experience with machine learning?": ["Yes, he has worked on LEAR & DNN price models. [arendesai.com/LMPF-README.md] Learn about his forecasting methods.", "**Explore his data science projects** for more ML insights."],
+    "What programming languages does Aren know?": ["He is proficient in Python, SQL, R, Java, and others. [github.com/ArenKDesai] Find code examples in various languages.", "**Check his technical skills** for a complete list."],
+    "Can you tell me about Aren's work experience?": ["He interned at Madison Gas & Electric and worked at Compeer Financial. [linkedin.com/in/ArenDesai] View detailed roles.", "**Read his resume** for full professional history."],
+    "What graphics projects has Aren created?": ["[github.com/ArenKDesai/Boat] A 3D boat model, and [arendesai.com/bookofjoe] a web-based game. He also worked on CyberCity.", "**Explore his computergraphics portfolio** for more details."],
+    "What robotics work has Aren been involved in?": ["He contributed to the Wisconsin Rover project at UW-Madison. [github.com/WisconsinRobotics/WRoverSoftware] Learn about ROS2 integration.", "**Follow his robotics projects** for updates and documentation."],
+    "What AI tools does Aren use?": ["He uses GPT, Whisper, PyTorch, TensorFlow, and Keras. [github.com/ArenKDesai/AI-Tools] Explore his AI-related repositories.", "**Discover more about his AI projects** on GitHub."],
+    "How can I contact Aren for collaboration?": ["[gmail.com/@ArenKD] Send an email to connect. He is open to opportunities in data science and robotics.", "**Follow his LinkedIn profile** to stay updated."],
+    "What courses has Aren taken in data science?": ["He completed AI/ML, statistics, and software development courses at UW-Madison. [github.com/ArenKDesai/coursework] View relevant materials.", "**Explore his academic journey** through course notes."],
+    "Where can I find Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Download it from his portfolio site. A detailed version is available upon request.", "**Check his LinkedIn profile** for a professional summary."],
+    "What advice does Aren have for students?": ["He recommends learning fundamentals, exploring projects, and staying curious. [.medium/ArenDesai] Read his insights on tech topics.", "**Follow his journey** through blog posts and tutorials."],
+    "Has Aren contributed to open-source projects?": ["Yes, he has worked on public repositories. [github.com/ArenKDesai] Explore his contributions.", "**Support his work** by giving stars to his projects."]
+
+}

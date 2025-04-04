@@ -1,0 +1,43 @@
+{
+    "What is Aren Desai known for?": ["[arendesai.com/portfolio] He is a computer science and data science student at UW-Madison with expertise in AI, robotics, and graphics."],
+    "What are some of Aren's notable projects?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer for energy market simulation",
+        "[github.com/ArenKDesai/ArenWebsite] GCP-hosted LLM website"
+    ],
+    "Can you tell me about his education background?": ["[arendesai.com/portfolio] BS in Computer Science & Data Science at UW-Madison (Spring 2025)."],
+    "What technical skills does Aren have?": [
+        "**Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB** for programming.",
+        "**OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2** for graphics and robotics."
+    ],
+    "How does he apply his skills in data science?": [
+        "[arendesai.com/LMPF-README.md] Uses LEAR & DNN models for LMP forecasting.",
+        "**Pandas, NumPy, PyTorch, TensorFlow** for data analysis and machine learning."
+    ],
+    "What graphics projects has he worked on?": [
+        "[github.com/ArenKDesai/Boat] 3D boat model in Blender/Unity",
+        "[arendesai.com/cybercity] Cyberpunk city environment"
+    ],
+    "What is his AI Assistant project about?": [
+        "[github.com/ArenKDesai/AIAssistant] Uses GPT and Whisper models for natural interactions."
+    ],
+    "Can you share more about his robotics work?": ["[github.com/WisconsinRobotics/WRoverSoftware] Software development for UW-Madison's rover project."],
+    "What coursework has he completed?": [
+        "[arendesai.com/coursework] Advanced algorithms, machine learning, computer graphics."
+    ],
+    "Where can I find his resume?": ["[arendesai.com/resume_nodetails.pdf] Download his concise resume here."],
+    "What leadership roles does Aren hold?": [
+        "**Google Developer Student Club (Finance Lead)** at UW-Madison.",
+        "**Wisconsin Robotics (Arm Developer)** for rover software."
+    ],
+    "How can I contact him?": ["[arendesai.com/contact] Visit the contact page for details."],
+    "What industries has he interned in?": [
+        "[madisongasandelectric.com] Energy supply at Madison Gas & Electric.",
+        "[compeerfinancial.com] Data analytics at Compeer Financial."
+    ],
+    "Can you explain his MarketSimOptimizer project?": [
+        "[arendesai.com/MSO-README.md] Simulates energy markets for optimization studies."
+    ],
+    "What AI frameworks does he use?": [
+        "**Hugging Face, TensorFlow, PyTorch** for model development and integration."
+    ]
+}

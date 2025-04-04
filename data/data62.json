@@ -1,0 +1,17 @@
+{
+    "Tell me about Aren's education": "[/portfolio] Education details including BS in Computer Science & Data Science at UW-Madison (Spring 2025)",
+    "What programming languages does Aren know?": ["[Python](https://www.python.org)", "[SQL](https://www.postgresql.org)", "[R](https://www.r-project.org), [Java](https://www.java.com), [C/C++/C#](https://www.microsoft.com/en-us/microsoft-365/visual-c-redistributable-files), [JavaScript](https://www.javascript.info), and [Julia](https://julialang.org)"],
+    "What data science projects has Aren worked on?": ["[/datascience/MarketSimOptimizer] MISO market simulation project", "[/datascience/LMP Forecasting] LEAR & DNN price models"],
+    "Can you tell me about Aren's technical skills?": ["[Python](https://www.python.org)", "[SQL](https://www.postgresql.org)", "[R](https://www.r-project.org), [Java](https://www.java.com), [C/C++/C#](https://www.microsoft.com/en-us/microsoft-365/visual-c-redistributable-files), [JavaScript](https://www.javascript.info), and [Julia](https://julialang.org) for programming. **Data science tools** include Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras"],
+    "What graphics projects has Aren created?": ["[/computergraphics/Boat] Blender/Unity 3D boat model", "[/computergraphics/Book of Joe] Web-based portfolio game"],
+    "Tell me about Aren's work experience": "[Madison Gas & Electric](https://www.mge.com) (Energy Supply Intern), [Compeer Financial](https://www.compeershield.com) (Data Analytics)",
+    "What is the WRoverSoftware project?": "[/robotics/WRoverSoftware] UW-Madison rover software developed for robotic operations",
+    "What leadership roles does Aren have?": "[Google Developer Student Club (Finance Lead)](https://gdsc.withgoogle.com), [Wisconsin Robotics](http://wisconsinrobotics.org) (Arm Developer)",
+    "How can I see Aren's resume?": "[/portfolio/resume.pdf] Downloadable PDF with summary details",
+    "What courses has Aren taken in data science?": "[UW-Madison coursework](https://arendesai.com/coursework) including relevant data science modules",
+    "Does Aren have experience with AI development?": "[AI Assistant project](https://github.com/ArenKDesai/AIAssistant) using GPT and Whisper models for NLP tasks",
+    "What 3D graphics tools does Aren use?": "[Blender](https://www.blender.org), [Unity](https://unity.com), [OpenGL](https://www.opengl.org), [WebGL](https://webgl.org)",
+    "Can you provide details about **data science** projects?": ["[/datascience/MarketSimOptimizer] MISO market simulation", "[/datascience/LMP Forecasting] Predictive modeling with LEAR & DNN"],
+    "How can I access Aren's portfolio?": "[/portfolio] Full portfolio showcasing work and achievements",
+    "What are Aren's future academic goals?": "**PhD in Data Science** focusing on advanced AI and machine learning applications"
+}

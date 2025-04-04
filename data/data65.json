@@ -1,0 +1,33 @@
+{
+    "What is Aren's educational background?": "[arendesai.com/resume_nodetails.pdf] He holds a BS in Computer Science & Data Science from UW-Madison, expected Spring 2025. **Education**",
+    "What are some of Aren's notable projects?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer for MISO market simulation.",
+        "[arendesai.com/LMPF-README.md] LMP Forecasting project using LEAR and DNN models."
+    ],
+    "Can you tell me about Aren's technical skills?": "[arendesai.com] Skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB for programming; OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2 for graphics and robotics.",
+    "Does Aren have experience in data science?": [
+        "[arendesai.com/datascience] Projects include AI Assistant (GPT/Whisper) and Wisconsin Rover software."
+    ],
+    "What programming languages does Aren know?": "Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB.",
+    "What graphics-related work has Aren done?": [
+        "[github.com/ArenKDesai/Boat] 3D boat model using Blender and Unity.",
+        "[arendesai.com/cybercity] Cyberpunk city environment."
+    ],
+    "Tell me about Aren's robotics experience.": "[github.com/WisconsinRobotics/WRoverSoftware] Developed software for UW-Madison rover.",
+    "Where can I find Aren's resume and portfolio?": [
+        "[arendesai.com/portfolio] Professional overview and links.",
+        "[arendesai.com/resume_nodetails.pdf] Detailed resume."
+    ],
+    "What coursework has Aren completed?": "Relevant courses include machine learning, algorithms, and data structures at UW-Madison.",
+    "Has Aren worked on any AI projects?": "[arendesai.com/datascience] AI Assistant using GPT/Whisper technology.",
+    "Can you provide more details about the MarketSimOptimizer project?": "[arendesai.com/MSO-README.md] Simulates energy markets for better understanding of pricing dynamics.",
+    "How does Aren approach problem-solving?": "[github.com/ArenKDesai] Repositories showcase his methodical and innovative approach to coding challenges.",
+    "What leadership roles has Aren taken?": [
+        "**Leadership** at Google Developer Student Club and Wisconsin Robotics.",
+        "[linkedin.com/in/arenk]" for more details.
+    ],
+    "Does Aren have experience with machine learning frameworks?": "Experienced with PyTorch, TensorFlow, Keras, and scikit-learn.",
+    "Where can I learn about Aren's data science projects?": [
+        "[arendesai.com/datascience] AI Assistant and MarketSimOptimizer."
+    ]
+}

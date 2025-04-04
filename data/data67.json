@@ -1,0 +1,17 @@
+{
+    "Tell me about Aren Desai": "[/portfolio] Overview of professional background, education, and projects.",
+    "What is Aren's educational background?": "[/portfolio] BS in Computer Science & Data Science at UW-Madison (Spring 2025).",
+    "Can you provide details about Aren's technical skills?": ["Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB", "**Computer Graphics** tools like OpenGL, WebGL, Unity, Blender.", "**Robotics** expertise with ROS/ROS2 and Gazebo."],
+    "What data science projects has Aren worked on?": ["[/datascience/MarketSimOptimizer] MISO market simulation project.", "[/datascience/LMP Forecasting] LEAR & DNN price models for energy forecasting."],
+    "Does Aren have experience with machine learning?": ["Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras", "**AI Assistant** built using GPT and Whisper models."],
+    "What programming languages does Aren know?": ["Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Tell me about Aren's work experience": ["Madison Gas & Electric (Energy Supply Intern)", "Compeer Financial (Data Analytics)"],
+    "What is the WRoverSoftware project?": "[/robotics/WRoverSoftware] UW-Madison rover software developed for robotic research.",
+    "What graphics projects has Aren created?": ["[/computergraphics/Boat] Blender/Unity 3D boat model.", "[/computergraphics/CyberCity] 3D cyberpunk city environment."],
+    "How can I view Aren's resume?": ["arendesai.com/resume_nodetails.pdf", "arendesai.com/cv_nodetails.pdf"],
+    "What coursework has Aren completed at UW-Madison?": "[/coursework] Detailed academic records available online.",
+    "Can you tell me about Aren's leadership roles?": ["Google Developer Student Club (Finance Lead)", "Wisconsin Robotics (Arm Developer)"],
+    "Does Aren have experience with AI and machine learning tools?": ["GPT, Whisper", "AI Assistant developed using cutting-edge ML models."],
+    "What resources does Aren use for data science?": ["Pandas, NumPy, PyTorch, TensorFlow", "**Data Science** projects available on GitHub and personal website."],
+    "Is there a portfolio of Aren's work online?": "[/portfolio] Comprehensive portfolio with links to projects and downloads."
+}

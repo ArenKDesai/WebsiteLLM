@@ -1,0 +1,49 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com/resume_nodetails.pdf] He is a Computer Science & Data Science BS student at UW-Madison with a focus on AI, robotics, and computer graphics."
+    ],
+    "What is your background?": [
+        "[arendesai.com/portfolio] Aren Desai is a fourth-year undergraduate student with expertise in **data science**, **robotics**, and **computer graphics**."
+    ],
+    "What projects have you worked on?": [
+        "[github.com/ArenKDesai/ArenWebsite] AI Assistant (GPT/Whisper), WRoverSoftware, CyberCity, Book of Joe, Boat"
+    ],
+    "Can you tell me about your education?": [
+        "[arendesai.com/resume_nodetails.pdf] BS in Computer Science & Data Science at UW-Madison (Spring 2025)"
+    ],
+    "What technical skills do you have?": [
+        "[github.com/ArenKDesai] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "What data science projects have you worked on?": [
+        "[arendesai.com/LMPF-README.md] LMP Forecasting (LEAR & DNN price models)",
+        "[github.com/ArenKDesai/ArenWebsite] MarketSimOptimizer (MISO market simulation)"
+    ],
+    "What graphics projects have you created?": [
+        "[github.com/ArenKDesai/Boat] Boat (Blender/Unity 3D model)",
+        "[arendesai.com/cybercity] CyberCity (3D cyberpunk city environment)"
+    ],
+    "Tell me about your robotics work": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware (UW-Madison rover project)"
+    ],
+    "What coursework have you taken?": [
+        "[arendesai.com/coursework] Data Structures, Algorithms, Machine Learning, Computer Graphics"
+    ],
+    "How can I see your resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Resume and CV available for download."
+    ],
+    "What is your experience with AI?": [
+        "[github.com/ArenKDesai/ArenWebsite] Developed an AI Assistant using GPT and Whisper models on a GCP-hosted website."
+    ],
+    "Do you have any open-source contributions?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Contributed to WRoverSoftware for UW-Madison robotics team."
+    ],
+    "What is your leadership experience?": [
+        "**Google Developer Student Club** (Finance Lead) and **Wisconsin Robotics** (Arm Developer)"
+    ],
+    "How do you use Python in data science?": [
+        "[github.com/ArenKDesai] Pandas, NumPy, PyTorch, TensorFlow for data analysis and machine learning."
+    ],
+    "Can you explain your work with Unity?": [
+        "[github.com/ArenKDesai/Boat] Created a 3D boat model in Unity for the **CyberCity** project."
+    ]
+}

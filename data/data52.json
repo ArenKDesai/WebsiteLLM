@@ -1,0 +1,18 @@
+{
+    "What is Aren's academic background?": ["[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science at UW-Madison, expected Spring 2025. **Data science** and **robotics** are his primary areas of focus, offering insights into both technical and interdisciplinary applications."],
+    "Can you provide details about Aren's technical skills?": ["[arendesai.com/portfolio] His skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras, and more. **Programming** and **data science tools** are key areas of expertise."],
+    "What projects has Aren worked on in data science?": ["[arendesai.com/datascience] Notable projects include the MarketSimOptimizer for MISO market simulation and LMP Forecasting using LEAR & DNN models. **Data analysis** and **market modeling** are highlighted here."],
+    "Does Aren have experience with machine learning frameworks?": ["Yes, he has experience with PyTorch, TensorFlow, Scikit-Learn, Keras, and more. For details, visit [arendesai.com/datascience]. **Machine learning** applications in energy markets are a focus area."],
+    "What tools does Aren use for computer graphics?": ["[arendesai.com/computergraphics] He uses OpenGL, WebGL, Unity, Blender, and Gazebo. Check out his projects like the Boat model on GitHub and the Book of Joe game. **Graphics modeling** is a creative outlet."],
+    "Can you tell me about Aren's robotics projects?": ["[arendesai.com/robotics] He contributed to the Wisconsin Rover Software (ROS2) at UW-Madison. His work involves **autonomous systems** and robotic software development."],
+    "Where can I find Aren's resume?": ["Download his resume from [arendesai.com/resume_nodetails.pdf] or CV from [arendesai.com/cv_nodetails.pdf]."],
+    "What leadership roles has Aren held?": ["He led the GCP Website project and held roles in robotics research. Visit [arendesai.com/portfolio] for more on his **leadership** and **open-source contributions**."],
+    "What coursework has Aren completed at UW-Madison?": ["His coursework includes data structures, algorithms, machine learning, and energy systems. For details, visit [arendesai.com/portfolio]."],
+    "How does Aren's background in energy and finance relate to his current work?": ["His experience in energy markets informs his **data analysis** projects, while finance insights enrich his modeling approaches."],
+    "What languages does Aren know?": ["He is proficient in Python, Java, C++, JavaScript, and more. For coding projects, visit [arendesai.com/datascience]."],
+    "Can you explain one of Aren's data science projects in more detail?": ["The LMP Forecasting project uses advanced models to predict energy market conditions. Learn more at [arendesai.com/datascience]."],
+    "What is the AI Assistant project that Aren worked on?": ["Developed using PyTorch and TensorFlow, this project focuses on **natural language processing** applications."],
+    "Does Aren have experience with cloud technologies?": ["Yes, he has worked with GCP for web development. Explore his contributions at [arendesai.com/datascience]."],
+    "How can I view Aren's portfolio?": ["Visit [arendesai.com/portfolio] to see his academic and professional work."],
+    "What is Aren's involvement in open-source projects?": ["He contributes to the GCP Website project and others. Check out his GitHub profile for more details."]
+}

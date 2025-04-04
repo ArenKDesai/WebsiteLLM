@@ -1,0 +1,17 @@
+{
+    "What is Aren Desai's background?": ["[arendesai.com/portfolio] His background includes a BS in Computer Science & Data Science from UW-Madison. He has internships at Madison Gas & Electric and Compeer Financial, leadership roles in Google Developer Student Club and Wisconsin Robotics, and projects in data science, computer graphics, and robotics."],
+    "What degrees does Aren have?": ["[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science from the University of Wisconsin-Madison, expected Spring 2025."],
+    "Which university did Aren attend?": ["[arendesai.com/portfolio] He attends the University of Wisconsin-Madison."],
+    "What coursework has Aren completed?": ["[arendesai.com/coursework] Relevant coursework includes Data Science methodologies and Computer Graphics."],
+    "What programming languages does Aren know?": ["[about Aren's skills] He knows Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more."],
+    "What are Aren's data science skills?": ["[data science projects] Skills include Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras, and experience with machine learning models like DNN price models."],
+    "Can you tell me about Aren's robotics projects?": ["[github.com/WisconsinRobotics/WRoverSoftware] He contributed to the Wisconsin Rover software using ROS2."],
+    "What graphics projects has Aren worked on?": ["[github.com/ArenKDesai/Boat] Projects include a 3D boat model and cyberpunk environments like CyberCity."],
+    "Where can I see Aren's resume?": ["[arendesai.com/portfolio/resume.pdf] His resume is available for download."],
+    "What machine learning models has Aren built?": ["[LMP Forecasting project] He developed a Long-term Memory Prediction model using neural networks."],
+    "How does Aren use Python in his work?": ["In projects like the GPT/Whisper AI implementation, he uses Python extensively for development and integration."],
+    "What tools does Aren use for data analysis?": ["Tools include Pandas for data manipulation and NumPy for numerical computations."],
+    "Can you tell me about Aren's leadership roles?": ["He leads the Google Developer Student Club at UW-Madison and contributes to Wisconsin Robotics (**robotics**)."],
+    "Does Aren have any published work?": ["His projects, like LMP Forecasting, are documented in READMEs on GitHub."],
+    "What is Aren passionate about in tech?": ["Passionate about AI, **computer graphics**, and advancing robotics technologies."]
+}

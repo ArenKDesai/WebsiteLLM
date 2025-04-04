@@ -1,0 +1,47 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com] A computer science student with expertise in data science, graphics, and robotics."
+    ],
+    "What universities has Aren attended?": [
+        "[arendesai.com/portfolio] University of Wisconsin-Madison"
+    ],
+    "What programming languages does Aren know?": [
+        "[github.com/ArenKDesai] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "Where has Aren worked?": [
+        "[linkedin.com/in/ArenDesai] Madison Gas & Electric and Compeer Financial"
+    ],
+    "Can you tell me about Aren's data science projects?": [
+        "[arendesai.com/datascience] MarketSimOptimizer for market simulation, LMP Forecasting with LEAR and DNN models."
+    ],
+    "Does Aren have experience with machine learning?": [
+        "[github.com/ArenKDesai/MSO-README.md] Yes, using PyTorch, TensorFlow, and Scikit-Learn."
+    ],
+    "What is the MarketSimOptimizer project?": [
+        "[arendesai.com/MSO-README.md] A market simulation tool for MISO, developed with Python and Pandas."
+    ],
+    "What 3D graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] Boat model in Blender/Unity; [arendesai.com/bookofjoe] Web-based game."
+    ],
+    "What robotics work has Aren done?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Software for the UW-Madison rover using ROS2."
+    ],
+    "What data science courses has Aren taken?": [
+        "[arendesai.com/coursework] Machine Learning, Data Mining, AI, Database Systems."
+    ],
+    "In what organizations does Aren hold leadership roles?": [
+        "[github.com/orgs/ArenKDesai/teams] Google Developer Student Club (Finance Lead), Wisconsin Robotics (Arm Developer)."
+    ],
+    "What AI-related projects has Aren worked on?": [
+        "[github.com/ArenKDesai/AI-projects] AI Assistant using GPT/Whisper, implemented with Python and PyTorch."
+    ],
+    "How can I view Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Download from the portfolio section."
+    ],
+    "Which 3D graphics and game engines does Aren use?": [
+        "**OpenGL**, **WebGL**, **Unity**, **Blender**"
+    ],
+    "What data science libraries does Aren know?": [
+        "[github.com/ArenKDesai/data-science] Pandas, NumPy, PyTorch, TensorFlow."
+    ]
+}

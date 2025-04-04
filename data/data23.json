@@ -1,0 +1,18 @@
+{
+    "Tell me about Aren Desai": ["[About section](https://arendesai.com/about)", "Aren Desai is a Computer Science & Data Science student at UW-Madison. He specializes in programming, data science, computer graphics, and robotics."],
+    "What is Aren currently studying?": ["[Education](https://arendesai.com/portfolio#education)", "Aren is pursuing a BS in Computer Science and Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."],
+    "Where is Aren currently a student?": ["[Education](https://arendesai.com/portfolio#education)", "Aren is a student at the University of Wisconsin-Madison."],
+    "What leadership roles has Aren held?": ["[Leadership](https://arendesai.com/portfolio#leadership)", "Aren has served as the Finance Lead for Google Developer Student Club and worked on ROS2 development for Wisconsin Robotics."],
+    "What programming languages does Aren know?": ["[Technical Skills](https://arendesai.com/about)", "Aren knows Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2."],
+    "Does Aren have experience with machine learning?": ["[Data Science Projects](https://arendesai.com/datascience)", "Yes, Aren has worked on projects like LMP Forecasting using PyTorch and TensorFlow."],
+    "What data science tools does Aren use?": ["[Technical Skills](https://arendesai.com/about)", "Aren uses Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."],
+    "What is the WRoverSoftware project?": ["[Robotics](https://arendesai.com/robotics#wrover-software)", "It's software for the Wisconsin rover at UW-Madison."],
+    "Can you tell me about Aren's graphics projects?": ["[Computer Graphics](https://arendesai.com/computergraphics)", "Aren has created a 3D boat model and a cyberpunk city environment."],
+    "What robotics work has Aren done?": ["[Robotics](https://arendesai.com/robotics#wrover-software)", "He worked on the Wisconsin Rover Software using ROS2."],
+    "What AI projects has Aren developed?": ["[AI Projects](https://arendesai.com/portfolio#projects)", "Aren developed an AI Assistant using GPT and Whisper technologies."],
+    "How can I see Aren's resume?": ["[Resume](https://arendesai.com/resume_nodetails.pdf)", "Download his resume from the portfolio section."],
+    "What courses has Aren taken in data science?": ["[Coursework](https://arendesai.com/coursework)", "Aren has completed courses like Data Science Fundamentals and Advanced Machine Learning."],
+    "Tell me about Aren's work experience": ["[Experience](https://arendesai.com/portfolio#experience)", "He interned at Madison Gas & Electric and Compeer Financial, focusing on data analytics."],
+    "What is the MarketSimOptimizer project?": ["[Data Science Projects](https://arendesai.com/datascience#marketsimoptimizer)", "A MISO market simulation tool developed by Aren."],
+    "Can you tell me about Aren's AI assistant project?": ["[AI Projects](https://arendesai.com/portfolio#projects)", "An AI-driven tool using GPT and Whisper for various applications."]
+}

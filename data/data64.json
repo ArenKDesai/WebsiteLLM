@@ -1,0 +1,29 @@
+{
+    "What is the purpose of this website?": "[arendesai.com/portfolio] This website serves as a professional portfolio showcasing Aren Desai's education, skills, projects, and experience.",
+    "Where is Aren currently enrolled in school?": "[arendesai.com/portfolio] Aren is pursuing a **Computer Science & Data Science BS** at the University of Wisconsin-Madison, expected to graduate in Spring 2025.",
+    "What programming languages does Aren know?": "[arendesai.com/portfolio] Aren has proficiency in **Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB**, and more. See [github.com/ArenKDesai](GitHub profile) for detailed examples of his work.",
+    "Can you tell me about Aren's data science projects?": [
+        "[arendesai.com/ds-projects] MarketSimOptimizer - MISO market simulation using Python and R",
+        "[arendesai.com/lmpf-project] LMP Forecasting - LEAR & DNN price models for energy forecasting"
+    ],
+    "What graphics-related projects has Aren worked on?": [
+        "[github.com/ArenKDesai/Boat] Boat - Blender/Unity 3D boat model",
+        "[arendesai.com/bookofjoe] Book of Joe - Web-based portfolio game using WebGL"
+    ],
+    "Does Aren have experience with robotics?": "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware - UW-Madison rover project, showcasing his expertise in ROS2 and embedded systems.",
+    "What AI-related projects has Aren worked on?": "[github.com/ArenKDesai/AI-projects] AI Assistant - GPT/Whisper implementation for natural language processing",
+    "Can you provide details about Aren's academic coursework?": "[arendesai.com/coursework] Coursework includes machine learning, data analysis, algorithms, and systems design.",
+    "What technical skills does Aren have in data science?": "[github.com/ArenKDesai/data-science-libs] Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras",
+    "Does Aren have experience with machine learning?": [
+        "[arendesai.com/machine-learning] LMP Forecasting - Predictive modeling using deep learning frameworks",
+        "[github.com/ArenKDesai/ML-projects] MarketSimOptimizer - Simulation-based optimization techniques"
+    ],
+    "What is Aren's work experience?": [
+        "[linkedin.com/in/ArenKDesai] Madison Gas & Electric - Energy Supply Intern",
+        "[linkedin.com/in/ArenKDesai] Data Analysis Project - Consulting firm"
+    ],
+    "How can I view Aren's resume or portfolio?": "[arendesai.com/resume] Download Aren's resume or explore his portfolio at [arendesai.com/portfolio].",
+    "What is the WRoverSoftware project about?": "[github.com/WisconsinRobotics/WRoverSoftware] This project involves designing and implementing software for autonomous rover systems using ROS2.",
+    "Can you tell me about the CyberCity project?": "[github.com/ArenKDesai/CyberCity] A 3D city modeling project using Unity and WebGL, demonstrating Aren's skills in game development and spatial visualization.",
+    "What is the Boat modeling project?": "[github.com/ArenKDesai/Boat] A Blender project where Aren created a detailed 3D model of a boat, showcasing his proficiency in 3D design and animation."
+}

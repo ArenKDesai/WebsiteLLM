@@ -1,0 +1,45 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com/portfolio] **Aren Desai** is a Computer Science & Data Science student at UW-Madison with expertise in programming, data science, and robotics. His portfolio highlights his academic background, projects, and professional experience."
+    ],
+    "What are Aren's technical skills?": [
+        "[arendesai.com/portfolio] Aren is proficient in **Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB** for programming, and **Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras** for data science."
+    ],
+    "Where can I see Aren's resume?": [
+        "[arendesai.com/portfolio/resume.pdf] Download Aren's resume from the portfolio section. It provides a detailed overview of his education, skills, and experience."
+    ],
+    "What projects has Aren worked on?": [
+        "[arendesai.com/datascience/MSO-README.md] Check out **MarketSimOptimizer**, a MISO market simulation tool. For graphics, explore his **Boat** project in Blender/Unity or the **Book of Joe** web game.",
+        "[arendesai.com/cybercity] Visit **CyberCity**, a 3D cyberpunk environment he created. His robotics work includes software for the Wisconsin Rover."
+    ],
+    "What is Aren's academic background?": [
+        "[arendesai.com/portfolio] Aren is pursuing a BS in Computer Science & Data Science at UW-Madison, expected Spring 2025. His coursework includes advanced topics in AI and data analysis."
+    ],
+    "Can you tell me about Aren's education?": [
+        "[arendesai.com/portfolio] Aren earned his degree in Computer Science & Data Science from UW-Madison, with a focus on machine learning and robotics. His academic achievements include coursework in **coursework**."
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience/LMPF-README.md] Aren developed **LMP Forecasting**, using LEAR and DNN models for price prediction. He also built an AI Assistant using GPT/Whisper hosted on a GCP website."
+    ],
+    "What is the WRoverSoftware project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] **WRoverSoftware** is rover control software developed at UW-Madison, where Aren contributed as part of the robotics team. It uses ROS/ROS2 for robotic operations."
+    ],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] See his **Boat** project in Blender/Unity and the web-based game **Book of Joe**. His work in computer graphics spans 3D modeling and environment design."
+    ],
+    "What is CyberCity?": [
+        "[arendesai.com/cybercity] **CyberCity** is a 3D cyberpunk city environment created by Aren using modern graphics tools. Explore its design and development details on his website."
+    ],
+    "What programming languages does Aren know?": [
+        "[arendesai.com/portfolio] Aren knows **Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB**. His expertise spans both software development and data science."
+    ],
+    "What algorithms does MarketSimOptimizer use?": [
+        "[arendesai.com/datascience/MSO-README.md] **MarketSimOptimizer** employs advanced algorithms for market simulation, including optimization techniques and predictive modeling."
+    ],
+    "Where can I find Aren's portfolio?": [
+        "[arendesai.com/portfolio] Visit his official portfolio to explore projects like **MarketSimOptimizer**, **LMP Forecasting**, and more. His GitHub profile also showcases his work."
+    ],
+    "What is the Book of Joe game?": [
+        "[github.com/ArenKDesai/Book-of-Joe] **Book of Joe** is a web-based game developed by Aren, showcasing his skills in game design and development. Explore its mechanics and visuals online."
+    ]
+}

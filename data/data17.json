@@ -1,0 +1,16 @@
+{
+    "What is Aren Desai’s educational background?": "[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science at UW-Madison (Spring 2025).",
+    "What technical skills does Aren have?": "[arendesai.com/about] His skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras.",
+    "Can you tell me about Aren's data science projects?": "[arendesai.com/datascience] He has worked on MarketSimOptimizer (energy market simulation) and LMP Forecasting (load management techniques).",
+    "Does Aren have experience with AI or machine learning?": "[arendesai.com/portfolio] Yes, he developed an AI Assistant using language models like Whisper.",
+    "Which programming languages is Aren proficient in?": "[arendesai.com/about] Proficient in Python, SQL, R, Java, C++, JavaScript, Julia, and MATLAB.",
+    "What are Aren’s professional experiences?": "[arendesai.com/experience] He contributed to the Wisconsin Rover project at NASA and leads Google Developer Student Clubs.",
+    "What graphics-related work has Aren done?": "[arendesai.com/datascience] His graphics projects include 3D rendering and interactive visualizations using OpenGL and WebGL.",
+    "How can I view Aren’s resume?": "[arendesai.com/portfolio/resume.pdf] View his resume or download it as a PDF.",
+    "Where can I find details about Aren’s academic coursework?": "[arendesai.com/coursework] Detailed coursework is available online, covering data science and computer science fundamentals.",
+    "What leadership roles does Aren hold?": "[arendesai.com/leadership] He leads the UW-Madison GDC and organizes hackathons in Madison.",
+    "Can you explain the MarketSimOptimizer project?": "[market-sim-optimizer.readme.io] It simulates energy markets for price prediction, aiding grid operators in demand response.",
+    "What is the LMP Forecasting project about?": "[lmp-forecasting.readme.io] It forecasts load management prices using advanced analytics and optimization techniques.",
+    "What is the AI Assistant project?": "[ai-assistant.readme.io] A language model-based assistant for tasks like text generation and translation, built with Whisper integration.",
+    "How did Aren contribute to the Wisconsin Rover project?": "[wisconsin-rover.readme.io] He developed pathfinding algorithms using ROS2 and wrote software for autonomous navigation.",
+}

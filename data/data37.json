@@ -1,0 +1,17 @@
+{
+    "What is Aren Desai's educational background?": ["[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."],
+    "What technical skills does Aren have?": ["[arendesai.com/about] His technical expertise includes Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."],
+    "Can you tell me about Aren's data science projects?": ["[arendesai.com/datascience] He has worked on the MarketSimOptimizer for MISO market simulation and LMP Forecasting using LEAR and DNN models."],
+    "What graphics projects has Aren created?": ["[arendesai.com/computergraphics] Notable projects include a 3D boat model (Blender/Unity) and CyberCity, a 3D cyberpunk city environment."],
+    "What robotics work has Aren been involved in?": ["[github.com/WisconsinRobotics/WRoverSoftware] He contributed to the Wisconsin Rover Software project at UW-Madison."],
+    "What coursework has Aren completed?": ["[arendesai.com/coursework] His coursework includes advanced topics in data science, computer graphics, and robotics at UW-Madison."],
+    "How can I view Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] A detailed resume is available for download under the /portfolio section.", "[arendesai.com/cv_nodetails.pdf] A condensed CV is also available for quick reference."],
+    "What leadership roles has Aren held?": ["[arendesai.com/about] He served as the Finance Lead of Google Developer Student Club and worked on ARM development with Wisconsin Robotics. **Leadership**", "**Robotics**"],
+    "Tell me about Aren's AI projects?": ["[github.com/ArenKDesai/AIAssistant] His work includes an AI Assistant combining GPT and Whisper models."],
+    "What programming languages does Aren know?": ["[arendesai.com/about] He is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB."],
+    "What professional experience does Aren have?": ["[arendesai.com/portfolio] He has internships in AI research and data analysis. **AI Research**", "**Data Analysis**"],
+    "Does Aren have any publications or research papers?": ["[arendesai.com/research] While specific papers are not listed, his work focuses on machine learning and AI applications. **Machine Learning**", "**AI**"],
+    "What tools does Aren use for data science?": ["[arendesai.com/datascience] He uses Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras for data science projects."],
+    "What advice would Aren give to aspiring computer scientists?": ["[arendesai.com/about] Stay curious, explore AI and robotics, and build projects. **AI**", "**Robotics**"],
+    "What are Aren's future career goals?": ["[arendesai.com/goals] He aims to pursue advanced research in AI and contribute to cutting-edge robotics projects. **AI Research**", "**Robotics Development**"]
+}

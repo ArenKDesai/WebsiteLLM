@@ -1,0 +1,29 @@
+{
+    "Tell me about Aren Desai": ["[arendesai.com/portfolio] He is a computer science and data science student at UW-Madison with interests in AI, robotics, and graphics."],
+    "What are Aren's technical skills?": ["[arendesai.com/portfolio] Skills include Python, SQL, Java, C++, JavaScript, Unity, ROS/ROS2, PyTorch, TensorFlow, Pandas, and more."],
+    "Can you tell me about Aren's education?": ["[arendesai.com/resume_nodetails.pdf] BS in Computer Science & Data Science at UW-Madison (Spring 2025)."],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer for MISO market simulation.",
+        "[arendesai.com/LMPF-README.md] LMP Forecasting with LEAR and DNN models."
+    ],
+    "Does Aren have experience with machine learning?": ["[arendesai.com/portfolio] Yes, he has worked on projects using PyTorch, TensorFlow, and Scikit-Learn."],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] 3D boat model in Blender/Unity.",
+        "[arendesai.com/bookofjoe] Web-based portfolio game.",
+        "[arendesai.com/cybercity] 3D cyberpunk city environment."
+    ],
+    "What robotics work has Aren done?": ["[github.com/WisconsinRobotics/WRoverSoftware] Software for the UW-Madison rover."],
+    "Where can I find Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Download his resume here."],
+    "What coursework has Aren taken?": [
+        "[arendesai.com/coursework] Data Science: STAT 501, CS 520. Computer Graphics: CS 648."
+    ],
+    "What is the AI Assistant project?": ["[github.com/ArenKDesai/ArenWebsite] A GPT/Whisper-based assistant hosted on GCP."],
+    "What programming languages does Aren know?": ["[arendesai.com/portfolio] Python, SQL, R, Java, C#, JavaScript, Julia, MATLAB."],
+    "How can I see Aren's portfolio?": ["[arendesai.com/portfolio] Visit his professional overview and projects here."],
+    "What is **data science**?": [
+        "[arendesai.com/datascience] Data Science involves extracting insights from data using statistical and computational methods."
+    ],
+    "What is **machine learning**?": [
+        "[arendesai.com/ml] Machine Learning uses algorithms to learn patterns from data for prediction or classification tasks."
+    ]
+}

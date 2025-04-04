@@ -1,0 +1,30 @@
+{
+    "What is Aren's background in computer graphics?": ["[arendesai.com/computergraphics] OpenGL, WebGL, Unity, Blender projects like Boat and Book of Joe."],
+    "How did Aren contribute to robotics at UW-Madison?": ["[github.com/WisconsinRobotics/WRoverSoftware] Developed rover software using ROS2."],
+    "Can you explain Aren's data science projects?": [
+        "[arendesai.com/datscience/MarketSimOptimizer] MISO market simulation with Python.",
+        "[arendesai.com/datascience/LMPForecasting] LEAR & DNN price models."
+    ],
+    "Which programming languages does Aren know?": ["[skills listed in About section] Python, SQL, R, Java, C/C++/C#, JavaScript."],
+    "Where can I find Aren's academic work?": ["[arendesai.com/coursework] UW-Madison coursework details available here."],
+    "What leadership roles has Aren held?": [
+        "[about.aren-desai.com/leadership] Google Developer Student Club Finance Lead and Wisconsin Robotics Arm Developer."
+    ],
+    "What's the AI Assistant project about?": ["[project description on website] Uses GPT and Whisper for capabilities."],
+    "Are there any recent updates on Aren's projects?": ["Check /[datascience], /[computergraphics], and /[robotics] sections for updates."],
+    "How can I contact Aren for opportunities?": ["Contact via LinkedIn or email from the portfolio section."],
+    "What tools does Aren use in data science?": [
+        "[tools listed in About section] Pandas, NumPy, PyTorch, TensorFlow."
+    ],
+    "What is the GCP website project?": ["[github.com/ArenKDesai/ArenWebsite] GCP-hosted site featuring projects."],
+    "Can you tell me more about Unity projects?": [
+        "[arendesai.com/computergraphics/Book of Joe] Web-based game using WebGL."
+    ],
+    "What courses has Aren taken at UW-Madison?": ["[coursework section on website] Data Science and Computer Science courses."],
+    "Where can I find Aren's resume and portfolio?": [
+        "[arendesai.com/portfolio/resume.pdf] for resume, /[portfolio] for projects."
+    ],
+    "How does Aren apply machine learning?": [
+        "[datascience section] Projects include LMP Forecasting with DNN models."
+    ]
+}

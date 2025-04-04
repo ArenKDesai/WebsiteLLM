@@ -1,0 +1,39 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com/portfolio] Professional overview including education, LinkedIn, and GitHub links.",
+        "[arendesai.com/resume_nodetails.pdf] Detailed resume highlights."
+    ],
+    "What is Aren's educational background?": "[arendesai.com/portfolio] Computer Science & Data Science BS at UW-Madison (Spring 2025)",
+    "Can you list Aren's technical skills?": [
+        "**Programming Languages**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB",
+        "**Data Science Tools**: Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras",
+        "**Graphics & Robotics Tools**: OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2"
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer - MISO market simulation",
+        "[arendesai.com/LMPF-README.md] LMP Forecasting - LEAR & DNN price models"
+    ],
+    "Does Aren have experience with machine learning?": "**Yes**, he has worked on **LMP Forecasting** using neural networks and traditional models ([link to README](https://arendesai.com/LMPF-README.md)).",
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] Boat - Blender/Unity 3D boat model",
+        "[arendesai.com/bookofjoe] Book of Joe - Web-based portfolio game"
+    ],
+    "Tell me about Aren's work experience": [
+        "**Madison Gas & Electric** - Energy Supply Intern",
+        "**Compeer Financial** - Data Analytics role"
+    ],
+    "What is the WRoverSoftware project?": "[github.com/WisconsinRobotics/WRoverSoftware] Wisconsin Rover software developed at UW-Madison for robotics applications.",
+    "How can I see Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Simplified version",
+        "[arendesai.com/cv_nodetails.pdf] Detailed CV"
+    ],
+    "What coursework has Aren taken in data science?": "**UW-Madison** - Data Science, Computer Science, and related coursework ([link to details](https://arendesai.com/coursework)).",
+    "Does Aren have leadership experience?": "**Google Developer Student Club** - Finance Lead; **Wisconsin Robotics** - Arm Developer.",
+    "What AI projects has Aren worked on?": "**AI Assistant** - GPT/Whisper integration ([link to project](https://github.com/ArenKDesai/ArenWebsite)).",
+    "Can you explain Aren's involvement with Wisconsin Robotics?": "[github.com/WisconsinRobotics/WRoverSoftware] Software development for UW-Madison rover projects.",
+    "What is the GCP Website project?": "**GCP-hosted LLM** - Part of his data science portfolio ([link to GitHub](https://github.com/ArenKDesai/ArenWebsite)).",
+    "Tell me about Aren's **computer graphics** work": [
+        "[github.com/ArenKDesai/Boat] 3D modeling in Unity and Blender",
+        "**CyberCity** - 3D cyberpunk city environment ([link to project](https://arendesai.com/cybercity))"
+    ]
+}

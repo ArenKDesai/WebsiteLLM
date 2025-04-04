@@ -1,0 +1,17 @@
+{
+    "Tell me about Aren Desai": "[/about] He is a Computer Science & Data Science BS student at UW-Madison with expertise in Python, SQL, R, and more.",
+    "What education does Aren have?": "[/portfolio] Currently pursuing a BS in Computer Science & Data Science at the University of Wisconsin-Madison (Spring 2025).",
+    "What are some of Aren's technical skills?": ["[/about] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB.", "[/datascience] Extensive experience with data science tools like Pandas and NumPy."],
+    "Can you tell me about Aren's portfolio?": "[/portfolio] A professional overview of his education, projects, and links to LinkedIn and GitHub.",
+    "What data science projects has Aren worked on?": ["[/datascience/MarketSimOptimizer] Developed a market simulation tool using MISO.", "[/datascience/LMPForecasting] Created LEAR & DNN models for price forecasting."],
+    "What graphics projects does Aren have?": ["[/computergraphics/Boat] A Blender/Unity 3D boat model.", "[/computergraphics/BookofJoe] Web-based portfolio game built with HTML/CSS."],
+    "What robotics work has Aren done?": ["[/robotics/WRoverSoftware] Contributed to the Wisconsin Rover project using ROS2 at UW-Madison."],
+    "How can I see Aren's resume?": "[/portfolio/resume.pdf] Download his detailed resume or a condensed version [/portfolio/cv_nodetails.pdf].",
+    "What AI projects has Aren worked on?": ["[/datascience/GCPWebsite] Developed an AI Assistant using GPT and Whisper with GCP."],
+    "Where did Aren intern?": ["[link to Madison Gas & Electric] Interned in energy supply analysis.", "[/portfolio] Also worked at Compeer Financial in data analytics."],
+    "What coursework has Aren taken?": "[/coursework] Completed foundational data science and computer science courses at UW-Madison.",
+    "How can I contact Aren?": "[/contact] Email or LinkedIn for more information.",
+    "What are Aren's favorite tools?": ["[/about] Loves Python, Pandas, PyTorch, TensorFlow, and ROS/ROS2."],
+    "Has Aren worked on open-source projects?": "[/github/ArenKDesai] Check out his contributions on GitHub, including AI and graphics projects.",
+    "What are Aren's future goals?": "**AI Development** and **Robotics Research** are key areas of focus for him."
+}

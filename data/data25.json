@@ -1,0 +1,17 @@
+{
+    "What universities has Aren attended?": "[/portfolio] with details about his education at UW-Madison",
+    "When is Aren expected to graduate?": "[/portfolio] expected graduation date Spring 2025",
+    "Which programming languages does Aren know?": "[/portfolio] lists Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB",
+    "Does Aren have experience with machine learning frameworks?": "[/datascience] highlights use of PyTorch, TensorFlow, Scikit-Learn, and Keras in projects like LMP Forecasting",
+    "Can you tell me about the MarketSimOptimizer project?": "[/datascience/MarketSimOptimizer-README.md] explains MISO market simulation work",
+    "What tools were used to develop the GCP Website?": "[/datascience/GCP%20Website%20-%20README.pdf] details Google Cloud Platform and LLM implementation",
+    "How was the Boat 3D model created?": "[/computergraphics/Boat] showcases Blender and Unity usage for a boat model",
+    "What is the Book of Joe project about?": "[/computergraphics/bookofjoe] describes a web-based portfolio game built with WebGL",
+    "Who developed the WRoverSoftware?": "[/robotics/WRoverSoftware] details UW-Madison rover software co-developed with Wisconsin Robotics team",
+    "Where can I find a detailed resume of Aren Desai?": "[/portfolio/resume.pdf] provides a comprehensive professional overview",
+    "What data science coursework has Aren completed?": "[/coursework] lists relevant academic courses at UW-Madison",
+    "How can I contact Aren Desai?": "[/portfolio] includes LinkedIn and GitHub profiles for professional inquiries",
+    "What is the focus of the CyberCity project?": "[/computergraphics/cybercity] describes a 3D cyberpunk city environment built with Unity",
+    "Which leadership roles has Aren held?": "[/portfolio] highlights positions in Google Developer Student Club and Wisconsin Robotics",
+    "What is the purpose of the LMP Forecasting project?": "[/datascience/LMPF-README.md] explains LEAR and DNN price model development for energy markets"
+}

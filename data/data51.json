@@ -1,0 +1,17 @@
+{
+    "Tell me about Aren Desai": ["[arendesai.com] He is a student at UW-Madison with a focus on computer science and data science. His portfolio includes projects in data science, graphics, and robotics."],
+    "What is Aren's educational background?": ["[arendesai.com/portfolio#education] He is pursuing a BS in Computer Science & Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."],
+    "Can you summarize Aren's technical skills?": ["[arendesai.com/about] His technical skills include programming languages like Python, SQL, R, Java, and C/C++/C#, as well as data science tools such as Pandas, NumPy, PyTorch, TensorFlow, and Scikit-Learn."],
+    "What projects has Aren worked on in data science?": ["[arendesai.com/datascience] He has developed projects like the MarketSimOptimizer for MISO market simulation and LMP Forecasting using LEAR and DNN models."],
+    "What graphics projects does Aren have?": ["[arendesai.com/computergraphics] His work includes a 3D boat model in Blender/Unity, the Book of Joe web-based game, and a CyberCity 3D cyberpunk environment."],
+    "How has Aren contributed to robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] He worked on the WRoverSoftware for the UW-Madison rover project, focusing on ROS2 integration."],
+    "What experience does Aren have in data analytics?": ["[arendesai.com/portfolio#experience] He interned at Madison Gas & Electric and Compeer Financial, gaining experience in energy supply and data analytics roles."],
+    "What coursework has Aren completed?": ["[arendesai.com/coursework] His academic coursework includes relevant subjects at UW-Madison, with a focus on computer science and data science."],
+    "How can I view Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] You can download his resume from the portfolio section of his website."],
+    "What programming languages does Aren know?": ["[arendesai.com/about] He is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB."],
+    "What tools does Aren use for data science?": ["[arendesai.com/datascience] He uses tools like Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras for his projects."],
+    "How did Aren use machine learning in his work?": ["[arendesai.com/datascience#LMP-Forecasting] His LMP Forecasting project utilized deep neural networks (DNN) and the LEAR model for price prediction."],
+    "What leadership roles has Aren held?": ["[arendesai.com/about] He serves as the Finance Lead for Google Developer Student Club and worked on ROS/ROS2 integration in robotics."],
+    "Can you tell me about Aren's AI Assistant project?": ["[github.com/ArenKDesai/AIAssistant] He developed an AI Assistant using GPT and Whisper, hosted on a GCP website."],
+    "What graphics frameworks does Aren use?": ["[arendesai.com/computergraphics] He uses Blender/Unity for 3D modeling and WebGL for rendering in browser-based projects."]
+}

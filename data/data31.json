@@ -1,0 +1,58 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com] Overview of Aren's professional background and achievements",
+        "**Education**: BS in Computer Science & Data Science at UW-Madison (Spring 2025)",
+        "**Skills**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "What education does Aren have?": [
+        "[arendesai.com/portfolio] BS in Computer Science & Data Science at UW-Madison",
+        "Expected graduation: Spring 2025",
+        "**Related**: [UW-Madison](www.wisc.edu)"
+    ],
+    "What technical skills does Aren have?": [
+        "[arendesai.com/about] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience] MarketSimOptimizer and LMP Forecasting",
+        "**Related**: [GCP Website](github.com/ArenKDesai/ArenWebsite)"
+    ],
+    "Can you tell me about Aren's graphics projects?": [
+        "[arendesai.com/computergraphics] Boat, Book of Joe, CyberCity",
+        "**Tools**: Blender, Unity, OpenGL, WebGL"
+    ],
+    "What robotics work has Aren done?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware for UW-Madison rover",
+        "**Related**: [ROS/ROS2](ros.org)"
+    ],
+    "Where can I see Aren's resume?": [
+        "[arendesai.com/portfolio/resume.pdf] Resume (nodetails)",
+        "[arendesai.com/portfolio/cv.pdf] CV (nodetails)"
+    ],
+    "What programming languages does Aren know?": [
+        "**Languages**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "What coursework has Aren taken?": [
+        "[arendesai.com/coursework] Data Science and Computer Science courses at UW-Madison",
+        "**Example**: Machine Learning, Algorithms, Database Systems"
+    ],
+    "Does Aren have experience with AI?": [
+        "[github.com/ArenKDesai/AIAssistant] AI Assistant project using GPT/Whisper",
+        "**Related**: [LLM](arendesai.com/GCP-website)"
+    ],
+    "What leadership roles does Aren hold?": [
+        "[google.dev/studentclubs] Google Developer Student Club (Finance Lead)",
+        "[wisconsinrobotics.org] Wisconsin Robotics (Arm Developer)"
+    ],
+    "What is the MarketSimOptimizer project?": [
+        "[arendesai.com/MSO-README.md] MISO market simulation tool",
+        "**Related**: [Data Science](arendesai.com/datascience)"
+    ],
+    "Can you tell me about Aren's work experience?": [
+        "[linkedin.com/in/aren-desai] Madison Gas & Electric (Energy Supply Intern)",
+        "[linkedin.com/company/compeer-financial] Compeer Financial (Data Analytics)"
+    ],
+    "What is the Book of Joe project?": [
+        "[arendesai.com/bookofjoe] Web-based portfolio game built with Unity",
+        "**Tools**: C#, WebGL, HTML/CSS"
+    ]
+}

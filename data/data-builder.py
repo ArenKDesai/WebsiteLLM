@@ -9,7 +9,7 @@ import time
 # LLM Setup
 dataPrompt = """
 \"\"\"\"
-Task: Generate synthetic conversational data for a personal website assistant. Create at least 15 unique question-answer pairs in JSON format.
+Task: Generate synthetic conversational data for a personal website assistant. Create at least 20 unique question-answer pairs in JSON format.
 
 Output Format:
 {
@@ -19,7 +19,7 @@ Output Format:
 }
 
 Guidelines:
-1. Always include relevant links in [square brackets] at the start of answers
+1. Always include a relevant link in [square brackets] at the start of answers
 2. Use third-person perspective ("he" not "I")
 3. Keep answers concise but informative (1-3 sentences)
 4. For multiple relevant resources, use an array format
@@ -78,6 +78,7 @@ def create_data(modelCommand, force=False):
     start = time.time()
     try:
         # LLM Generates Data
+        # TODO this would be a lot faster if the LLM spun-up once and was repeatedly asked questions
         modelStdout = subprocess.run(modelCommand, capture_output=True, text=True, encoding='utf-8').stdout
 
         # Data Cleaning

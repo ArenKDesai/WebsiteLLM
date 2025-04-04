@@ -1,0 +1,18 @@
+{
+    "Tell me about Aren Desai": ["[arendesai.com/portfolio] Learn about his education, skills, and projects.", "[arendesai.com/about] Read more about his background and experience."],
+    "What is Aren's educational background?": ["[arendesai.com/portfolio#education] BS in Computer Science & Data Science at UW-Madison (Spring 2025)."],
+    "What technical skills does Aren have?": ["[github.com/ArenKDesai] Proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB."],
+    "Can you tell me about Aren's data science projects?": ["[arendesai.com/datascience] Explore MarketSimOptimizer (market simulation) and LMP Forecasting (price models)."],
+    "What programming languages does Aren know?": ["[github.com/ArenKDesai] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB."],
+    "What graphics projects has Aren worked on?": ["[github.com/ArenKDesai/Boat] 3D boat model in Blender/Unity.", "[arendesai.com/cybercity] Cyberpunk city environment project."],
+    "Does Aren have experience with robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] Rover software development at UW-Madison."],
+    "Where can I see Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Download his resume.", "[arendesai.com/cv_nodetails.pdf] View detailed CV."],
+    "What leadership roles has Aren held?": ["[github.com/ArenKDesai] Finance Lead of Google Developer Student Club at UW-Madison."],
+    "What is the AI Assistant project about?": ["[github.com/ArenKDesai/AIAssistant] GPT/Whisper-based assistant hosted on GCP."],
+    "What coursework has Aren completed?": ["[arendesai.com/coursework] Data science, computer graphics, and machine learning courses at UW-Madison."],
+    "Can you tell me about Aren's work experience?": ["[linkedin.com/in/ArenKDesai] Internships at Madison Gas & Electric and Compeer Financial."],
+    "What is the WRoverSoftware project?": ["[github.com/WisconsinRobotics/WRoverSoftware] Software for UW-Madison rover using ROS2."],
+    "What machine learning frameworks does Aren know?": ["[github.com/ArenKDesai] PyTorch, TensorFlow, Scikit-Learn, Keras."],
+    "What academic achievements does Aren have?": ["[arendesai.com/portfolio#achievements] Dean's List and awards in computer science."],
+    "How can I contact Aren?": ["[mailto:contact@ArenKDesai.com] Send an email for inquiries."]
+}

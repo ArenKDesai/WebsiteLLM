@@ -1,0 +1,37 @@
+{
+    "What degrees is Aren Desai pursuing?": ["[arendesai.com/portfolio] He is currently pursuing a BS in Computer Science and Data Science at the University of Wisconsin-Madison, expected Spring 2025."],
+    "Where can I find Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Download his resume for detailed professional information."],
+    "What machine learning models has Aren implemented?": [
+        "[arendesai.com/LMPF-README.md] Check out the LMP Forecasting project, where he used DNN and LEAR models for price prediction.",
+        "[github.com/ArenKDesai/AIAssistant] Explore his AI Assistant project using GPT and Whisper APIs."
+    ],
+    "What tools does Aren use for data science?": [
+        "**Pandas, NumPy** for data manipulation, **PyTorch, TensorFlow** for deep learning, and **Scikit-Learn, Keras** for machine learning tasks."
+    ],
+    "Can you tell me about Aren's leadership roles?": [
+        "[arendesai.com/portfolio] He served as the Finance Lead at Google Developer Student Club and worked on ROS2 development at Wisconsin Robotics."
+    ],
+    "What graphics tools does Aren know?": [
+        "**Blender** for 3D modeling, **Unity** for game development, and **OpenGL/WebGL** for rendering."
+    ],
+    "Where can I see examples of Aren's robotics work?": ["[github.com/WisconsinRobotics/WRoverSoftware] Check out the WRoverSoftware project for his contributions to the Wisconsin Rover."],
+    "What coursework has Aren taken in data science?": [
+        "[arendesai.com/coursework] He has completed courses like Data Analysis and AI Fundamentals, focusing on statistical methods and model building."
+    ],
+    "How can I contact Aren for collaboration?": ["[linkedin.com/in/aren-desai] Connect with him on LinkedIn to discuss potential projects or opportunities."],
+    "What is Aren's experience with energy systems?": [
+        "[arendesai.com/portfolio] He interned at Madison Gas & Electric, working on energy supply analysis and optimization."
+    ],
+    "Tell me about Aren's portfolio.": ["[arendesai.com/portfolio] Visit his professional overview to learn about his education, projects, and experience."],
+    "What AI projects has Aren worked on?": [
+        "[github.com/ArenKDesai/AIAssistant] His AI Assistant project leverages GPT and Whisper for natural language processing and speech recognition."
+    ],
+    "How does Aren contribute to open-source?": [
+        "**Google Developer Student Club (GDSC)**: Organized workshops and hackathons.",
+        "**Wisconsin Robotics**: Developed software for the UW-Madison rover project."
+    ],
+    "What is Aren's approach to problem-solving?": [
+        "**Data-driven methods** using Python, SQL, and machine learning frameworks like PyTorch and TensorFlow.",
+        "**Creative design** with Blender and Unity for graphics projects."
+    ]
+}
