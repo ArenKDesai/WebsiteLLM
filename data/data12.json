@@ -1,0 +1,47 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com/portfolio] Learn more about Aren's professional background, education, and projects."
+    ],
+    "What is Aren's educational background?": [
+        "[arendesai.com/portfolio] Aren is pursuing a BS in Computer Science & Data Science at UW-Madison (Spring 2025)."
+    ],
+    "Can you tell me about Aren's technical skills?": [
+        "[arendesai.com/portfolio] Aren has expertise in **Python**, **SQL**, **R**, **Java**, **C/C++/C#**, **JavaScript**, **Julia**, and **MATLAB**."
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience] Explore projects like the MarketSimOptimizer (MISO market simulation) and LMP Forecasting (LEAR & DNN price models)."
+    ],
+    "Does Aren have experience with machine learning?": [
+        "[arendesai.com/datascience] Yes, Aren has worked on **Pandas**, **NumPy**, **PyTorch**, **TensorFlow**, **Scikit-Learn**, and **Keras** for data science projects."
+    ],
+    "What programming languages does Aren know?": [
+        "[arendesai.com/portfolio] Aren is proficient in **Python**, **SQL**, **R**, **Java**, **C/C++/C#**, **JavaScript**, **Julia**, and **MATLAB**."
+    ],
+    "Tell me about Aren's work experience": [
+        "[arendesai.com/portfolio] Aren has interned at Madison Gas & Electric (Energy Supply Intern) and Compeer Financial (Data Analytics)."
+    ],
+    "What is the WRoverSoftware project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] This project involves software development for the UW-Madison rover, focusing on **ROS2** integration."
+    ],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] Check out the Boat project (Blender/Unity 3D model) and CyberCity (3D cyberpunk city environment)."
+    ],
+    "How can I see Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Download Aren's concise resume or view the full CV at [cv.pdf]."
+    ],
+    "What coursework has Aren taken in data science?": [
+        "[arendesai.com/coursework] Review course details from UW-Madison, including **data science**, **computer science**, and related fields."
+    ],
+    "Does Aren have experience with robotics?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Yes, Aren has contributed to the Wisconsin Rover project using **ROS2** and other robotics tools."
+    ],
+    "What leadership roles does Aren hold?": [
+        "[arendesai.com/portfolio] Aren was the Finance Lead of Google Developer Student Club and a member of Wisconsin Robotics (Arm Developer)."
+    ],
+    "Can you tell me about Aren's AI projects?": [
+        "[github.com/ArenKDesai/AIAssistant] Explore Aren's work on an AI Assistant using **GPT** and **Whisper** technologies."
+    ],
+    "What tools does Aren use for data science?": [
+        "[arendesai.com/datascience] Tools include **Pandas**, **NumPy**, **PyTorch**, **TensorFlow**, **Scikit-Learn**, and **Keras**."
+    ]
+}

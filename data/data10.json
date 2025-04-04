@@ -1,0 +1,47 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com] A computer science and data science student at UW-Madison with a passion for AI, robotics, and creative projects."
+    ],
+    "What is Aren known for?": [
+        "**AI Development**: Known for creating an AI assistant using GPT/Whisper technologies. **Robotics Work**: Contributed to the Wisconsin Rover project. **Creative Projects**: Developed 3D models and interactive graphics."
+    ],
+    "Where can I find Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Download his resume for detailed work experience and skills."
+    ],
+    "What programming languages does Aren know?": [
+        "**Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB**. He frequently uses Python for data science and AI projects."
+    ],
+    "Can you tell me about Aren's education?": [
+        "[arendesai.com/portfolio] Pursuing a BS in Computer Science & Data Science at UW-Madison (expected Spring 2025)."
+    ],
+    "What graphics projects has Aren worked on?": [
+        "[github.com/ArenKDesai/Boat] Created a 3D boat model with Blender and Unity. **CyberCity**: Developed a cyberpunk city environment."
+    ],
+    "How does Aren's AI Assistant work?": [
+        "[github.com/ArenKDesai/ArenWebsite] Built using GPT for natural language processing and Whisper for audio transcription, hosted on Google Cloud Platform."
+    ],
+    "What is MarketSimOptimizer?": [
+        "[arendesai.com/MSO-README.md] A market simulation tool for energy optimization in the MISO region."
+    ],
+    "Does Aren have experience with machine learning?": [
+        "**Yes**: Worked on projects like LMP forecasting using LEAR and DNN models. **Skills**: Proficient in PyTorch, TensorFlow, Scikit-Learn, and Keras."
+    ],
+    "What courses has Aren taken in data science?": [
+        "[arendesai.com/coursework] Courses include Data Science Methods, Machine Learning, Applied Statistics, and Big Data Analytics."
+    ],
+    "Tell me about Aren's work experience": [
+        "**Madison Gas & Electric**: Energy Supply Intern. **Compeer Financial**: Data Analytics intern. Gained hands-on experience in data analysis and problem-solving."
+    ],
+    "What is the Wisconsin Rover project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Developed software for a rover at UW-Madison, using ROS2 for robotics control."
+    ],
+    "How can I see Aren's portfolio?": [
+        "[arendesai.com/portfolio] Explore his professional overview, education, and projects on this page."
+    ],
+    "What technical skills does Aren have in robotics?": [
+        "**ROS/ROS2, Gazebo, Unity**: Used for robotics simulation and software development. **C++/C#, Java**: Core programming languages for robotics systems."
+    ],
+    "Can you explain Aren's leadership roles?": [
+        "**Google Developer Student Club (Finance Lead)**: Organized workshops and events. **Wisconsin Robotics (Arm Developer)**: Collaborated on rover software development."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "What is your background?": "[arendesai.com/portfolio] Overview of education, skills, and experience",
+    "What technical skills do you have?": ["[arendesai.com/portfolio] Technical skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras"],
+    "Can you tell me about your education?": "[arendesai.com/portfolio] BS in Computer Science & Data Science at UW-Madison (Spring 2025)",
+    "What data science projects have you worked on?": ["[arendesai.com/MarketSimOptimizer-README.md] Market Simulation Optimization", "[arendesai.com/LMPF-README.md] LMP Forecasting with LEAR & DNN models"],
+    "What graphics projects have you created?": ["[github.com/ArenKDesai/Boat] 3D boat model in Blender/Unity", "[arendesai.com/cybercity] 3D cyberpunk city environment"],
+    "Can you tell me about your robotics work?": "[github.com/WisconsinRobotics/WRoverSoftware] UW-Madison rover software development",
+    "What coursework have you completed?": "[arendesai.com/coursework] Academic courses in data science, computer graphics, and robotics at UW-Madison",
+    "Do you have experience with machine learning?": ["[arendesai.com/LMPF-README.md] Machine learning models for energy price forecasting", "**data science** for more details on related projects"],
+    "What programming languages do you know?": "[arendesai.com/portfolio] Proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB",
+    "Can you tell me about your work experience?": ["[arendesai.com/portfolio] Madison Gas & Electric (Energy Supply Intern)", "[compeerfinancial.com] Compeer Financial (Data Analytics)"],
+    "How can I view your resume?": "[arendesai.com/resume_nodetails.pdf] Downloadable PDF version of the resume",
+    "What AI projects have you worked on?": ["[github.com/ArenKDesai/AIAssistant] AI Assistant using GPT/Whisper models", "**datascience** for related tools and frameworks"],
+    "Tell me about the Wisconsin Rover project?": "[github.com/WisconsinRobotics/WRoverSoftware] Software development for UW-Madison rover",
+    "What 3D modeling tools do you use?": ["[ blender.org ] Blender for 3D modeling", "[ unity.com ] Unity for game development"],
+    "How can I collaborate with you?": "[arendesai.com/portfolio] Contact information available on the portfolio page"
+}

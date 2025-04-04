@@ -9,47 +9,63 @@ import time
 # LLM Setup
 dataPrompt = """
 \"\"\"\"
-I want you to help me create synthetic data. It will be in the form of a JSON file that includes potential user prompts as keys and links to webpages and why you linked those webpages. Also include some potential other webpages. Here's an example:
-```json
+Task: Generate synthetic conversational data for a personal website assistant. Create at least 15 unique question-answer pairs in JSON format.
+
+Output Format:
 {
-    "Does Aren have any experience with Unity?": "[github.com/ArenKDesai/Boat] Yes, here's a cool-looking boat he made in Blender and rendered in Unity! He's also made made a **CyberCity**, although that's in Three.js.",
-    "show me data science": "[arendesai.com/LMPF-README.md] I think you might find this Locational Market Price forecasting project interesting! You might also like his **Google Cloud Platform** work.",
-    "about page": [arendesai.com/portfolio] Here you can find Aren's work and his github link! If you want to see his **coursework**, you can also ask me about that.",
-    "What projects has Aren worked on in computer graphics?": [
-        "[github.com/ArenKDesai/Boat] Here is his boat project in Blender and Unity",
-        "[arendesai.com/bookofjoe] Book of Joe, his first portfolio project",
-        "[arendesai.com/cybercity] And here's the CyberCity, a 3D cyberpunk city"
-    ],
-    "What robotics projects has Aren been involved with?": "[github.com/WisconsinRobotics/WRoverSoftware] Programming for the Wisconsin Rover project at UW-Madison.",
-    "how is this website hosted?": "[github.com/ArenKDesai/ArenWebsite] This website is hosted on GCP, with the LLM also running on GCP.",
-    "What simulation projects has Aren worked on?": "[arendesai.com/MSO-README.md] Check out his MarketSimOptimizer project for a complex MISO market simulation.",
-    "show me something cool!
+    "user question 1": "[link] with answer and explanation",
+    "user question 2": ["[link1] explanation1", "[link2] explanation2"],
     ...
 }
-```
-Please make at least 15 examples, but be unique and don't use the examples above. Use the third person ("he" instead of "I") Here's the website details for your reference:
-```
-arendesai.com (
-├── /portfolio (Includes a description of what I do and what degrees / certifications I have, and links to my linkedin and github)
-    ├── resume.pdf (link is arendesai.com/resume_nodetails.pdf)
-    └── cv.pdf (link is arendesai.com/cv_nodetails.pdf)
-├── /datascience (My data science projects)
-    ├── MarketSimOptimizer README.md (a complex simulation of the MISO market on a generation unit. closed source) (link is arendesai.com/MSO-README.md)
-    ├── This GCP Website (the website is hosted on GCP, and the LLM is hosted and rate limited on GCP as well) (link is github.com/ArenKDesai/ArenWebsite)
-    └── LMP Forecasting README.md (two models, one LEAR and one DNN, that model LMPs based on whitepapers. closed source) (link is arendesai.com/LMPF-README.md)
-├── /coursework (The coursework I completed in college)
-├── /computergraphics (The computer graphics projects I've made)
-    ├── Boat (a boat I made in blender and rendered in Unity) (link is github.com/ArenKDesai/Boat)
-    ├── Book of Joe (my first portfolio project I made for Honors Graphics, its a web game) (link is arendesai.com/bookofjoe)
-    └── CyberCity (my third portfolio project for Honors Graphics, its a 3D cyberpunk city) (link is arendesai.com/cybercity)
-└── /robotics (my robotics projects)
-    └── WRoverSoftware (the programming for the rover I worked on for UW - Madison) (link is github.com/WisconsinRobotics/WRoverSoftware)
-```
-Some details you might want to know about me:
-- My name is Aren Desai
-- I know Python, Java, JavaScript, Julia, C, C++, C#, R, SQL, and MatLab
-- I was the Finance Lead of the Google Developer Student Club from 2023-2024
-- I've worked at Compeer Financial and Madison Gas & Electric in data analytics
+
+Guidelines:
+1. Always include relevant links in [square brackets] at the start of answers
+2. Use third-person perspective ("he" not "I")
+3. Keep answers concise but informative (1-3 sentences)
+4. For multiple relevant resources, use an array format
+5. Bold related topics with **asterisks** to suggest follow-up questions
+6. Create diverse questions covering education, projects, skills, and experience
+7. Include simple questions ("tell me about Aren") and specific technical queries
+
+Website Structure:
+arendesai.com
+├── /portfolio - Professional overview, education, LinkedIn and GitHub links
+    ├── resume.pdf (arendesai.com/resume_nodetails.pdf)
+    └── cv.pdf (arendesai.com/cv_nodetails.pdf)
+├── /datascience - Data science projects
+    ├── MarketSimOptimizer (arendesai.com/MSO-README.md) - MISO market simulation
+    ├── LMP Forecasting (arendesai.com/LMPF-README.md) - LEAR & DNN price models
+    └── GCP Website (github.com/ArenKDesai/ArenWebsite) - Website with GCP-hosted LLM
+├── /computergraphics - Graphics projects
+    ├── Boat (github.com/ArenKDesai/Boat) - Blender/Unity 3D boat model
+    ├── Book of Joe (arendesai.com/bookofjoe) - Web-based portfolio game
+    └── CyberCity (arendesai.com/cybercity) - 3D cyberpunk city environment
+├── /robotics - Robotics work
+    └── WRoverSoftware (github.com/WisconsinRobotics/WRoverSoftware) - UW-Madison rover
+├── /coursework - Academic coursework at UW-Madison
+
+About Aren Desai:
+- Education: Computer Science & Data Science BS at UW-Madison (Spring 2025)
+- Technical Skills: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB
+- Graphics & Robotics: OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2
+- Data Science: Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras
+- Experience: Madison Gas & Electric (Energy Supply Intern), Compeer Financial (Data Analytics)
+- Projects: WebsiteLLM (Synthetic Data and Fine-Tuning), Wisconsin Rover software (ROS2)
+- Leadership: Google Developer Student Club (Finance Lead), Wisconsin Robotics (Arm Developer)
+
+Sample Questions (DO NOT REUSE THESE EXACT QUESTIONS):
+- What are Aren's technical skills?
+- Can you tell me about Aren's education?
+- What data science projects has Aren worked on?
+- Does Aren have experience with machine learning?
+- What programming languages does Aren know?
+- Tell me about Aren's work experience
+- What is the WRoverSoftware project?
+- What graphics projects has Aren created?
+- What courses has Aren taken in data science?
+- How can I see Aren's resume?
+
+Remember to generate diverse, natural-sounding questions that website visitors might ask. Vary between general and specific questions about different aspects of Aren's background and projects.
 \"\"\"\"
 """
 modelCommand = ["ollama", "run", "deepseek-r1:14b", dataPrompt]

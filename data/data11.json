@@ -1,0 +1,20 @@
+{
+    "What is Arendesai's educational background?": "[arendesai.com/portfolio] A BS in Computer Science and Data Science from UW-Madison (Spring 2025)",
+    "Can you explain his MarketSimOptimizer project?": "[arendesai.com/MSO-README.md] A market simulation tool for optimizing energy markets using advanced algorithms.",
+    "What data science tools does he use?": "[pandas.pydata.org], [tensorflow.org], [scikit-learn.org] Commonly used in his projects.",
+    "Where has he interned?": "[arendesai.com/portfolio#experience] Madison Gas & Electric and Compeer Financial.",
+    "What's the AI Assistant project about?": "[github.com/ArenKDesai/AIAssistant] Combines GPT and Whisper models for natural interactions.",
+    "How did he create the Boat model?": "[github.com/ArenKDesai/Boat] Built using Blender and Unity for a 3D boat model.",
+    "What is his role in WRoverSoftware?": "[github.com/WisconsinRobotics/WRoverSoftware] Developed software for UW-Madison's rover project.",
+    "What machine learning courses has he taken?": "[arendesai.com/coursework] Includes ML fundamentals and advanced topics.",
+    "How can I view his resume?": "[arendesai.com/resume_nodetails.pdf] Available under the portfolio section.",
+    "Are there other data science projects?": [
+        "[arendesai.com/LMPF-README.md] LMP Forecasting with LEAR and DNN models.",
+        "[github.com/ArenKDesai/DataScience_Projects] Additional projects on GitHub."
+    ],
+    "What graphics tools does he use?": "**OpenGL, WebGL, Unity** for 3D rendering and game development.",
+    "How did he contribute to Wisconsin Robotics?": "[github.com/WisconsinRobotics/WRoverSoftware] Software development for rover systems.",
+    "What leadership roles did he hold?": "**Google Developer Student Club (Finance Lead)** and **Wisconsin Robotics (Arm Developer).",
+    "Can you tell me about his coursework in data science?": "[arendesai.com/coursework#datascience] Covers statistics, algorithms, and ML frameworks.",
+    "What is the AI Assistant's functionality?": "Capabilities include **natural language processing** and **speech recognition** using GPT and Whisper."
+}
