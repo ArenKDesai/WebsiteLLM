@@ -1,0 +1,38 @@
+{
+    "What programming languages does Aren know?": [
+        "He knows Python, Java, JavaScript, Julia, C, C++, C#, R, SQL, and MatLab.",
+        "[github.com/ArenKDesai] You can find examples of his code on GitHub."
+    ],
+    "Where did Aren work in data analytics?": [
+        "[compeerrural.org] He worked at Compeer Financial in data analytics.",
+        "[madisongasandelectric.com] He also worked at Madison Gas & Electric in data analytics."
+    ],
+    "What is MarketSimOptimizer?": [
+        "[arendesai.com/MSO-README.md] It's a closed-source simulation of the MISO market for generation units."
+    ],
+    "Can you share Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Here's his resume.",
+        "[github.com/ArenKDesai] You can find more details about his work on GitHub."
+    ],
+    "What is the LMP Forecasting project?": [
+        "[arendesai.com/LMPF-README.md] It uses LEAR and DNN models to forecast locational market prices."
+    ],
+    "What was Aren's role in Google Developer Student Club?": [
+        "He was the Finance Lead from 2023-2024.",
+        "[github.com/ArenKDesai/GDSC] You can find more details about his contributions here."
+    ],
+    "Where can I find Aren's portfolio?": [
+        "[arendesai.com/portfolio] His portfolio is hosted here, with links to LinkedIn and GitHub."
+    ],
+    "What did Aren create in Blender?": [
+        "[github.com/ArenKDesai/Boat] He created a boat model in Blender that was rendered in Unity.",
+        "[arendesai.com/cybercity] He also designed a 3D cyberpunk city in Blender."
+    ],
+    "What is the Wisconsin Rover project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] It's robotic rover software he worked on at UW-Madison."
+    ],
+    "Where is this website hosted?": [
+        "It's hosted on Google Cloud Platform (GCP).",
+        "[github.com/ArenKDesai/ArenWebsite] Here's the GitHub repository for the website."
+    ]
+}

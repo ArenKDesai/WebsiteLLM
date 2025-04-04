@@ -1,0 +1,12 @@
+{
+    "What tools does Aren use for data analysis?": "[arendesai.com/datascience] He uses Python, R, SQL, and other programming languages for data analysis. His work on LMP forecasting and market simulations shows his proficiency in these tools.",
+    "Can you share any interesting robotics projects Aren has worked on?": "[github.com/WisconsinRobotics/WRoverSoftware] Here's the WRoverSoftware project, where he contributed to the software development for a rover at UW-Madison.",
+    "What programming languages does Aren know?": "He knows Python, Java, JavaScript, Julia, C/C++, C#, R, SQL, and MATLAB. His work across various projects demonstrates his versatility in these languages.",
+    "Where can I find Aren's portfolio and resume?": "[arendesai.com/portfolio] Visit his portfolio page for a detailed description of his work and achievements. His resume and CV are available at [arendesai.com/resume_nodetails.pdf] and [arendesai.com/cv_nodetails.pdf], respectively.",
+    "What is the Book of Joe project?": "[arendesai.com/bookofjoe] It's his first portfolio project, a web game he created for an honors graphics course at UW-Madison.",
+    "How does Aren use Google Cloud Platform?": "[github.com/ArenKDesai/ArenWebsite] He hosts this website on GCP and also runs the LLM on GCP with rate limiting.",
+    "What is the MarketSimOptimizer project about?": "[arendesai.com/MSO-README.md] It's a closed-source simulation of the MISO market, focusing on generation unit behavior in energy markets.",
+    "Where can I find Aren's coursework from college?": "[arendesai.com/coursework] This section includes the coursework he completed during his studies.",
+    "What is the CyberCity project?": "[arendesai.com/cybercity] It's a 3D cyberpunk city project, part of his computer graphics portfolio.",
+    "How was Aren involved with Google Developer Student Clubs?": "He served as the Finance Lead from 2023-2024, contributing to the club's financial management and operations."
+}

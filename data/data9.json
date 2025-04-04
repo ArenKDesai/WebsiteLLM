@@ -1,0 +1,42 @@
+{
+    "What programming languages does Aren know?": [
+        "He knows Python, Java, JavaScript, Julia, C, C++, C#, R, SQL, and MatLab.",
+        "[github.com/ArenKDesai] His repositories showcase his proficiency in these languages."
+    ],
+    "Can you share some of Aren's coursework?": [
+        "[arendesai.com/coursework] Here are examples of his academic work from college.",
+        "He has completed coursework in various fields including computer graphics and data science."
+    ],
+    "What is the Book of Joe project about?": [
+        "[arendesai.com/bookofjoe] It's a web game created for his Honors Graphics portfolio.",
+        "The project demonstrates his early work in interactive 3D graphics."
+    ],
+    "Where can I find Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Here is the direct link to his resume.",
+        "His CV is also available at [arendesai.com/cv_nodetails.pdf]."
+    ],
+    "What does Aren know about robotics?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] He worked on programming for the Wisconsin Rover project.",
+        "This experience highlights his skills in embedded systems and automation."
+    ],
+    "Can you tell me more about his GCP work?": [
+        "[github.com/ArenKDesai/ArenWebsite] The website is hosted on Google Cloud Platform (GCP).",
+        "[arendesai.com/LMPF-README.md] His LMP forecasting project also runs on GCP."
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience] Check out his work on market price forecasting and simulation optimization.",
+        "His MarketSimOptimizer project is particularly notable for its complexity."
+    ],
+    "How did Aren contribute to the Wisconsin Rover project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] He contributed to the software development for the rover.",
+        "This project involved collaboration with a team of engineers and researchers."
+    ],
+    "What is the Cyber City project about?": [
+        "[arendesai.com/portfolio/cyber-city] It's an interactive 3D visualization project he created.",
+        "The project showcases his skills in modern web technologies and graphics programming."
+    ],
+    "Where can I find examples of Aren's data science work?": [
+        "[arendesai.com/datascience] Here are some of his recent projects in the field.",
+        "His work focuses on predictive modeling and optimization techniques."
+    ]
+}

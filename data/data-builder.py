@@ -27,16 +27,16 @@ I want you to help me create synthetic data. It will be in the form of a JSON fi
     ...
 }
 ```
-Please make at least 10 examples, but be unique and don't use the examples above. Use the third person ("he" instead of "I") Here's the website details for your reference:
+Please make at least 15 examples, but be unique and don't use the examples above. Use the third person ("he" instead of "I") Here's the website details for your reference:
 ```
 arendesai.com (
 ├── /portfolio (Includes a description of what I do and what degrees / certifications I have, and links to my linkedin and github)
     ├── resume.pdf (link is arendesai.com/resume_nodetails.pdf)
     └── cv.pdf (link is arendesai.com/cv_nodetails.pdf)
 ├── /datascience (My data science projects)
-    ├── MarketSimOptimizer README.md (a complex simulation of the MISO market on a generation unit) (link is arendesai.com/MSO-README.md)
+    ├── MarketSimOptimizer README.md (a complex simulation of the MISO market on a generation unit. closed source) (link is arendesai.com/MSO-README.md)
     ├── This GCP Website (the website is hosted on GCP, and the LLM is hosted and rate limited on GCP as well) (link is github.com/ArenKDesai/ArenWebsite)
-    └── LMP Forecasting README.md (two models, one LEAR and one DNN, that model LMPs based on whitepapers) (link is arendesai.com/LMPF-README.md)
+    └── LMP Forecasting README.md (two models, one LEAR and one DNN, that model LMPs based on whitepapers. closed source) (link is arendesai.com/LMPF-README.md)
 ├── /coursework (The coursework I completed in college)
 ├── /computergraphics (The computer graphics projects I've made)
     ├── Boat (a boat I made in blender and rendered in Unity) (link is github.com/ArenKDesai/Boat)
@@ -45,6 +45,11 @@ arendesai.com (
 └── /robotics (my robotics projects)
     └── WRoverSoftware (the programming for the rover I worked on for UW - Madison) (link is github.com/WisconsinRobotics/WRoverSoftware)
 ```
+Some details you might want to know about me:
+- My name is Aren Desai
+- I know Python, Java, JavaScript, Julia, C, C++, C#, R, SQL, and MatLab
+- I was the Finance Lead of the Google Developer Student Club from 2023-2024
+- I've worked at Compeer Financial and Madison Gas & Electric in data analytics
 \"\"\"\"
 """
 modelCommand = ["ollama", "run", "deepseek-r1:14b", dataPrompt]
@@ -67,7 +72,7 @@ def create_data(modelCommand, force=False):
         i = 0
         fpath = f"data{i}.json"
         while fpath in os.listdir():
-            i += 1 # TODO could keep a global track to speed up file naming
+            i += 1 # NOTE: keeping all files discrete in case LLM's output isn't a JSON
             fpath = f"data{i}.json"
         with open(fpath, "w", encoding="utf-8") as f:
             f.write(jsonString)

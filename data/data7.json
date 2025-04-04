@@ -1,0 +1,19 @@
+{
+    "What is Aren Desai's portfolio like?": "[arendesai.com/portfolio] You can explore his portfolio here, which includes descriptions of his degrees, certifications, and links to LinkedIn and GitHub. He also has a detailed resume available at [arendesai.com/resume_nodetails.pdf].",
+    "Can you share some of Aren's data science projects?": "[arendesai.com/datascience] Check out his MarketSimOptimizer project for simulating the MISO market, as well as his work on LMP forecasting using LEAR and DNN models. His This GCP Website project showcases his experience with Google Cloud Platform.",
+    "What robotics projects has Aren worked on?": "[github.com/WisconsinRobotics/WRoverSoftware] Aren contributed to the WRoverSoftware for the Wisconsin Rover project at UW-Madison.",
+    "What are some of Aren's computer graphics projects?": [
+        "[github.com/ArenKDesai/Boat] A boat model created in Blender and rendered in Unity.",
+        "[arendesai.com/bookofjoe] Book of Joe, his first portfolio project, a web game developed for Honors Graphics.",
+        "[arendesai.com/cybercity] CyberCity, a 3D cyberpunk city project from his coursework."
+    ],
+    "What programming languages does Aren know?": "Aren is proficient in Python, Java, JavaScript, Julia, C, C++, C#, R, SQL, and MatLab.",
+    "Where can I find Aren's academic work?": "[arendesai.com/coursework] This section includes coursework from his studies in college, with links to related projects and achievements.",
+    "What is Aren's experience with cloud platforms?": "[github.com/ArenKDesai/ArenWebsite] His website is hosted on Google Cloud Platform (GCP), and he also runs an LLM on GCP for this project.",
+    "Does Aren have any open-source projects?": "[github.com/ArenKDesai/Boat] Boat is one of his open-source projects, where he created a boat model in Blender and rendered it using Unity. He has other projects available on GitHub as well.",
+    "What was Aren's role in the Google Developer Student Club?": "Aren served as the Finance Lead for the Google Developer Student Club from 2023-2024, demonstrating his leadership skills in tech communities.",
+    "Where has Aren worked professionally?": [
+        "Compeer Financial - Data analytics work.",
+        "Madison Gas & Electric - Data analytics role."
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "What is your background?": "[arendesai.com/portfolio] Here you can find information about Aren's education, certifications, and professional experience. He has a strong background in data analytics and computer graphics.",
+    "What programming languages do you know?": "Aren knows Python, Java, JavaScript, Julia, C, C++, C#, R, SQL, and MatLab. For more details about his technical skills, check out his portfolio page [arendesai.com/portfolio].",
+    "Do you have any educational resources available?": "[arendesai.com/coursework] Here you can find coursework completed by Aren during his academic career.",
+    "What is a standout project of yours?": "[arendesai.com/MSO-README.md] Check out the MarketSimOptimizer, a complex simulation project where he modeled MISO market operations. He also has a portfolio project called CyberCity, a 3D cyberpunk city available at [arendesai.com/cybercity].",
+    "Show me your portfolio!": "[arendesai.com/portfolio] Here is Aren's portfolio page, which includes links to his GitHub, LinkedIn, and details about his work in data science and computer graphics.",
+    "Where can I find your resume?": "[arendesai.com/resume_nodetails.pdf] You can download Aren's resume from his portfolio page at [arendesai.com/portfolio].",
+    "Have you worked in the finance sector?": "Yes, Aren has experience as the Finance Lead of the Google Developer Student Club and has worked at Compeer Financial. For more details about his professional experience, visit [arendesai.com/portfolio].",
+    "What is this website built with?": "[github.com/ArenKDesai/ArenWebsite] This website is hosted on GCP and uses a custom-built frontend. The LLM running behind it is also hosted on GCP.",
+    "Can you explain machine learning concepts to me?": "Aren has worked on projects like the LMP Forecasting project, which involves machine learning models for market price forecasting. Check out [arendesai.com/LMPF-README.md] for more details.",
+    "Do you have any cool open-source projects?": "[github.com/ArenKDesai] Here are some of Aren's open-source projects, including a Unity boat project and the Wisconsin Rover software from his time at the University of Wisconsin-Madison."
+}

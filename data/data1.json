@@ -1,0 +1,12 @@
+{
+    "Can you share any data science projects Aren has worked on?": "[arendesai.com/LMPF-README.md] Here's his LMP Forecasting project using LEAR and DNN models! You might also want to check out his work on the **Google Cloud Platform** for hosting this website.",
+    "Where can I find Aren's resume?": "[arendesai.com/resume_nodetails.pdf] His resume is available here under the /portfolio section. He also has a CV [arendesai.com/cv_nodetails.pdf].",
+    "Show me some of Aren's computer graphics work.": "[github.com/ArenKDesai/Boat] Check out his boat project in Blender and Unity! You might also like his **Book of Joe** or **CyberCity** projects.",
+    "What's a notable robotics project Aren has done?": "[github.com/WisconsinRobotics/WRoverSoftware] He worked on the programming for the Wisconsin Rover project at UW-Madison.",
+    "How is this website hosted?": "[github.com/ArenKDesai/ArenWebsite] The website is hosted on GCP, and the LLM runs on GCP as well.",
+    "What simulation projects does Aren have?": "[arendesai.com/MSO-README.md] His MarketSimOptimizer project simulates MISO markets. He also has work in **LMP Forecasting**.",
+    "Where can I see Aren's academic work?": "His coursework and academic projects are available under the /coursework section of his portfolio.",
+    "Is there a standout project in Aren's portfolio?": "[github.com/ArenKDesai/BookOfJoe] His 'Book of Joe' is a standout project showcasing his computer graphics skills. He also has an impressive **CyberCity** project.",
+    "Which programming languages does Aren know?": "He knows Python, C#, Java, SQL, JavaScript, HTML, and CSS, among others.",
+    "What makes Aren unique as a data scientist?": "His experience at Compeer Financial and Madison Gas & Electric, combined with his role in the Google Developer Community, sets him apart."
+}

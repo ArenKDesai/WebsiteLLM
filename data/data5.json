@@ -1,0 +1,38 @@
+{
+    "What programming languages does Aren know?": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "Julia",
+        "C",
+        "C++",
+        "C#",
+        "R",
+        "SQL",
+        "MatLab"
+    ],
+    "Where can I find Aren's data science projects?": [
+        "[arendesai.com/LMPF-README.md] Check out his Locational Market Price Forecasting project using LEAR and DNN models.",
+        "[github.com/ArenKDesai/ArenWebsite] This website is hosted on GCP, with the LLM also running on GCP."
+    ],
+    "What was Aren's role at Compeer Financial?": "[compeerfinancial.com] He served as the Finance Lead of the Google Developer Student Club from 2023-2024.",
+    "Can you share details about Aren's robotics projects?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Programming for the Wisconsin Rover project at UW-Madison.",
+        "[arendesai.com/robotics] Additional robotics-related work can be found here."
+    ],
+    "What academic coursework has Aren completed?": "[arendesai.com/coursework] Detailed coursework from his studies is available here.",
+    "How did Aren get involved in cyberpunk aesthetics?": "[arendesai.com/cybercity] His CyberCity project, a 3D cyberpunk city, showcases his interest in futuristic designs.",
+    "What tools does Aren use for data analytics?": [
+        "Python",
+        "R",
+        "SQL",
+        "Google Cloud Platform",
+        "Jupyter Notebooks"
+    ],
+    "Where can I find Aren's portfolio?": "[arendesai.com/portfolio] His portfolio includes descriptions of his work, degrees, certifications, and links to LinkedIn and GitHub.",
+    "What does Aren's Honors Graphics coursework include?": [
+        "[arendesai.com/bookofjoe] Book of Joe, his first portfolio project for Honors Graphics, is a web game he developed.",
+        "[github.com/ArenKDesai/Boat] A boat-building project using 3D modeling and simulation."
+    ],
+    "How does Aren approach problem-solving?": "[arendesai.com/thoughts] Insights into his problem-solving methodology can be found in his blog posts."
+}
