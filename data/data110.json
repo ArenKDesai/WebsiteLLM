@@ -1,0 +1,82 @@
+{
+    "What are Aren's professional experiences?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "He has experience as an Energy Supply Intern at Madison Gas & Electric and a Data Analytics role at Compeer Financial."
+    ],
+    "Does Aren have experience with machine learning?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "Yes, he has worked on data science projects using Python, R, and TensorFlow for predictive modeling."
+    ],
+    "What programming languages does Aren know?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "He is proficient in Python, SQL, Java, C/C++, JavaScript, Julia, MATLAB, and more."
+    ],
+    "Tell me about his academic background.": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "He is pursuing a BS in Computer Science and Data Science at UW-Madison, set to graduate in Spring 2025."
+    ],
+    "What graphics projects has Aren created?": [
+        "https://aredesai.com/cybercity",
+        "He developed a 3D cyberpunk city environment using Blender and Unity."
+    ],
+    "How can I see Aren's resume?": [
+        "https://aredesai.com/resume_nodetails.pdf",
+        "Download the resume from his portfolio page or directly access it via the provided link."
+    ],
+    "What is the WRoverSoftware project?": [
+        "https://github.com/WisconsinRobotics/WRoverSoftware",
+        "It's a software system developed for the Wisconsin Rover, integrating ROS2 and custom algorithms for autonomous navigation."
+    ],
+    "Does Aren have experience with WebGL or OpenGL?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "Yes, he has experience in graphics development using WebGL and OpenGL for 3D applications."
+    ],
+    "What courses has Aren taken in data science?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "He has completed coursework in Python programming, data analysis, machine learning, and cloud computing."
+    ],
+    "How can I learn more about his leadership roles?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "He led the Finance Lead team at Google Developer Student Club and was an Arm Developer for Wisconsin Robotics."
+    ],
+    "What is the MarketSimOptimizer project?": [
+        "https://arendesai.com/MSO-README.md",
+        "It's a market simulation tool using MISO data and optimization algorithms to predict energy prices."
+    ],
+    "Can you tell me about the LMP Forecasting project?": [
+        "https://arendesai.com/LMPF-README.md",
+        "He developed a forecasting model using LEAR and deep neural networks for power load management."
+    ],
+    "What is the GCP Website project?": [
+        "https://github.com/ArenKDesai/ArenWebsite",
+        "It's a website hosted on Google Cloud Platform featuring an LLM integration for conversational AI."
+    ],
+    "Does Aren have experience with ROS/ROS2?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "Yes, he worked extensively with ROS and ROS2 for robot control systems in the Wisconsin Rover project."
+    ],
+    "How can I contact Aren for a job opportunity?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "His resume provides contact information; reach out via email or LinkedIn for opportunities."
+    ],
+    "What is the purpose of the CyberCity project?": [
+        "https://arendesai.com/cybercity",
+        "It's a 3D visualization project aimed at exploring urban planning and architectural design in a cyberpunk setting."
+    ],
+    "Does Aren have experience with cloud computing?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "Yes, he has worked on cloud-based solutions for data storage and AI applications using Google Cloud."
+    ],
+    "What is the difference between his resume and CV?": [
+        "https://aredesai.com/cv_nodetails.pdf",
+        "The resume highlights career history, while the CV provides detailed technical skills and academic background."
+    ],
+    "Can you explain the MISO data used in MarketSimOptimizer?": [
+        "https://arendesai.com/MSO-README.md",
+        "MISO stands for Mid-Columbia Intersection Point; it's a real-time energy market data feed used for optimization."
+    ],
+    "What challenges did he face while developing LMP Forecasting?": [
+        "https://arendesai.com/LMPF-README.md",
+        "He overcame data noise and model accuracy issues by implementing advanced algorithms and fine-tuning hyperparameters."
+    ]
+}

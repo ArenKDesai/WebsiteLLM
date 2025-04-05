@@ -1,0 +1,60 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com] A detailed overview of Aren's professional journey, education, and projects.",
+        "Aren is a talented individual with a strong background in computer science and data science. **Explore more** about his skills and experience."
+    ],
+    "What are Aren's technical skills?": [
+        "[arendesai.com/technical-skills] Detailed list of programming languages and tools he knows, including Python, SQL, R, Java, and others."
+    ],
+    "Can you explain Aren's education background?": [
+        "[arendesai.com/portfolio] Education section highlights his BS in Computer Science & Data Science from UW-Madison (Spring 2025)."
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience] Projects include MarketSimOptimizer for MISO market simulation and LMP Forecasting with LEAR and DNN models."
+    ],
+    "Which programming languages does Aren know?": [
+        "[arendesai.com/technical-skills] Languages include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB."
+    ],
+    "What graphics projects has Aren created?": [
+        "[arendesai.com/computergraphics] Projects like Boat (Blender/Unity model) and CyberCity (3D cyberpunk environment)."
+    ],
+    "Can you tell me about Aren's work experience?": [
+        "[arendesai.com/portfolio] Experience includes internships at Madison Gas & Electric and Compeer Financial in data analytics."
+    ],
+    "What is the MarketSimOptimizer project?": [
+        "[arendesai.com/MSO-README.md] A market simulation tool for MISO, developed using Python and related frameworks."
+    ],
+    "Does Aren have experience with machine learning?": [
+        "[arendesai.com/datascience] Yes, he has worked on projects like LMP Forecasting using PyTorch and TensorFlow."
+    ],
+    "What tools does Aren use in robotics?": [
+        "[arendesai.com/robotics] Tools include ROS/ROS2, Gazebo, and experience with the Wisconsin Rover Software project."
+    ],
+    "Can you explain Aren's leadership roles?": [
+        "[arendesai.com/portfolio] Leadership includes being Finance Lead at Google Developer Student Club and Arm Developer at Wisconsin Robotics."
+    ],
+    "What coursework has Aren completed?": [
+        "[arendesai.com/coursework] Courses include advanced topics in data science, computer graphics, and robotics at UW-Madison."
+    ],
+    "How can I see Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Download his detailed resume for a comprehensive look at his qualifications."
+    ],
+    "What is the GCP Website project?": [
+        "[github.com/ArenKDesai/ArenWebsite] A website hosted on Google Cloud Platform featuring a LLM, built with Python and Flask."
+    ],
+    "Can you tell me about Aren's involvement in computer graphics?": [
+        "[arendesai.com/computergraphics] Projects include 3D modeling with Blender and Unity, as well as game development concepts."
+    ],
+    "What is the Wisconsin Rover Software project?": [
+        "[github.com/... ] Developed at UW-Madison, this software focuses on robotics and autonomous systems using ROS."
+    ],
+    "How does Aren use Python in his projects?": [
+        "[arendesai.com/datascience] Python is widely used in data analysis, machine learning, and web development across his projects."
+    ],
+    "Can you explain Aren's interest in data science?": [
+        "[arendesai.com/datascience] His passion lies in applying statistical methods to solve real-world problems using tools like R and TensorFlow."
+    ],
+    "What is the LEAR model used for in LMP Forecasting?": [
+        "[arendesai.com/LMP-forecasting] A machine learning model for predicting electricity market prices, leveraging historical data and advanced algorithms."
+    ]
+}

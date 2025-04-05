@@ -1,0 +1,22 @@
+{
+    "What industries has Aren worked in?": "[arendesai.com/portfolio/workexperience.pdf] He has worked in energy supply and data analytics sectors.",
+    "Can you tell me about his leadership roles?": "[arendesai.com/portfolio/leadership.pdf] He led Google Developer Student Club's finance team and Wisconsin Robotics' arm development initiatives.",
+    "What programming languages does he know?": "[arendesai.com/portfolio/skills.pdf] He is proficient in Python, SQL, R, Java, C/C++, C#, JavaScript, Julia, and MATLAB.",
+    "How is his education structured?": "[arendesai.com/portfolio/education.pdf] He is pursuing a BS in Computer Science & Data Science at UW-Madison with a 2025 graduation.",
+    "Does he have experience with machine learning?": "[arendesai.com/datascience/miso-projects.md] Yes, through projects like MarketSimOptimizer using LEAR and DNN models.",
+    "What projects focus on data science?": "[arendesai.com/datascience/datascience_projects.pdf] He worked on MarketSimOptimizer and LMP Forecasting with price model development.",
+    "What specific skills has he developed?": "[arendesai.com/portfolio/skills.pdf] Skills include data analysis, software development, and project management.",
+    "What tools and frameworks does he use?": "[arendesai.com/portfolio/tools.pdf] Tools include Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras, and ROS/ROS2.",
+    "How can I see his resume or CV?": "[arendesai.com/portfolio/resume.pdf] His resume is available on the portfolio section of his website.",
+    "Is he involved in any open-source projects?": "[github.com/ArenKDesai/open_source_projects.md] Yes, including the Wisconsin Rover software and Boat model project.",
+    "What about his work at Madison Gas & Electric?": "[arendesai.com/portfolio/workexperience.pdf] He interned there focusing on energy supply systems.",
+    "Does he have experience with robotics?": "[github.com/ArenKDesai/robotics_projects.md] Yes, through the Wisconsin Rover software using ROS2.",
+    "Can you explain his graphics projects?": "[github.com/ArenKDesai/computergraphics_projects.md] He created 3D models like the Boat and CyberCity environment in Blender and Unity.",
+    "What about cybersecurity skills?": "[arendesai.com/portfolio/cybersecurity.pdf] He has experience with network security and data protection frameworks.",
+    "How does he approach problem-solving?": "[arendesai.com/portfolio/skills.pdf] He uses iterative methods, focusing on breaking down complex problems into manageable steps.",
+    "Has he worked on any specific algorithms?": "[github.com/ArenKDesai/algorithms_repository.md] Yes, including clustering and predictive models for energy systems.",
+    "What courses has he taken in computer science?": "[arendesai.com/portfolio/education.pdf] Courses include data structures, machine learning, and software development practices.",
+    "How can I access his GitHub repositories?": "[github.com/ArenKDesai/github_access.md] His repositories are available on GitHub for public access.",
+    "What is the WRoverSoftware project?": "[github.com/ArenKDesai/robotics_projects.md] It's the software developed for the Wisconsin Rover competition, utilizing ROS2 for autonomous navigation.",
+    "Can you explain his experience with Julia?": "[youtube.com/watch?v=jl12bLKIa1A] He has experience using Julia for numerical computing and data analysis tasks."
+}

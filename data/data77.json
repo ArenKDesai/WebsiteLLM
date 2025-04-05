@@ -1,0 +1,46 @@
+{
+    "Tell me about Aren Desai": ["[arendesai.com] Overview of Aren's professional background and portfolio"],
+    "What is Aren's educational background?": ["[arendesai.com/portfolio] Computer Science & Data Science BS at UW-Madison (Spring 2025)"],
+    "Can you list Aren's technical skills?": ["[arendesai.com/technical-skills.pdf] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for MISO market simulation",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting with LEAR & DNN models"
+    ],
+    "Does Aren have experience with machine learning?": ["[arendesai.com/datascience] Yes, he has worked on projects involving PyTorch and TensorFlow"],
+    "What programming languages does Aren know?": ["[arendesai.com/technical-skills.pdf] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Tell me about Aren's work experience": [
+        "[arendesai.com/portfolio] Madison Gas & Electric (Energy Supply Intern)",
+        "[arendesai.com/portfolio] Compeer Financial (Data Analytics)"
+    ],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] Boat - Blender/Unity 3D model",
+        "[arendesai.com/bookofjoe] Book of Joe - Web-based portfolio game"
+    ],
+    "What robotics work has Aren done?": ["[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware for UW-Madison rover"],
+    "How can I see Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Download resume"],
+    "What coursework has Aren taken?": [
+        "[arendesai.com/coursework] Data Science courses at UW-Madison",
+        "[arendesai.com/coursework] Computer Graphics and Robotics electives"
+    ],
+    "What leadership roles does Aren have?": [
+        "**Google Developer Student Club** (Finance Lead)",
+        "**Wisconsin Robotics** (Arm Developer)"
+    ],
+    "What is MarketSimOptimizer?": ["[arendesai.com/datascience/MSO-README.md] MISO market simulation tool"],
+    "Can you explain LMP Forecasting?": [
+        "[arendesai.com/datascience/LMPF-README.md] LEAR & DNN models for energy price forecasting"
+    ],
+    "What is the Wisconsin Rover project?": ["[github.com/WisconsinRobotics/WRoverSoftware] Rover software development"],
+    "Does Aren have any web development experience?": [
+        "[arendesai.com/portfolio] GCP Website - Hosted LLM with Flask/Django"
+    ],
+    "What 3D modeling tools does Aren use?": ["[github.com/ArenKDesai/Boat] Blender, Unity, Gazebo"],
+    "Can you provide details on Book of Joe?": [
+        "[arendesai.com/bookofjoe] Interactive web-based portfolio game"
+    ],
+    "What is the purpose of MarketSimOptimizer?": ["[arendesai.com/datascience/MSO-README.md] Simulate energy market scenarios"],
+    "Has Aren worked on any gaming projects?": [
+        "[github.com/ArenKDesai/Boat] Boat - 3D model for Unity",
+        "[arendesai.com/bookofjoe] Book of Joe - Interactive web game"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Tell me about Aren Desai": "[/about] Learn more about Aren's background in computer science and data science.",
+    "What is Aren Desai known for?": "[/portfolio] Discover his professional journey and achievements in tech.",
+    "Where can I find Aren's resume?": ["[/portfolio/resume.pdf] Download his resume with detailed work experience.", 
+                                    "[/portfolio/cv_nodetails.pdf] View a condensed version of his CV."],
+    "What technical skills does Aren have?": [
+        "**Programming Languages**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB",
+        "**Data Science Tools**: Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras",
+        "**Graphics & Robotics**: OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2"
+    ],
+    "What projects has Aren worked on?": [
+        "[/datascience/MSO-README.md] MarketSimOptimizer - MISO market simulation platform.",
+        "[/computergraphics/Boat] Boat - 3D boat model created in Blender and Unity.",
+        "[/robotics/WRoverSoftware] WRoverSoftware - UW-Madison rover software."
+    ],
+    "What is the GCP Website project?": "[/datascience/GCP-Website] A website hosted on Google Cloud Platform featuring a language learning LLM.",
+    "How does Aren use Python?": [
+        "**Data Science**: Pandas, NumPy for data manipulation and analysis.",
+        "**Machine Learning**: PyTorch, TensorFlow for model development."
+    ],
+    "What is the Book of Joe project?": "[/computergraphics/bookofjoe] A web-based portfolio game showcasing interactive design skills.",
+    "Can you tell me about Aren's education?": [
+        "**Bachelor of Science in Computer Science & Data Science** at UW-Madison (Spring 2025)",
+        "**Relevant Coursework**: [View Details](/coursework)"
+    ],
+    "What is LMP Forecasting?": "[/datascience/LMPF-README.md] Predictive pricing models using LEAR and DNN frameworks.",
+    "How does Aren contribute to robotics?": "[/robotics/WRoverSoftware] Software development for the UW-Madison rover project.",
+    "What experience does Aren have in energy?": [
+        "**Madison Gas & Electric**: Intern focused on energy supply optimization.",
+        "**Compeer Financial**: Data analytics intern."
+    ],
+    "How can I contact Aren?": "[/contact] Find his LinkedIn and GitHub profiles for connection opportunities.",
+    "What is ROS2?": "[/robotics/WRoverSoftware] A robotics framework used in the Wisconsin Rover project.",
+    "Where can I see Aren's 3D graphics work?": [
+        "[/computergraphics/cybercity] Explore a cyberpunk city environment created by Aren.",
+        "[/computergraphics/Boat] View a detailed 3D boat model built in Blender and Unity."
+    ],
+    "What is the Wisconsin Robotics team?": "[/robotics/WRoverSoftware] A student organization focused on developing autonomous vehicles.",
+    "How does Aren use JavaScript?": "**Web Development**: Building interactive interfaces for web-based applications.",
+    "What leadership roles has Aren held?": [
+        "**President of Wisconsin Robotics**: Led teams in software development and project management."
+    ],
+    "Where can I find Aren's academic papers?": "[/publications] Access research papers authored by Aren Desai."
+}

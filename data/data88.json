@@ -1,0 +1,47 @@
+{
+    "What is Aren's field of study?": "[arendesai.com/coursework]",
+    "Where can I find his resume and CV?": [
+        "arendesai.com/resume_nodetails.pdf",
+        "arendesai.com/cv_nodetails.pdf"
+    ],
+    "What technical skills does Aren have?": [
+        "Python",
+        "SQL",
+        "R",
+        "Java",
+        "C#",
+        "JavaScript",
+        "Julia",
+        "MATLAB"
+    ],
+    "Does he have experience with machine learning?": "[arendesai.com/datascience/LMPF-README.md]",
+    "Can you tell me about the Wisconsin Rover software project?": "[github.com/ArenKDesai/WRoverSoftware)",
+    "What is the MarketSimOptimizer project?": "[arendesai.com/datascience/MISO-README.md]",
+    "How can I access the GCP Website project?": "[github.com/ArenKDesai/ArenWebsite]",
+    "Can you tell me about the Boat project in computer graphics?": "[github.com/ArenKDesai/Boat]",
+    "What is the Book of Joe project?": "[arendesai.com/bookofjoe]",
+    "How can I see Aren's LinkedIn profile?": "[linkedin.com/in/arendesai]",
+    "Can you tell me about his work experience?": "[arendesai.com/portfolio]",
+    "What is the CyberCity project?": "[arendesai.com/cybercity]",
+    "How can I access his GitHub repositories?": [
+        "github.com/ArenKDesai/Boat",
+        "github.com/ArenKDesai/WRoverSoftware",
+        "github.com/ArenKDesai/ArenWebsite"
+    ],
+    "Can you tell me about his data science projects?": "[arendesai.com/datascience]",
+    "What programming languages does he know?": [
+        "Python",
+        "SQL",
+        "R",
+        "Java",
+        "C#",
+        "JavaScript",
+        "Julia",
+        "MATLAB"
+    ],
+    "How can I find out more about his education?": "[arendesai.com/coursework]",
+    "Can you explain the WebsiteLLM project?": "[github.com/ArenKDesai/WebsiteLLM]",
+    "Does he have experience with robotics?": "[github.com/ArenKDesai/WRoverSoftware]",
+    "What courses has he taken in data science?": "[arendesai.com/coursework]",
+    "How can I contact him for a job opportunity?": "[linkedin.com/in/arendesai]"
+}

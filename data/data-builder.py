@@ -19,7 +19,7 @@ Output Format:
 }
 
 Guidelines:
-1. Always include a relevant link in [square brackets] at the start of answers
+1. Always include a relevant link in [square brackets] at the start of answers. This should be a real, working link, and not a placeholder
 2. Use third-person perspective ("he" not "I")
 3. Keep answers concise but informative (1-3 sentences)
 4. For multiple relevant resources, use an array format
@@ -68,7 +68,7 @@ Sample Questions (DO NOT REUSE THESE EXACT QUESTIONS):
 Remember to generate diverse, natural-sounding questions that website visitors might ask. Vary between general and specific questions about different aspects of Aren's background and projects.
 \"\"\"\"
 """
-modelCommand = ["ollama", "run", "deepseek-r1:14b", dataPrompt]
+modelCommand = ["ollama", "run", "deepseek-r1:8b", dataPrompt]
 
 # Data Creation
 def create_data(modelCommand, force=False):
@@ -104,7 +104,9 @@ def create_data(modelCommand, force=False):
             "error": [str(e)]
         })
         if os.path.exists("log.csv"):
-            errors.write_csv("log.csv", has_header=False, append=True)
+            old_errors = pl.read_csv("log.csv")
+            new_errors = old_errors.vstack(errors)
+            new_errors.write_csv("log.csv")
         else:
             errors.write_csv("log.csv")
         print(f"{datetime.now().ctime()} error")

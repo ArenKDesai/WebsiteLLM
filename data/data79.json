@@ -1,0 +1,23 @@
+{
+    "What is Aren Desai's educational background?": ["[arendesai.com/resume_nodetails.pdf] He is pursuing a BS in Computer Science and Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."],
+    "Can you provide details about his technical skills?": ["**Technical Skills**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."],
+    "What data science projects has he worked on?": ["[arendesai.com/MSO-README.md] MarketSimOptimizer - MISO market simulation", "[arendesai.com/LMPF-README.md] LMP Forecasting - LEAR & DNN price models"],
+    "Does he have experience with machine learning?": ["Yes, he has worked on projects involving PyTorch and TensorFlow. [Link to projects](#). **Machine Learning** is a key area of his expertise."],
+    "What programming languages does he know?": ["**Programming Languages**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB."],
+    "Tell me about his work experience.": ["He has interned at Madison Gas & Electric (Energy Supply Intern) and Compeer Financial (Data Analytics). [More details](#)."],
+    "What is the WRoverSoftware project?": ["[github.com/WisconsinRobotics/WRoverSoftware] It's software for a rover developed during his time at the University of Wisconsin-Madison."],
+    "What graphics projects has he created?": ["[github.com/ArenKDesai/Boat] Boat - Blender/Unity 3D boat model", "[arendesai.com/bookofjoe] Book of Joe - Web-based portfolio game"],
+    "How can I see his resume?": ["Download his resume from [arendesai.com/resume_nodetails.pdf] or CV from [arendesai.com/cv_nodetails.pdf]."],
+    "What coursework has he completed?": ["He has taken courses in data science, computer graphics, and robotics at UW-Madison. [Coursework details](#). **Academic Background** includes foundational subjects in CS and DS."],
+    "Can you tell me about his leadership roles?": ["He is the Finance Lead of Google Developer Student Club and part of Wisconsin Robotics. [More info](#)."],
+    "What is his experience with robotics?": ["He contributed to the WRoverSoftware project at UW-Madison. **Robotics** is a key area of interest for him."],
+    "How does he use Python in his projects?": ["Python is used extensively in his data science and machine learning projects, such as [MSO-README.md] and [LMPF-README.md]."],
+    "What about his experience with web development?": ["He has worked on web-based projects like the Book of Joe. **Web Development** skills include JavaScript and WebGL."],
+    "Does he have experience with cloud technologies?": ["Yes, he developed a GCP-hosted LLM website. [Link to project](#). **Cloud Computing** is part of his technical expertise."],
+    "What are his interests in computer graphics?": ["He has created 3D models and environments, such as the CyberCity project. [More details](#)."],
+    "How does he approach problem-solving?": ["His approach combines technical skills with creative solutions, evident in projects like WebsiteLLM. **Problem-Solving** is a core aspect of his work."],
+    "What are his career goals?": ["Aren aims to leverage his expertise in data science and computer graphics for innovative projects. [More info](#)."],
+    "Can you tell me about his involvement in clubs?": ["He leads the Google Developer Student Club as Finance Lead and contributes to Wisconsin Robotics. **Clubs** highlight his collaborative spirit."],
+    "What are his future plans?": ["He plans to continue developing in data science and robotics, with a focus on impactful projects. [More details](#)."],
+    "How can I contact him for collaboration?": ["Please visit his GitHub profile or LinkedIn for more information. [Contact details](#)."]
+}

@@ -1,0 +1,46 @@
+{
+    "user question 1": "[arendesai.com](#) with information about Aren Desai's background and projects.",
+    "user question 2": [
+        "[arendesai.com/portfolio](#)", 
+        "He has a strong technical skill set in programming languages such as Python, Java, C#, and JavaScript."
+    ],
+    "user question 3": "[arenedesai.com/education](#)", 
+    "user question 4": [
+        "[arendesai.com/datascience](#)",
+        "MarketSimOptimizer (MISO) and LMP Forecasting are among his notable projects using advanced data science techniques."
+    ],
+    "user question 5": "[arenedesai.com/computergraphics](#)", 
+    "user question 6": [
+        "[github.com/ArenKDesai/Boat](#)",
+        "He created a 3D boat model using Blender and Unity for the Boat project."
+    ],
+    "user question 7": "[github.com/WisconsinRobotics/WRoverSoftware](#)", 
+    "user question 8": [
+        "[arendesai.com/coursework](#)",
+        "He has completed various coursework at UW-Madison, including data science and computer graphics courses."
+    ],
+    "user question 9": "[arendesai.com/resume.pdf](#)", 
+    "user question 10": "[arenedesai.com/experience](#)",
+    "user question 11": [
+        "[google.com/events/developer-student-club](#)",
+        "He served as the Finance Lead for the Google Developer Student Club."
+    ],
+    "user question 12": "[java, python, c#, javascript](#)", 
+    "user question 13": "[arenedesai.com/datascience](#)", 
+    "user question 14": [
+        "[arendesai.com/MarketSimOptimizer-README.md](#)",
+        "The MarketSimOptimizer project focuses on market simulation using advanced algorithms."
+    ],
+    "user question 15": [
+        "[arendesai.com/LMPForecasting-README.md](#)",
+        "He developed price forecasting models using LEAR and Deep Neural Networks (DNN)."
+    ],
+    "user question 16": "[github.com/ArenKDesai/WebsiteLLM](#)", 
+    "user question 17": "[arendesai.com/cybercity](#)", 
+    "user question 18": [
+        "[github.com/ArenKDesai/BookOfJoe](#)",
+        "He created an interactive portfolio game using web technologies."
+    ],
+    "user question 19": "[arendesai.com/datascience](#)", 
+    "user question 20": "[arenedesai.com/syntheticdata](#)"
+}

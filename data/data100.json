@@ -1,0 +1,20 @@
+{
+    "What is Aren currently studying?": "[arendesai.com/portfolio#education] He is pursuing a Bachelor of Science in Computer Science and Data Science at the University of Wisconsin-Madison, set to graduate in Spring 2025.",
+    "Can you tell me about his data science projects?": "[arendesai.com/datascience#projects] He has worked on MarketSimOptimizer, LMP Forecasting, and a GCP-hosted website using an LLM for synthetic data generation and fine-tuning.",
+    "What technical skills does Aren possess?": "[arendesai.com/portfolio#skills] He is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more.",
+    "Has Aren worked on any robotics projects?": "[arendesai.com/robotics#projects] Yes, he contributed to the Wisconsin Rover software using ROS2, focusing on autonomous navigation and data processing.",
+    "What graphics projects has Aren created?": "[arendesai.com/computergraphics#projects] He developed a 3D boat model with Blender and Unity, as well as a cyberpunk city environment in CyberCity.",
+    "How can I view Aren's resume and CV?": "[arendesai.com/portfolio#documents] His resume and CV are available for download on the portfolio section of his website.",
+    "What leadership roles has Aren held?": "[arendesai.com/portfolio#leadership] He served as Finance Lead for Google Developer Student Club and as an Arm Developer for Wisconsin Robotics.",
+    "Tell me about his work experience": "[arendesai.com/portfolio#experience] He interned at Madison Gas & Electric in energy supply and at Compeer Financial in data analytics.",
+    "What courses has Aren taken in data science?": "[arendesai.com/datascience#coursework] He has taken courses on data analysis, machine learning, and natural language processing at UW-Madison.",
+    "Does Aren have experience with machine learning?": "[arendesai.com/datascience#ml] Yes, he has applied ML techniques in projects like LMP Forecasting using LEAR and DNN models.",
+    "What is the WRoverSoftware project?": "[github.com/WisconsinRobotics/WRoverSoftware] It's a software suite for the Wisconsin Rover, focusing on autonomous operation and data collection in robotic competitions.",
+    "How can I see Aren's GitHub repositories?": "[github.com/ArenKDesai] His repositories include projects like Boat and CyberCity, accessible via his GitHub profile.",
+    "What is the WebsiteLLM project?": "[arendesai.com/syntheticdata] It's a synthetic data generator and fine-tuning platform using GCP-hosted LLMs for various applications in data science.",
+    "Can you explain his use of GCP for projects?": "[arendesai.com/gcp#projects] He leverages Google Cloud Platform for hosting ML models, as seen in the LMP Forecasting project.",
+    "What about his experience with WebGL and OpenGL?": "[arendesai.com/computergraphics#graphics] He has used WebGL for web-based applications and OpenGL for 3D rendering in graphics projects.",
+    "How does he approach problem-solving?": "[arendesai.com/portfolio#problem-solving] He applies systematic methodologies, combining analytical thinking with hands-on implementation across his projects.",
+    "What is the significance of synthetic data generation?": "[arendesai.com/syntheticdata#importance] Synthetic data helps bridge gaps in real-world data, enabling robust ML models and driving innovation in data-driven applications.",
+    "How can one contribute to his open-source projects?": "[github.com/ArenKDesai#contributing] Contributions are welcome through GitHub issues or pull requests for further development of his projects."
+}

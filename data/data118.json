@@ -1,0 +1,22 @@
+{
+    "What is Aren's current education?": ["[arendesai.com/portfolio/education](#)", "Aren is currently pursuing a Bachelor of Science in Computer Science and Data Science at UW-Madison, set to graduate in Spring 2025."],
+    "What programming languages does Aren know?": ["[aredesai.com/portfolio/technical-skills](#)", "He is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and has experience with TensorFlow, PyTorch, and Scikit-Learn."],
+    "Can you tell me about his work experience?": ["[aredesai.com/portfolio/work-experience](#)", "Aren has interned at Madison Gas & Electric as an Energy Supply Intern and worked as a Data Analytics Specialist at Compeer Financial."],
+    "What data science projects has he worked on?": ["[aredesai.com/portfolio/data-science-projects](#)", "He developed the WebsiteLLM project to generate synthetic conversational data and is currently working on optimizing market simulations with the MarketSimOptimizer."],
+    "Does he have experience with machine learning?": ["[aredesai.com/portfolio/machine-learning](#)", "Yes, he uses Python libraries like Pandas, NumPy, and PyTorch for various projects including LMP Forecasting using LEAR and DNN models."],
+    "What courses has he taken in data science?": ["[aredesai.com/portfolio/data-science-courses](#)", "He has taken courses on Data Structures, Algorithms, Natural Language Processing, Deep Learning, and Database Management at UW-Madison."],
+    "How can I see his resume?": ["[aredesai.com/resume_nodetails.pdf](#)", "You can view his resume by visiting this link."],
+    "What is the WRoverSoftware project?": ["[aredesai.com/portfolio/wrовер-software](#)", "The WRoverSoftware is a ROS2-based system developed for the Wisconsin Rover, integrating navigation and environmental sensing."],
+    "What graphics projects has he created?": ["[aredesai.com/portfolio/graphics-projects](#)", "He worked on a 3D Blender model of a boat, a cyberpunk city environment using Unity, and the Book of Joe game in webGL."],
+    "What is the purpose of his GitHub repositories?": ["[github.com/ArenKDesai](#)", "His GitHub repositories showcase his projects like Boat, CyberCity, and WebsiteLLM, demonstrating his skills in 3D modeling and data science applications."],
+    "Does he have any leadership experience?": ["[aredesai.com/portfolio/leadership-experience](#)", "He served as Finance Lead for Google Developer Student Club and as Arm Developer for Wisconsin Robotics, showing strong leadership capabilities."],
+    "What is the LMP Forecasting project?": ["[aredesai.com/portfolio/lmp-forecasting](#)", "LMP Forecasting uses LEAR and DNN models to predict electricity load and market prices, implemented in Python and TensorFlow."],
+    "Can you explain his use of GCP?": ["[aredesai.com/portfolio/gcp-usage](#)", "He used Google Cloud Platform to host a website for the LLM project, leveraging GCP's scalable infrastructure."],
+    "How is the WebsiteLLM built?": ["[aredesai.com/portfolio/website_llm](#)", "The WebsiteLLM uses synthetic data generation with Python scripts and fine-tuning with pre-trained models on GCP, allowing real-time responses."],
+    "What about his expertise in robotics?": ["[aredesai.com/portfolio/robotics-expertise](#)", "He worked on optimizing robot navigation using ROS2 and developed custom sensors for environmental monitoring."],
+    "How can I contact him regarding opportunities?": ["[aredesai.com/portfolio/contact-opportunities](#)", "You can reach out via LinkedIn or email listed on arndesai.com/portfolio, which includes contact information for job inquiries."],
+    "What is the MarketSimOptimizer project?": ["[aredesai.com/portfolio/market-sim-optimizer](#)", "MarketSimOptimizer simulates market scenarios using optimized algorithms to predict supply and demand accurately."],
+    "How does he handle version control?": ["[aredesai.com/portfolio/version-control](#)", "He uses Git with GitHub for collaborative projects, ensuring clear documentation of changes and efficient teamwork."],
+    "What courses has he taken in computer graphics?": ["[aredesai.com/portfolio/computer-graphics-courses](#)", "He took courses on 3D Rendering with OpenGL, WebGL, and Blender to create detailed models like the cyberpunk city environment."],
+    "Can you provide his GitHub profile link?": ["[github.com/ArenKDesai](#)", "Yes, his GitHub profile can be accessed here."]
+}

@@ -1,0 +1,22 @@
+{
+    "What degrees is Aren pursuing?": ["[arendesai.com/portfolio] He is currently pursuing a BS in Computer Science and Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."],
+    "Where did Aren study computer science?": ["[arendesai.com/portfolio] He studies Computer Science and Data Science at the University of Wisconsin-Madison."],
+    "What data science projects has Aren worked on?": ["[arendesai.com/datascience] Notable projects include MarketSimOptimizer, LMP Forecasting, and GCP Website implementation."],
+    "Can you tell me about Aren's experience with machine learning?": ["[arendesai.com/datascience] He has applied machine learning techniques in projects like LEAR and DNN models for energy price forecasting."],
+    "Which programming languages does Aren know?": ["[arendesai.com/portfolio] His skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB."],
+    "What tools does Aren use for data analysis?": ["[arendesai.com/datascience] He uses Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras for data science tasks."],
+    "How can I view Aren's resume?": ["[arendesai.com/portfolio/resume.pdf] You can download his resume from this link for more details about his education and experience."],
+    "What coursework did Aren take in data science?": ["[arendesai.com/coursework] He has completed courses including machine learning, statistics, and advanced algorithms at UW-Madison."],
+    "Has Aren done any work in robotics?": ["[arendesai.com/robotics] Yes, he contributed to the WRoverSoftware project for the Wisconsin Rover, utilizing ROS2."],
+    "What graphics projects has Aren created?": ["[arendesai.com/computergraphics] Projects include a 3D boat model and a web-based portfolio game called Book of Joe."],
+    "Where can I find details about Aren's academic background?": ["[arendesai.com/portfolio] His education section provides detailed information about his degrees and coursework."],
+    "Can you tell me about Aren's leadership roles?": ["[arendesai.com/portfolio] He served as Finance Lead for the Google Developer Student Club and worked on the Wisconsin Rover team."],
+    "How did Aren contribute to the Wisconsin Rover project?": ["[arendesai.com/robotics] He developed software components using ROS2, contributing to the rover's autonomy systems."],
+    "Does Aren have experience with 3D modeling tools?": ["[arendesai.com/computergraphics] Yes, he created a 3D boat model and worked on a web-based game using such tools."],
+    "What is the MarketSimOptimizer project about?": ["[arendesai.com/datascience] It simulates energy markets to optimize pricing strategies for different scenarios."],
+    "Where can I find Aren's portfolio and contact info?": ["[arendesai.com/portfolio] Visit his portfolio page to view work samples and get in touch with him."],
+    "Which data science libraries does Aren use?": ["[arendesai.com/datascience] He uses libraries like Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras."],
+    "Has Aren worked on any energy-related projects?": ["[arendesai.com/datascience] Yes, he developed models for energy price forecasting in the LMP Forecasting project."],
+    "How did Aren get into computer graphics?": ["[arendesai.com/computergraphics] His interest began with creating a 3D boat model and developing a web-based game."],
+    "Can you explain Aren's work at Madison Gas & Electric?": ["[arendesai.com/portfolio] He contributed to energy market simulation projects, enhancing pricing strategies for different scenarios."]
+}

@@ -1,0 +1,36 @@
+{
+    "What is Aren Desai best known for?": ["[arendesai.com/portfolio](https://arendesai.com/portfolio) - Professional overview including education, projects, and experience"],
+    "Tell me about Aren's technical skills": ["[aredsk.io](https://aredsk.io) - Technical skills in Python, SQL, R, Java, C/C++, etc."],
+    "What data science projects has Aren worked on?": [
+        "[MarketSimOptimizer](https://arendesai.com/MSO-README.md) - MISO market simulation",
+        "[LMP Forecasting](https://arendesai.com/LMPF-README.md) - LEAR & DNN price models"
+    ],
+    "Does Aren have experience with machine learning?": [
+        "[MarketSimOptimizer](https://arendesai.com/MSO-README.md) - MISO market simulation using ML",
+        "[LMP Forecasting](https://arendesai.com/LMPF-README.md) - LEAR & DNN price models"
+    ],
+    "What programming languages does Aren know?": ["Python, SQL, R, Java, C/C++/C#, JavaScript, Julia"],
+    "Where can I find Aren's resume and CV?": ["[resume.pdf](arendesai.com/resume_nodetails.pdf) - Detailed resume", "[cv.pdf](arendesai.com/cv_nodetails.pdf) - Detailed CV"],
+    "What is the WRoverSoftware project?": ["[WRoverSoftware](github.com/WisconsinRobotics/WRoverSoftware) - UW-Madison rover software developed by Aren"],
+    "What graphics projects has Aren created?": [
+        "[Boat](github.com/ArenKDesai/Boat) - Blender/Unity 3D boat model",
+        "[Book of Joe](arendesai.com/bookofjoe) - Web-based portfolio game",
+        "[CyberCity](arendesai.com/cybercity) - 3D cyberpunk city environment"
+    ],
+    "What courses has Aren taken in data science?": ["[Data Science Courses](uw-madison.edu/data-science-courses) - Relevant academic coursework"],
+    "How can I see Aren's LinkedIn profile?": "[linkedin.com/in/arendesai] - Professional LinkedIn profile"],
+    "Does Aren have experience with 3D graphics?": [
+        "[Boat](github.com/ArenKDesai/Boat) - Blender/Unity 3D boat model",
+        "[CyberCity](arendesai.com/cybercity) - 3D cyberpunk city environment"
+    ],
+    "What leadership roles has Aren held?": ["**Google Developer Student Club (Finance Lead)**", "**Wisconsin Robotics (Arm Developer)**"],
+    "Where can I find Aren's GitHub repositories?": [
+        "[github.com/ArenKDesai](github.com/ArenKDesai) - Personal repositories including Boat and CyberCity",
+        "[github.com/WisconsinRobotics](github.com/WisconsinRobotics) - WRoverSoftware"
+    ],
+    "What is the **Google Developer Student Club**?": ["[gds.summit.io](https://gds.summit.io) - Google Developer Student Club program"],
+    "What is the **Wisconsin Robotics** group?": ["[wisconsinrobotics.org](https://www.wisconsinrobotics.org) - UW-Madison robotics club"],
+    "Where can I find information about the **Book of Joe** project?": "[arendesai.com/bookofjoe](arendesai.com/bookofjoe) - Web-based portfolio game details"],
+    "What is the **LEAR algorithm** in data science?": ["[lear.ai](https://lear.ai) - Developed by Google for machine learning tasks"],
+    "Where can I find more information about the **MISO market simulation**?": "[MarketSimOptimizer](https://arendesai.com/MSO-README.md) - Detailed project description"]
+}

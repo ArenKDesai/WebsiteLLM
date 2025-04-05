@@ -1,0 +1,22 @@
+{
+    "What is your background?": "[arendesai.com/portfolio] A detailed overview of education, skills, and experience is available here.",
+    "What is Aren's educational background?": ["[arendesai.com/resume_nodetails.pdf] Education details are listed in the resume.", "[arendesai.com/cv_nodetails.pdf] CV provides further academic information."],
+    "Can you explain your education at UW-Madison?": "[arendesai.com/portfolio] Learn about Aren's degree programs and coursework.",
+    "What technical skills does Aren have?": ["[arendesai.com/portfolio] Technical skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras.", "[arendesai.com/cv_nodetails.pdf] CV details technical competencies."],
+    "What data science projects has Aren worked on?": ["[arendesai.com/MSO-README.md] MarketSimOptimizer for market simulation.", "[arendesai.com/LMPF-README.md] LMP Forecasting with LEAR and DNN models."],
+    "Tell me about the MarketSimOptimizer project.": "[arendesai.com/MSO-README.md] A tool for simulating energy markets, developed using Python and related frameworks.",
+    "How did Aren get involved in graphics projects?": "[github.com/ArenKDesai/Boat] Explore 3D modeling work with Blender and Unity, such as the Boat project.",
+    "What are some notable graphics projects?": ["[github.com/ArenKDesai/Book of Joe] A web-based portfolio game.", "[arendesai.com/cybercity] A cyberpunk city environment created using 3D tools."],
+    "Does Aren have experience in robotics?": "[github.com/WisconsinRobotics/WRoverSoftware]AREN contributed to rover software development at UW-Madison.",
+    "What was Aren's role in WRoverSoftware?": "[github.com/WisconsinRobotics/WRoverSoftware]AREN worked on ROS2 integration and autonomous navigation algorithms.",
+    "How can I view Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Download the concise resume.", "[arendesai.com/cv_nodetails.pdf] Access a detailed CV."],
+    "Can you tell me about the GCP website project?": "[github.com/ArenKDesai/ArenWebsite] A website hosted on Google Cloud Platform featuring LLM capabilities.",
+    "What machine learning experiences does Aren have?": ["[arendesai.com/LMPF-README.md] Worked on DNN models for energy forecasting.", "Experienced with TensorFlow and PyTorch frameworks."],
+    "Are there other notable projects besides WRoverSoftware?": ["[github.com/ArenKDesai/Boat] 3D modeling project.", "[arendesai.com/LMPF-README.md] Data science project on load prediction."],
+    "Which programming languages does Aren know?": ["Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB.", "Specializes in Python for data analysis and machine learning."],
+    "What is the focus of your data science work?": ["Energy market forecasting using LEAR and DNN models.", "Market simulation tools for optimizing energy resources."],
+    "What courses has Aren taken in data science?": "[arendesai.com/cv_nodetails.pdf] Courses include statistics, machine learning, and computational methods.",
+    "Can you explain the LMP Forecasting project?": "[arendesai.com/LMPF-README.md] Developed to predict load mismatches in power systems using advanced algorithms.",
+    "How did Aren get into robotics?": "Started with ROS tutorials and contributed to open-source projects like WRoverSoftware.",
+    "What inspired the CyberCity project?": "Interest in 3D modeling and creating immersive environments for visualization purposes."
+}

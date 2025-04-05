@@ -1,0 +1,23 @@
+{
+    "What technical skills does Aren Desai have?": ["[arendesai.com/tech_skills.pdf] List of **technical skills** including Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Tell me about Aren's education": "[arendesai.com/education.pdf] Information on his **BS in Computer Science & Data Science** from UW-Madison (Spring 2025)",
+    "What data science projects has Aren worked on?": ["[arendesai.com/datascience_projects.pdf] Details about **MarketSimOptimizer**, **LMP Forecasting**, and **GCP Website**"],
+    "Does Aren have experience with machine learning?": ["[arendesai.com/ml_experience.pdf] Experience with Python, PyTorch, TensorFlow, Scikit-Learn, Keras"],
+    "What programming languages does Aren know?": ["[arendesai.com/programming_languages.pdf] **Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB**"],
+    "Tell me about Aren's work experience": "[arendesai.com/work_experience.pdf] Details on roles at Madison Gas & Electric and Compeer Financial",
+    "What is the WRoverSoftware project?": ["[github.com/ArenKDesai/WRoverSoftware] Part of Wisconsin Robotics, using ROS2 for UW-Madison rover"],
+    "What graphics projects has Aren created?": ["[arendesai.com/graphics_projects.pdf] **Boat (Blender/Unity)** and **CyberCity (3D environment)**"],
+    "What courses has Aren taken in data science?": ["[uw.edu/data-science-courses.pdf] Courses like Data Analysis, Machine Learning, Big Data Technologies"],
+    "How can I see Aren's resume?": "[arendesai.com/resume.pdf] Access the **resume.pdf** for detailed professional experience"],
+    "What leadership roles has Aren held?": ["[linkedin.com/in/arendesai-leadership] Google Developer Student Club (Finance Lead), Wisconsin Robotics (Arm Developer)"],
+    "Can you tell me about the WebsiteLLM project?": "[github.com/ArenKDesai/WebsiteLLM] Synthetic data generation and fine-tuning for personal website assistant",
+    "What about the Book of Joe game?": "[arendesai.com/bookofjoe] Web-based portfolio game developed using JavaScript and HTML/CSS"],
+    "Is there information on CyberCity project?": ["[arendesai.com/cybercity] 3D cyberpunk city environment created with Blender and Unity"],
+    "What tools does Aren use for data analysis?": ["[python.org] Python, Pandas, NumPy, TensorFlow for **data science tools**"],
+    "How can I contact Aren for opportunities?": "[linkedin.com/in/arendesai-careers] Connect on LinkedIn for career inquiries"],
+    "What about the GCP Website project?": ["[github.com/ArenKDesai/GCPWebsite] Uses Google Cloud Platform to host machine learning models"],
+    "Does Aren have experience with robotics?": ["[ros.org] Experience with ROS/ROS2 for Wisconsin Rover software"],
+    "Can I find information on MarketSimOptimizer?": "[arendesai.com/market_simulator.pdf] Financial market simulation using Python and DNN"],
+    "What about the LMP Forecasting project?": ["[arendesai.com/lmp_forecasting.pdf] Predictive model for energy pricing using LEAR and deep learning"],
+    "How can I access the resume details?": "[arendesai.com/resume_nodetails.pdf] Detailed professional experience and technical skills"]
+}

@@ -1,0 +1,21 @@
+{
+    "What can you tell me about Aren Desai?": "[arendesai.com/about](https://arendesai.com/about) with a brief overview of his background and achievements.",
+    "What are some of Aren's technical skills?": ["[arenkdesai.github.io/Technical-Skills](https://arenkdesai.github.io/Technical-Skills)", "He is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more."],
+    "Can you share Aren's education details?": "[arendesai.com/portfolio/resume.pdf](https://arendesai.com/resume_nodetails.pdf) for his academic background at UW-Madison.",
+    "What projects has Aren worked on in computer graphics?": ["[arenkdesai.github.io/Computer-Graphics](https://arenkdesai.github.io/Computer-Graphics)", "Projects include a Blender/Unity 3D boat model and a web-based portfolio game called Book of Joe."],
+    "Does Aren have any experience with robotics?": "[github.com/ArenKDesai/WRoverSoftware](https://github.com/WisconsinRobotics/WRoverSoftware) details his work with the Wisconsin Rover software using ROS2.",
+    "What data science projects has Aren been involved in?": ["[arenkdesai.github.io/Data-Science](https://arenkdesai.github.io/Data-Science)", "He contributed to a GCP-hosted LLM project and market simulation tools."],
+    "How can someone access Aren's resume?": "[arendesai.com/portfolio/resume.pdf](https://arendesai.com/resume_nodetails.pdf) via the portfolio section of his website.",
+    "Where can I find Aren's LinkedIn profile?": "[linkedin.com/in/arenkdesai](https://linkedin.com/in/arenkdesai) for professional insights and connections."],
+    "What programming languages does Aren know?": ["Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB are among his expertise.", "Find more details on [arenkdesai.github.io/Technical-Skills](https://arenkdesai.github.io/Technical-Skills)."],
+    "Can you explain Aren's work experience?": "[arendesai.com/portfolio/resume.pdf](https://arendesai.com/resume_nodetails.pdf) highlights his internships at Madison Gas & Electric and Compeer Financial."],
+    "What leadership roles has Aren held?": ["He served as the Finance Lead for Google Developer Student Club and an Arm Developer for Wisconsin Robotics.", "[github.com/ArenKDesai/Leadership](https://github.com/ArenKDesai/Leadership) for more details."],
+    "What is the **Boat** project about?": "**[github.com/ArenKDesai/Boat](https://github.com/ArenKDesai/Boat)** involves creating a 3D boat model using Blender and Unity for virtual environments."],
+    "What is the **Book of Joe**?": "**[arendesai.com/bookofjoe](https://arendesai.com/bookofjoe)** is a web-based portfolio game developed by Aren for interactive learning experiences."",
+    "What is the **CyberCity** project?": "**[arendesai.com/cybercity](https://arendesai.com/cybercity)** focuses on creating detailed 3D cityscapes using advanced rendering techniques."],
+    "How did Aren contribute to open-source projects?": ["He actively contributes to various open-source repositories, including [github.com/ArenKDesai](https://github.com/ArenKDesai).", "Explore his contributions on GitHub for more information."],
+    "What is Aren's favorite programming language?": ["Python and Julia are among his favorites, as seen on [arenkdesai.github.io/Technical-Skills](https://arenkdesai.github.io/Technical-Skills)."],
+    "Can you provide advice for aspiring students?": ["Stay curious, experiment with new tools, and seek out projects that interest you. Connect with professionals for mentorship opportunities.", "[arendesai.com/blog](https://arendesai.com/blog) for more insights."],
+    "Where can I find Aren's internship experiences?": "[arendesai.com/portfolio/resume.pdf](https://arendesai.com/resume_nodetails.pdf) includes his past internships in tech and finance fields."],
+    "What hobbies does Aren have outside of work?": ["He enjoys 3D modeling, game development, and exploring new technologies for creative projects.", "[arenkdesai.github.io/Hobbies](https://arenkdesai.github.io/Hobbies) for more details."]
+}

@@ -1,0 +1,22 @@
+{
+    "What fields does Aren Desai work in?": "[link] He works in computer science, data science, robotics, and graphics.",
+    "Can you tell me about his academic background?": "[link] He is pursuing a BS in Computer Science & Data Science at UW-Madison (Spring 2025 graduate).",
+    "Does he have experience with machine learning?": "[link] Yes, he has experience with ML models and tools like PyTorch and TensorFlow.",
+    "How about his programming skills?": "[link] He knows Python, Java, C/C++, JavaScript, R, and SQL.",
+    "What is the MarketSimOptimizer project?": "[link] It's a data science project using MISO market simulations for optimization.",
+    "Can you explain LMP Forecasting?": "[link] It leverages LEAR data and DNN models to forecast energy prices accurately.",
+    "What about WRoverSoftware?": "[link] It's a robotics project developed for the Wisconsin Rover, focusing on ROS2 navigation and control.",
+    "Does he have any computer graphics projects?": "[link] Yes, including a Blender/Unity 3D boat model and a cyberpunk city environment in CyberCity.",
+    "Where can I find his resume?": "[link] His resume is available at [arendesai.com/resume_nodetails.pdf].",
+    "What courses has he taken in data science?": "[link] Courses include Introduction to Data Science, Big Data Processing, and Machine Learning Techniques.",
+    "How can I see his LinkedIn profile?": "[link] Visit [linkedin.com/in/arendesai] for his professional profile.",
+    "What projects does he lead?": "[link] He led the Google Developer Student Club as Finance Lead and Wisconsin Robotics as Arm Developer.",
+    "Does he have any leadership roles?": "[link] Yes, he was a Finance Lead at GDSG and an Arm Developer for Wisconsin Robotics.",
+    "What technical skills does he have?": "[link] Python, SQL, R, Java, C/C++, JavaScript, Julia, MATLAB, WebGL, OpenGL, Unity, Blender, Gazebo, ROS/ROS2, TensorFlow, PyTorch, Pandas, NumPy, Scikit-Learn, Keras.",
+    "Can you tell me about his work experience?": "[link] He interned at Madison Gas & Electric as an Energy Supply Intern and worked in data analytics at Compeer Financial.",
+    "What is the Book of Joe?": "[link] It's a web-based portfolio game he developed using JavaScript and HTML/CSS.",
+    "What is CyberCity?": "[link] A 3D cyberpunk city environment created using Blender and Unity for visualization purposes.",
+    "How can I contact him?": "[link] Connect via LinkedIn or email through his website.",
+    "Does he have any GitHub repositories?": "[link] Yes, including the Wisconsin Rover software and other projects on [github.com/ArenKDesai].",
+    "What is WebsiteLLM?": "[link] It's a synthetic data project and fine-tuning exercise for language models."
+}

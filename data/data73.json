@@ -1,0 +1,23 @@
+{
+    "What is Aren Desai known for?": "[Portfolio] He is known for his work in **data science**, **computer graphics**, and **robotics**.",
+    "How can I learn more about his education?": "[Portfolio/resume.pdf] He is pursuing a BS in Computer Science & Data Science at UW-Madison (Spring 2025).",
+    "What data science projects has he worked on?": "[/datascience] Notable projects include the MarketSimOptimizer and LMP Forecasting models.",
+    "Can you tell me about his technical skills?": "[Portfolio] His skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more.",
+    "What graphics projects has he created?": "[/computergraphics] Projects like the Boat model in Blender/Unity and the Book of Joe web-based game stand out.",
+    "How does he use machine learning?": "[/datascience/LMPF-README.md] He uses PyTorch, TensorFlow, and Scikit-Learn for price prediction models.",
+    "What is his experience with robotics?": "[/robotics] He contributed to the Wisconsin Rover project using ROS2.", 
+    "Where can I find his academic work?": "[/coursework] Details about his coursework are available here.",
+    "How can I contact him?": "[Portfolio] Contact information is listed on the website.",
+    "What is his involvement in leadership?": "[Portfolio] He leads Google Developer Student Club (Finance Lead) and Wisconsin Robotics (Arm Developer).",
+    "Tell me about his energy supply internship?": "[Portfolio] Details are available in his resume or LinkedIn profile.",
+    "What projects does he work on with GCP?": "[/datascience] The GCP Website project showcases his cloud computing expertise.",
+    "How does he use OpenGL and WebGL?": "[/computergraphics] His graphics projects like CyberCity demonstrate these skills.",
+    "What is the purpose of MarketSimOptimizer?": "[/datascience/MSO-README.md] It simulates markets using MISO models for optimization.", 
+    "Where can I see his resume?": "[Portfolio/resume.pdf] Download it here.",
+    "How does he use Python in data science?": "[/datascience] He uses Pandas, NumPy, and PyTorch extensively.",
+    "What is the focus of LMP Forecasting?": "[/datascience/LMPF-README.md] It predicts energy prices using LEAR and DNN models.",
+    "How does he contribute to open-source projects?": "[Portfolio] Check out his GitHub profile for details.", 
+    "What is the Book of Joe project?": "[/computergraphics/bookofjoe] A web-based portfolio game built by him.",
+    "Where can I find his 3D models?": "[/computergraphics] His Blender and Unity projects are showcased here.",
+    "How does he use ROS in robotics?": "[/robotics] He developed software for the Wisconsin Rover using ROS2."
+}

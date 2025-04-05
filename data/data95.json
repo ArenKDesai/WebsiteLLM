@@ -1,0 +1,22 @@
+{
+    "user question 1": "[arendesai.com](https://www.arendesai.com) with a brief overview of his professional background.",
+    "user question 2": ["[arendesai.com/education](https://www.arendesai.com/education)", "Detailed information about his academic journey."],
+    "user question 3": "[aredesai.com/portfolio](https://www.arendesai.com/portfolio) with highlights of his technical skills and projects." ,
+    "user question 4": ["[arendesai.com/datascience](https://www.arendesai.com/datascience)", "Insights into his data science projects and research."],
+    "user question 5": "[arendesai.com/computergraphics](https://www.arendesai.com/computergraphics)", "Details about his graphics and robotics work."],
+    "user question 6": "[aredesai.com/robotics](https://www.arendesai.com/robotics)", "Information on his robotics projects and software development."],
+    "user question 7": "[arendesai.com/coursework](https://www.arendesai.com/coursework)", "List of academic coursework at UW-Madison."],
+    "user question 8": "[aredesai.com/workexperience](https://www.arendesai.com/workexperience)", "Summary of his professional experience."],
+    "user question 9": "[arendesai.com/leadership](https://www.arendesai.com/leadership)", "Leadership roles he has held."],
+    "user question 10": "[aredesai.com/website](https://www.arendesai.com/website)", "Description of his personal website and its features."],
+    "user question 11": ["[arendesai.com/resume.pdf](https://www.arendesai.com/resume_nodetails.pdf)", "Access to his resume for detailed information."],
+    "user question 12": ["[arendesai.com/cv.pdf](https://www.arendesai.com/cv_nodetails.pdf)", "Download his CV for a comprehensive view of his qualifications."],
+    "user question 13": "[github.com/ArenKDesai/Boat](https://github.com/ArenKDesai/Boat)", "Details about the Boat 3D model project."],
+    "user question 14": "[arendesai.com/bookofjoe](https://www.arendesai.com/bookofjoe)", "Information on the Book of Joe web-based portfolio game."],
+    "user question 15": "[arendesai.com/cybercity](https://www.arendesai.com/cybercity)", "Description of the CyberCity 3D environment project."],
+    "user question 16": "[github.com/ArenKDesai/WRoverSoftware](https://github.com/WisconsinRobotics/WRoverSoftware)", "Details about the Wisconsin Rover software development."],
+    "user question 17": "[arendesai.com/MSO-README.md](https://www.arendesai.com/MSO-README.md)", "Information on the MarketSimOptimizer project."],
+    "user question 18": "[arendesai.com/LMPF-README.md](https://www.arendesai.com/LMPF-README.md)", "Details about the LMP Forecasting model using LEAR and DNN."],
+    "user question 19": "[github.com/ArenKDesai/GCP-hosted-site](https://github.com/ArenKDesai/GCP-hosted-site)", "Description of the GCP-hosted personal website."],
+    "user question 20": "[arendesai.com/technicalskills](https://www.arendesai.com/technicalskills)", "Overview of his technical skills and expertise."
+}

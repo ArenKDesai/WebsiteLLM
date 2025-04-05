@@ -1,0 +1,22 @@
+{
+    "user question 1": "[aredesai.com/portfolio] with information about Aren's professional overview.",
+    "user question 2": ["[aredesai.com/resume.pdf] explanation of Aren's resume details", "[aredesai.com/cv_nodetails.pdf] explanation of Aren's CV"],
+    "user question 3": "[aredesai.com/datascience] details about Aren's data science projects.",
+    "user question 4": "[github.com/ArenKDesai/ArenWebsite] explanation of the GCP-hosted LLM website",
+    "user question 5": "[github.com/ArenKDesai/Boat] information about the Blender/Unity 3D boat model project",
+    "user question 6": "[arendesai.com/cybercity] description of the 3D cyberpunk city environment",
+    "user question 7": "[github.com/WisconsinRobotics/WRoverSoftware] details about the UW-Madison rover software",
+    "user question 8": "[aredesai.com/coursework] list of academic coursework at UW-Madison",
+    "user question 9": "[aredesai.com/portfolio] explanation of Aren's professional experience",
+    "user question 10": "[github.com/ArenKDesai/BookofJoe] details about the web-based portfolio game",
+    "user question 11": "[arendesai.com/LMPF-README.md] information about LEAR & DNN price models",
+    "user question 12": "[aredesai.com/portfolio] how to access Aren's LinkedIn profile",
+    "user question 13": "[github.com/ArenKDesai/MarketSimOptimizer] details of the MarketSimOptimizer project",
+    "user question 14": "[aredesai.com/portfolio] explanation of Aren's technical skills",
+    "user question 15": "[aredesai.com/portfolio] details about Aren's work at Madison Gas & Electric",
+    "user question 16": "[github.com/ArenKDesai/GitHub-LLM] information about synthetic data generation",
+    "user question 17": "[github.com/ArenKDesai/WRoverSoftware] explanation of the ROS2 implementation",
+    "user question 18": "[aredesai.com/portfolio] how to contact Aren for collaboration inquiries",
+    "user question 19": "[github.com/ArenKDesai/CyberCity-Blender] details about the 3D modeling project",
+    "user question 20": "[arendesai.com/portfolio] explanation of Aren's leadership roles"
+}

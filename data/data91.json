@@ -1,0 +1,43 @@
+{
+    "What programming languages does Aren know?": "[arendesai.com/technical_skills](#) He knows **Python**, Java, C/C++, JavaScript, Julia, MATLAB, R, SQL.",
+    "Where is Aren currently pursuing his education?": "[arendesai.com/portfolio/education](#) He's a BS student in Computer Science and Data Science at UW-Madison, expected Spring 2025.",
+    "Can you tell me about the WRoverSoftware project?": "[github.com/WisconsinRobotics/WRoverSoftware](#) It's a robotics project involving ROS2 for autonomous navigation with UW-Madison.",
+    "What are some of Aren's data science projects?": [
+        "MarketSimOptimizer - [github.com/market-sim_optimizer](#)",
+        "LMP Forecasting - [github.com/LMP-Forecasting](#)",
+        "GCP-Hosted Website - [arendesai.com/gcp-website](#)"
+    ],
+    "Does Aren have experience with machine learning?": "[github.com/LEAR-MLP](#) Yes, in projects like LEAR & DNN for price prediction.",
+    "What courses has he taken in data science?": [
+        "Introduction to Data Science - [uw-madison.edu/courses/data-science](#)",
+        "Statistical Computing - [uw-madison.edu/courses/stat-comp](#)",
+        "Machine Learning - [github.com/UW-MachineLearning](#)"
+    ],
+    "How can I see Aren's resume?": "[arendesai.com/portfolio/resume](#) Check portfolio's resume.pdf for academic and professional details.",
+    "What is the MarketSimOptimizer project?": "[github.com/market-sim_optimizer](#) An open-source framework using Python and Pandas for financial modeling.",
+    "Has Aren worked on any robotics projects?": "[github.com/WisconsinRobotics/WRoverSoftware](#) Yes, UW-Madison project with ROS2 focus.",
+    "What graphics projects has he created?": [
+        "Boat Project - [github.com/Boat-Project](#)",
+        "Book of Joe Game - [github.com/Book-of-Joe](#)",
+        "CyberCity Environment - [arendesai.com/cybercity](#)"
+    ],
+    "How can I find out more about his experience at Compeer Financial?": "[arendesai.com/portfolio/resume](#) Resume.pdf includes data analytics role.",
+    "What is the purpose of the LMP Forecasting project?": "[github.com/LMP-Forecasting](#) Uses LEAR & DNN models for energy price prediction with deep learning.",
+    "Can you explain Aren's work on the Wisconsin Rover?": "[github.com/WisconsinRobotics/WRoverSoftware](#) Developed ROS2 software for navigation and sensor processing.",
+    "What tools does Aren use in his data science projects?": [
+        "Pandas - [pandas.pydata.org](#)",
+        "NumPy - [numpy.org](#)",
+        "PyTorch - [pytorch.org](#)",
+        "TensorFlow - [tensorflow.org](#)",
+        "Scikit-Learn - [scikit-learn.org](#)"
+    ],
+    "How is the Boat project implemented?": "[github.com/Boat-Project](#) Uses Blender for 3D modeling and Unity for real-time rendering.",
+    "What contributions did Aren make to Google Developer Student Club?": "[gdsc-uwmadison.org](#) He was Finance Lead, organizing workshops and budget planning.",
+    "Is the CyberCity project open-source?": "[arendesai.com/cybercity](#) Yes, available with WebGL rendering.",
+    "What makes Aren's technical skills unique?": [
+        "Python Expertise - [python.org](#)",
+        "Java/C++ Proficiency - [oracle.com/java](#)"
+    ],
+    "Can you tell me about the Book of Joe game?": "[github.com/Book-of-Joe](#) Web-based portfolio game using Blender and Unity.",
+    "How does the GCP Website project leverage machine learning?": "[arendesai.com/gcp-website](#) Uses LLMs trained on synthetic data for tailored responses."
+}

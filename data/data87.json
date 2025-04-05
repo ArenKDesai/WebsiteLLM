@@ -1,0 +1,82 @@
+{
+    "user question 1": [
+        "[link](/portfolio)",
+        "Aren Desai is a computer science and data science student at the University of Wisconsin-Madison, set to graduate in Spring 2025. He has worked on various projects ranging from robotics to data science."
+    ],
+    "user question 2": [
+        "[link](/datascience)",
+        "He has contributed to projects like MarketSimOptimizer and LMP Forecasting, using machine learning models for market simulation and price forecasting."
+    ],
+    "user question 3": [
+        "[link](/computergraphics)",
+        "Aren's graphics projects include a Blender/Unity boat model and a web-based portfolio game called Book of Joe."
+    ],
+    "user question 4": [
+        "[link](/robotics)",
+        "He has worked on the Wisconsin Rover software, leveraging ROS2 for robotics tasks such as navigation and sensor data processing."
+    ],
+    "user question 5": [
+        "[link](/coursework)",
+        "Aren's coursework includes advanced topics in computer science and data science at UW-Madison."
+    ],
+    "user question 6": [
+        "[link](/portfolio/resume.pdf)",
+        "His resume is available for download on the portfolio section of his website."
+    ],
+    "user question 7": [
+        "[link](/datascience/MSO-README.md)",
+        "The MarketSimOptimizer project involves a machine learning model to predict market trends efficiently."
+    ],
+    "user question 8": [
+        "[link](/datascience/LMPF-README.md)",
+        "LEAR & DNN models are used in the LMP Forecasting project for price prediction."
+    ],
+    "user question 9": [
+        "[link](github.com/ArenKDesai/ArenWebsite)",
+        "The GCP-hosted LLM website showcases his work with synthetic data and fine-tuning techniques."
+    ],
+    "user question 10": [
+        "[link](github.com/ArenKDesai/Boat)",
+        "The Boat project is a 3D model created using Blender and Unity for visualization purposes."
+    ],
+    "user question 11": [
+        "[link](arendesai.com/bookofjoe)",
+        "Book of Joe is an interactive web-based game showcasing Aren's creative portfolio."
+    ],
+    "user question 12": [
+        "[link](arendesai.com/cybercity)",
+        "CyberCity is a 3D environment designed for immersive cyberpunk experiences using advanced graphics techniques."
+    ],
+    "user question 13": [
+        "[link](github.com/WisconsinRobotics/WRoverSoftware)",
+        "The WRoverSoftware project focuses on ROS2 for robotics applications like autonomous navigation and data collection."
+    ],
+    "user question 14": [
+        "[link](/portfolio/cv.pdf)",
+        "Aren's curriculum vitae is available for download, highlighting his academic achievements and professional experience."
+    ],
+    "user question 15": [
+        "[link](#)",
+        "Aren has been a Google Developer Student Club Finance Lead and a Wisconsin Robotics Arm Developer, showcasing his leadership abilities."
+    ],
+    "user question 16": [
+        "[link](/datascience/MSO-README.md)",
+        "The MarketSimOptimizer project uses **machine learning** models for market trend analysis, making it a key resource for enthusiasts."
+    ],
+    "user question 17": [
+        "[link](/datascience/LMPF-README.md)",
+        "The LMP Forecasting project employs **Deep Neural Networks**, providing accurate price predictions for users."
+    ],
+    "user question 18": [
+        "[link](github.com/ArenKDesai/ArenWebsite)",
+        "Aren's work with synthetic data and fine-tuning techniques is demonstrated in his **website**."
+    ],
+    "user question 19": [
+        "[link](github.com/ArenKDesai/Boat)",
+        "The Boat project showcases **3D modeling** and visualization, making it a valuable resource for graphics enthusiasts."
+    ],
+    "user question 20": [
+        "[link](arendesai.com/cybercity)",
+        "CyberCity is built using **advanced graphics techniques**, offering an immersive experience tailored for creative projects."
+    ]
+}

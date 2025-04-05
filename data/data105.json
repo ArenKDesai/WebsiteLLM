@@ -1,0 +1,22 @@
+{
+    "What is Aren's field of study?": ["[arendesai.com/education](#) with explanation: **Aren** studies Computer Science and Data Science at the University of Wisconsin-Madison, set to graduate in Spring 2025.",
+    "Can you tell me about his work experience?": ["[arendesai.com/experience](#) with explanation: **Aren** has interned at Madison Gas & Electric and Compeer Financial, gaining hands-on experience in energy supply and data analytics.",
+    "What technical skills does he have?": ["[arendesai.com/skills](#) with explanation: **Aren** is proficient in Python, SQL, R, Java, C/C++, JavaScript, Julia, MATLAB, and more.",
+    "Has he worked on any robotics projects?": ["[arendesai.com/robotics](#) with explanation: **Aren** developed software for the Wisconsin Rover as part of the UW-Madison Robotics team, using ROS2 and Gazebo.",
+    "Are there any data science projects he has contributed to?": ["[arendesai.com/datascience](#) with explanation: **Aren** co-authored a synthetic data project and fine-tuned a language model on his personal website.",
+    "How can someone view his resume?": ["[arendesai.com/resume_nodetails.pdf](#) with explanation: Visit **Aren's Portfolio** section to access his resume PDF.",
+    "What courses has he taken in computer science?": ["[arendesai.com/coursework](#) with explanation: **Aren** has taken coursework in algorithms, data structures, machine learning, and graphics at UW-Madison.",
+    "Does he have a GitHub profile?": ["[github.com/ArenKDesai](#) with explanation: Yes, explore **Aren's GitHub** for projects like the Boat model and CyberCity environment.",
+    "Can you explain the WRoverSoftware project?": ["[github.com/WisconsinRobotics/WRoverSoftware](#) with explanation: **Aren** led software development for UW-Madison's Wisconsin Rover using ROS2 for autonomous navigation.",
+    "What is included in the Portfolio section?": ["[arendesai.com/portfolio](#) with explanation: The Portfolio section highlights education, work experience, technical skills, and key projects like MarketSimOptimizer and LMP Forecasting.",
+    "Has he worked with machine learning models?": ["[arendesai.com/datascience](#) with explanation: **Aren** built ML models using TensorFlow and PyTorch for predictive analytics at Compeer Financial.",
+    "Is there an example of his graphics work?": ["[github.com/ArenKDesai/Boat](#) with explanation: Check out the Boat project on GitHub, showcasing 3D modeling with Blender and Unity.",
+    "Can you describe the CyberCity project?": ["[arendesai.com/cybercity](#) with explanation: **Aren** created a 3D cyberpunk city using Blender and Unity, available for download from his GitHub.",
+    "How does he approach problem-solving?": ["[arendesai.com/skills](#) with explanation: **Aren** applies iterative debugging and algorithmic thinking to tackle complex problems in programming and data science.",
+    "What's the purpose of the LMP Forecasting project?": ["[arendesai.com/datascience](#) with explanation: This project aims to predict machine learning model performance using historical data analysis.",
+    "Does he have experience with Java programming?": ["[arendesai.com/skills](#) with explanation: Yes, **Aren** has extensive experience in Java for enterprise-level applications and robotics projects.",
+    "Where can someone find his LinkedIn profile?": ["[linkedin.com/in/arendj](#) with explanation: Connect with **Aren Djikaya** on LinkedIn to view his professional journey and achievements.",
+    "Has he been involved in academic research?": ["[uw.edu/~djikaya](#) with explanation: **Aren** conducts research under the mentorship of UW-Madison professors, focusing on data science applications and algorithm optimization.",
+    "What about the Boat project?": ["[github.com/ArenKDesai/Boat](#) with explanation: The Boat project is a 3D model created using Blender and Unity, available for educational and creative purposes.",
+    "How is the Book of Joe structured?": ["[github.com/ArenKDesai/Book-of-Joe](#) with explanation: The Book of Joe is an interactive story where choices determine the outcome, developed using Twine for narrative exploration."
+}

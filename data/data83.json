@@ -1,0 +1,66 @@
+{
+    "What is Aren's technical background?": [
+        "[arendesai.com/technical_skills.pdf] with details on programming languages and tools",
+        "[github.com/ArenKDesai/WRoverSoftware] for robotics projects"
+    ],
+    "Where can I find Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] for a concise overview"],
+    "What courses has Aren taken in data science?": [
+        "[arendesai.com/coursework.pdf] with specifics on academic coursework",
+        "[github.com/ArenKDesai/DataScienceProjects] for related projects"
+    ],
+    "How can I access Aren's GitHub repositories?": ["[github.com/ArenKDesai] for all public projects"],
+    "Tell me about the Boat project": [
+        "[github.com/ArenKDesai/Boat] with details on Blender and Unity modeling",
+        "[arendesai.com/computergraphics.pdf] for graphics work"
+    ],
+    "What is the WRoverSoftware project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] for UW-Madison rover software",
+        "[arendesai.com/robotics.pdf] for robotics experience"
+    ],
+    "How can I see Aren's LinkedIn profile?": ["[linkedin.com/in/arendesai] for professional details"],
+    "What is the MarketSimOptimizer project?": [
+        "[arendesai.com/MarketSimOptimizer-README.md] for MISO market simulation",
+        "[github.com/ArenKDesai/MSO-README.md] with additional documentation"
+    ],
+    "What is the LMP Forecasting project?": [
+        "[arendesai.com/LMPF-README.md] for LEAR & DNN price models",
+        "[github.com/ArenKDesai/LMPF-README.md] with technical details"
+    ],
+    "How can I view Aren's Google Developer Student Club role?": ["[google.com/academy/arendesai] for club involvement"],
+    "What about the CyberCity project?": [
+        "[arendesai.com/cybercity] for 3D cyberpunk environment",
+        "[github.com/ArenKDesai/CyberCity-README.md] with project documentation"
+    ],
+    "Where can I find Aren's LinkedIn experience?": ["[linkedin.com/in/arendesai] for detailed career history"],
+    "What is the Wisconsin Rover software?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] for UW-Madison rover software",
+        "[arendesai.com/robotics.pdf] for robotics experience"
+    ],
+    "How can I access the WebsiteLLM project?": ["[github.com/ArenKDesai/WebsiteLLM-README.md] for details"],
+    "What is the Book of Joe project?": [
+        "[arendesai.com/bookofjoe] for a web-based portfolio game",
+        "[github.com/ArenKDesai/Book_of_Joe-README.md] with technical specs"
+    ],
+    "How can I see Aren's GitHub contributions?": ["[github.com/ArenKDesai] for all public repositories"],
+    "What is the GCP Website project?": [
+        "[github.com/ArenKDesai/ArenWebsite] for GCP-hosted LLM",
+        "[arendesai.com/datascience.pdf] for data science projects"
+    ],
+    "How can I access the WRoverSoftware documentation?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] for detailed documentation",
+        "[arendesai.com/robotics.pdf] for robotics experience"
+    ],
+    "What is the LMP Forecasting documentation?": [
+        "[arendesai.com/LMPF-README.md] for LEAR & DNN price models",
+        "[github.com/ArenKDesai/LMPF-README.md] with technical details"
+    ],
+    "How can I find Aren's Google Developer Student Club activities?": ["[google.com/academy/arendesai] for club involvement"],
+    "Where can I find the MarketSimOptimizer documentation?": [
+        "[arendesai.com/MarketSimOptimizer-README.md] for MISO market simulation",
+        "[github.com/ArenKDesai/MSO-README.md] with additional documentation"
+    ],
+    "What is the CyberCity project overview?": [
+        "[arendesai.com/cybercity] for 3D cyberpunk environment",
+        "[github.com/ArenKDesai/CyberCity-README.md] with project documentation"
+    ]
+}

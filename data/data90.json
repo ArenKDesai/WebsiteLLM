@@ -1,0 +1,37 @@
+{
+    "user question 1": [
+        "[link to /datascience] This includes MarketSimOptimizer, LMP Forecasting, and GCP Website."
+    ],
+    "user question 2": [
+        "[link to /computergraphics] Includes Boat, Book of Joe, and CyberCity.",
+        "These projects showcase his skills in graphics and 3D modeling."
+    ],
+    "user question 3": "He attended UW-Madison.",
+    "user question 4": "He's currently at UW-Madison.",
+    "user question 5": [
+        "[link to /datascience] Includes MarketSimOptimizer, LMP Forecasting, and GCP Website."
+    ],
+    "user question 6": "Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB.",
+    "user question 7": "Yes, using Pandas, NumPy, PyTorch, TensorFlow, etc.",
+    "user question 8": "Madison Gas & Electric and Compeer Financial.",
+    "user question 9": "He interned at MGE and worked at Compeer Financial.",
+    "user question 10": [
+        "[link to Google Developer Student Club]", 
+        "[link to Wisconsin Robotics]"
+    ],
+    "user question 11": "Google Developer Student Club and Wisconsin Robotics.",
+    "user question 12": "Courses on machine learning, big data analysis.",
+    "user question 13": "His studies in computer science and statistics provide foundational skills.",
+    "user question 14": [
+        "[link to /portfolio] Provides downloadable options for resume and CV."
+    ],
+    "user question 15": "Links to projects, courses, work experience, and contact info.",
+    "user question 16": "Yes, as part of Wisconsin Robotics club.",
+    "user question 17": "Computer science with a focus on data analysis and machine learning.",
+    "user question 18": [
+        "[link to Programming Languages Explanation]", 
+        "Ranges from high-level (Python) to low-level (C/C++) for better control."
+    ],
+    "user question 19": "He started early, working on projects like Boat.",
+    "user question 20": "Yes, through the Book of Joe project."
+}

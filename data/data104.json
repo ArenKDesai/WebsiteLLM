@@ -1,0 +1,22 @@
+{
+    "What is Aren's field of study?": ["**Computer Science and Data Science** at UW-Madison (set to graduate in Spring 2025).",
+    "Can you tell me about Aren's technical skills?": ["Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras"],
+    "What data science projects has Aren worked on?": ["[MarketSimOptimizer](arendesai.com/MSO-README.md) - MISO market simulation and [LMP Forecasting](arendesai.com/LMPF-README.md) - LEAR & DNN price models"],
+    "Does Aren have experience with machine learning?": ["Yes, he has worked on projects using PyTorch and TensorFlow for model development and deployment"],
+    "What programming languages does Aren know?": ["Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Tell me about Aren's work experience": ["He interned at Madison Gas & Electric (Energy Supply Intern) and worked as a Data Analytics professional at Compeer Financial"],
+    "What is the WRoverSoftware project?": ["The Wisconsin Rover software developed using ROS2 for the UW-Madison rover"],
+    "What graphics projects has Aren created?": ["[Boat](github.com/ArenKDesai/Boat) - Blender/Unity 3D boat model and [CyberCity](arendesai.com/cybercity) - 3D cyberpunk city environment"],
+    "What courses has Aren taken in data science?": ["Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras - part of his academic curriculum at UW-Madison"],
+    "How can I see Aren's resume?": ["Visit the portfolio section and download [resume.pdf](arendesai.com/resume_nodetails.pdf) or [cv.pdf](arendesai.com/cv_nodetails.pdf)"],
+    "What is **Google Developer Student Club**?": ["He led the finance team for Google Developer Student Club, focusing on tech community engagement and project development"],
+    "Can you explain **Wisconsin Robotics**?": ["Aren was an arm developer for Wisconsin Robotics, contributing to the WRoverSoftware project using ROS2"],
+    "What is **WebsiteLLM**?": ["A synthetic data generation and fine-tuning project for language models, part of his personal portfolio"],
+    "How does Aren stay updated with technology trends?": ["Through continuous learning, attending tech conferences, and participating in open-source projects like GitHub repositories"],
+    "Where can I find Aren's LinkedIn profile?": ["**LinkedIn** - linkedin.com/in/arendesai"],
+    "What is **LEAR**?": ["A lightweight end-to-end architecture for time-series forecasting used in the LMP Forecasting project"],
+    "How can I contact Aren?": ["Connect via LinkedIn or his professional email (available on request)"],
+    "What is **OpenGL** in computer graphics?": ["A cross-platform graphics API used in projects like the Boat model with Blender and Unity"],
+    "How does Aren manage multiple projects?": ["Using project management tools, prioritization, and collaboration with team members"],
+    "What is **ROS2** in robotics?": ["Robot Operating System 2, used for robot control and communication in the WRoverSoftware project"]
+}

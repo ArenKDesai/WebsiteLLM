@@ -1,0 +1,74 @@
+{
+    "What can you tell me about Aren Desai?": [
+        "Aren Desai is a computer science and data science student at the University of Wisconsin-Madison, set to graduate in Spring 2025. He has experience in energy supply analysis, data analytics, and robotics.",
+        "https://arendesai.com"
+    ],
+    "What programming languages does Aren know?": [
+        "Aren is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and TensorFlow frameworks like PyTorch and Keras.",
+        "https://github.com/ArenKDesai"
+    ],
+    "Can you explain Aren's work experience?": [
+        "Aren has interned at Madison Gas & Electric in energy supply analysis and at Compeer Financial in data analytics. He also leads the Google Developer Student Club and Wisconsin Robotics.",
+        "https://linkedin.com/in/arendesai"
+    ],
+    "What projects has Aren worked on?": [
+        "Projects include the Wisconsin Rover software using ROS2, a synthetic data website with LLM fine-tuning, and a cyberpunk city environment in Blender.",
+        "https://github.com/ArenKDesai"
+    ],
+    "How does Aren manage his time for programming and projects?": [
+        "Aren balances coursework, internships, and personal projects by prioritizing tasks and leveraging efficient coding practices.",
+        "https://www.uw.edu"
+    ],
+    "What is the WRoverSoftware project about?": [
+        "WRoverSoftware is a robotics project at UW-Madison using ROS2 for autonomous navigation and data collection.",
+        "https://github.com/WisconsinRobotics/WRoverSoftware"
+    ],
+    "Does Aren have experience with machine learning?": [
+        "Yes, Aren has experience in ML models like LEAR and DNN for forecasting, leveraging libraries such as PyTorch and TensorFlow.",
+        "https://www.tensorflow.org"
+    ],
+    "What courses has Aren taken in data science?": [
+        "Aren has taken courses in Data Structures, Algorithms, Natural Language Processing, and Machine Learning at UW-Madison.",
+        "https://www.uw.edu/scholarships"
+    ],
+    "Can you tell me about the Boat project?": [
+        "The Boat project is a 3D model created using Blender and Unity for visualization.",
+        "https://github.com/ArenKDesai/Boat"
+    ],
+    "What is the GCP Website project?": [
+        "GCP Website hosts an LLM developed by Aren, available at github.com/ArenKDesai/ArenWebsite.",
+        "https://github.com/ArenKDesai/ArenWebsite"
+    ],
+    "How can I see Aren's resume?": [
+        "Aren's resume is available on his LinkedIn profile and as a PDF download from arndesai.com/resume_nodetails.pdf.",
+        "https://linkedin.com/in/arendesai"
+    ],
+    "What technical skills does Aren possess?": [
+        "**Aren possesses skills in programming (Python, Java), data analysis (SQL, Pandas), robotics (ROS2, Gazebo), and machine learning (PyTorch, TensorFlow).**",
+        "https://github.com/ArenKDesai"
+    ],
+    "Can you explain the MarketSimOptimizer project?": [
+        "MarketSimOptimizer simulates market conditions using a custom-built optimizer, available for download from arndesai.com.", 
+        "https://arendesai.com/MarketSimOptimizer"
+    ],
+    "What impact has Aren's work had on the community?": [
+        "Aren's contributions include open-source projects and mentorship in tech clubs, fostering collaboration and innovation.",
+        "https://github.com/ArenKDesai"
+    ],
+    "How does Aren stay updated with technological advancements?": [
+        "Aren follows research papers, attends conferences, and participates in coding competitions to stay current.",
+        "https://www.oreilly.com"
+    ],
+    "What are the key subjects Aren is studying?": [
+        "Key subjects include Computer Science, Data Science, Mathematics, and Electrical Engineering.",
+        "https://www.uw.edu/computerscience"
+    ],
+    "Can you describe the process of creating synthetic data for machine learning?": [
+        "Aren creates synthetic data using tools like Python libraries (NumPy) and statistical methods to ensure diversity and quality.",
+        "https://github.com/ArenKDesai/synthetic-data"
+    ],
+    "What challenges does Aren plan to tackle next?": [
+        "Aren aims to improve model interpretability and develop efficient algorithms for real-time decision-making.",
+        "https://github.com/ArenKDesai"
+    ]
+}

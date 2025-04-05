@@ -1,0 +1,66 @@
+{
+    "What is Aren's educational background?": [
+        " [arendesai.com/portfolio](#) with a brief overview of his academic journey at UW-Madison.",
+        " He is pursuing a **Bachelor of Science** in Computer Science and Data Science, expected to graduate in Spring 2025."
+    ],
+    "What projects has Aren worked on in data science?": [
+        " [arendesai.com/datascience](#) ", 
+        " He developed the MarketSimOptimizer for stock market simulations and LEAR & DNN models for LMP forecasting."
+    ],
+    "Tell me about Aren's work experience": [
+        " [arendesai.com/portfolio/workexperience.pdf](#) ",
+        " He interned at Madison Gas & Electric and Compeer Financial, focusing on energy supply and data analytics."
+    ],
+    "What technical skills does Aren possess?": [
+        " [arendesai.com/portfolio/technicalskills.pdf](#) ",
+        " He is proficient in Python, SQL, R, Java, C/C++, JavaScript, Julia, MATLAB, TensorFlow, PyTorch, and more."
+    ],
+    "Where can I find Aren's resume?": [
+        " [arendesai.com/portfolio/resume.pdf](#) ",
+        " His resume provides detailed information about his academic background, work experience, and technical skills."
+    ],
+    "Can you tell me about the WRoverSoftware project?": [
+        " [github.com/WisconsinRobotics/WRoverSoftware](#) ",
+        " It is a software system developed for the Wisconsin Rover, utilizing ROS2 for autonomous navigation."
+    ],
+    "What leadership roles has Aren held?": [
+        " He was the Finance Lead at Google Developer Student Club and led robotics projects at Wisconsin Robotics."
+    ],
+    "What about the Boat project in computer graphics?": [
+        " [github.com/ArenKDesai/Boat](#) ",
+        " It is a 3D model created using Blender and Unity for a futuristic vessel."
+    ],
+    "Does Aren have experience with machine learning?": [
+        " Yes, he has worked on projects utilizing PyTorch and TensorFlow for predictive models."
+    ],
+    "What courses has Aren taken in data science?": [
+        " He has completed coursework in machine learning, big data analysis, and data visualization techniques."
+    ],
+    "How can I access Aren's course work at UW-Madison?": [
+        " [arendesai.com/coursework](#) ",
+        " His academic work is available through the University of Wisconsin-Madison's online repository."
+    ],
+    "Tell me about the Book of Joe project": [
+        " [github.com/ArenKDesai/Book-of-Joe](#) ",
+        " It is a fan-made game inspired by Joe Namath, utilizing Unity for gameplay development."
+    ],
+    "What's the purpose of the LMP Forecasting model?": [
+        " The model uses advanced algorithms to predict energy prices accurately, aiding in financial decision-making."
+    ],
+    "How was the MarketSimOptimizer designed?": [
+        " It simulates stock market scenarios to analyze trading strategies and performance metrics."
+    ],
+    "Where can I find information about CyberCity?": [
+        " [github.com/ArenKDesai/CyberCity](#) ",
+        " It is a city-building simulation game focused on urban planning and development."
+    ],
+    "What leadership experience does Aren bring to his projects?": [
+        " He has led teams in academic research, software development, and creative projects."
+    ],
+    "What tools have been used in the GCP Website project?": [
+        " It was built using React, Node.js, and Firebase for a responsive web application."
+    ],
+    "How do I get started with exploring Aren's work?": [
+        " Visit [arendesai.com](#) to explore his portfolio, projects, and academic achievements."
+    ]
+}

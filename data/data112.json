@@ -1,0 +1,22 @@
+{
+    "What is Aren Desai's field of study?": "[arendesai.com/portfolio](https://arendesai.com/portfolio) where he outlines his academic background in Computer Science and Data Science at UW-Madison.",
+    "Can you tell me about a specific data science project Aren has worked on?": "[arendesai.com/datascience/LMPF-README.md](https://arendesai.com/datascience/LMPF-README.md) details the LMP Forecasting project using LEAR and DNN models for price prediction.",
+    "What technical skills does Aren possess?": "[arendesai.com/portfolio](https://arendesai.com/portfolio) highlights his proficiency in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, among others.",
+    "Has Aren worked on any robotics projects?": "[arendesai.com/robotics/W RoverSoftware](https://github.com/WisconsinRobotics/WRoverSoftware) showcases his contributions to the Wisconsin Rover software using ROS2 for autonomous navigation.",
+    "What courses has Aren taken in data science at UW-Madison?": "[arendesai.com/coursework](https://arendesai.com/coursework) includes courses like Data Analysis, Machine Learning, and Big Data Technologies.",
+    "Does Aren have experience with machine learning algorithms?": "[arendesai.com/portfolio](https://arendesai.com/portfolio) mentions his experience using PyTorch and TensorFlow for various data science projects.",
+    "What about his work experience?": "[arendesai.com/workexperience](https://arendesai.com/workexperience) details his roles at Madison Gas & Electric and Compeer Financial, focusing on energy supply and data analytics.",
+    "Can you explain the MarketSimOptimizer project?": "[arendesai.com/datascience/MarketSimOptimizer](https://arendesai.com/MSO-README.md) provides insights into how he optimized market simulations for trading strategies.",
+    "What is the CyberCity project?": "[arendesai.com/computergraphics/CyberCity](https://arendesai.com/cybercity) explains his work on creating a 3D cyberpunk city environment using Blender and Unity.",
+    "Does Aren have experience with WebGL or OpenGL?": "[arendesai.com/portfolio](https://arendesai.com/portfolio) highlights his expertise in WebGL for visualizing data science results and OpenGL for rendering 3D graphics.",
+    "What is the WRoverSoftware project?": "[github.com/WisconsinRobotics/WRoverSoftware](https://github.com/WisconsinRobotics/WRoverSoftware) describes the software he developed for the Wisconsin Rover, utilizing ROS2 for autonomous operations.",
+    "Can you talk about his leadership roles?": "[arendesai.com/portfolio](https://arendesai.com/portfolio) mentions his role as Finance Lead in the Google Developer Student Club and Arm Developer in Wisconsin Robotics.",
+    "What is the Book of Joe?": "[arendesai.com/bookofjoe](https://arendesai.com/bookofjoe) introduces a web-based portfolio game he developed during his academic studies.",
+    "How can I access Aren's resume?": "[arendesai.com/resume_nodetails.pdf](https://arendesai.com/resume_nodetails.pdf) is available for download to review his professional background and skills.",
+    "What is the GCP Website project?": "[github.com/ArenKDesai/ArenWebsite](https://github.com/ArenKDesai/ArenWebsite) details the website he developed using Google Cloud Platform for hosting a language model.",
+    "Can you explain how synthetic data is generated?": "[arendesai.com/portfolio](https://arendesai.com/portfolio) discusses his work on generating synthetic data for fine-tuning AI models, as part of the WebsiteLLM project.",
+    "What programming languages does Aren know?": "[arendesai.com/portfolio](https://arendesai.com/portfolio) lists languages like Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB among his technical skills.",
+    "What is the **WebsiteLLM** project?": "[github.com/ArenKDesai/WebsiteLLM](https://github.com/ArenKDesai/WebsiteLLM) explains his development of a synthetic data generator and fine-tuning framework for AI applications.",
+    "Does Aren have experience with Julia programming language?": "[arendesai.com/portfolio](https://arendesai.com/portfolio) notes his proficiency in Julia, particularly for numerical computing and statistical analysis.",
+    "What is the **LMP Forecasting** project?": "[arendesai.com/datascience/LMPF-README.md](https://arendesai.com/datascience/LMPF-README.md) outlines how he developed a forecasting model using deep learning techniques to predict market prices."
+}

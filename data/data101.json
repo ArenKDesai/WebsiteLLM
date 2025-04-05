@@ -1,0 +1,22 @@
+{
+    "user question 1": "[arendesai.com/portfolio] with detailed overview of Aren's professional background and achievements.",
+    "user question 2": ["[arendesai.com/resume_nodetails.pdf] for Aren's resume", "[arenkdesai.com/cv_nodetails.pdf] for his CV"],
+    "user question 3": "[arendesai.com/portfolio#education] to learn about Aren's educational journey",
+    "user question 4": "[arendesai.com/portfolio#experience] for insights into his professional experience",
+    "user question 5": "[arenkdesai.com/MSO-README.md] for details on MarketSimOptimizer project",
+    "user question 6": ["[arenkdesai.com/LMPF-README.md] explanation of LEAR & DNN price models", "[github.com/ArenKDesai/ArenWebsite] for the GCP-hosted LLM website"],
+    "user question 7": "[github.com/ArenKDesai/Boat] to explore the Blender/Unity 3D boat model",
+    "user question 8": "[arenkdesai.com/bookofjoe] for information on the Web-based portfolio game",
+    "user question 9": "[arenkdesai.com/cybercity] to see the 3D cyberpunk city environment",
+    "user question 10": "[github.com/WisconsinRobotics/WRoverSoftware] for details on UW-Madison rover software",
+    "user question 11": "[arendesai.com/portfolio#skills] to discover Aren's technical abilities",
+    "user question 12": "[arendesai.com/portfolio#leadership] for info on his leadership roles",
+    "user question 13": "[arendesai.com/portfolio#projects] to view his major projects",
+    "user question 14": "[arenkdesai.com/MSO-README.md] for MarketSimOptimizer details and link",
+    "user question 15": "[github.com/ArenKDesai/Boat] for Boat project access and explanation",
+    "user question 16": "[arendesai.com/cybercity] to explore the CyberCity environment project",
+    "user question 17": "[github.com/ArenKDesai/BookOfJoe] for Book of Joe details and link",
+    "user question 18": "[arenkdesai.com/portfolio#experience] for Madison Gas & Electric experience details",
+    "user question 19": "[arendesai.com/portfolio#education] to learn about his data science courses",
+    "user question 20": "[github.com/ArenKDesai/WRoverSoftware] for Wisconsin Rover software details"
+}

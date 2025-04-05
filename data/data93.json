@@ -1,0 +1,81 @@
+{
+    "What is Aren Desai's current academic status?": [
+        "Aren Desai is currently pursuing a Bachelor of Science in Computer Science and Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025.",
+        " [link](arendesai.com/education)"
+    ],
+    "Which programming languages does Aren know?": [
+        "Aren is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB.",
+        " [link](arendesai.com/resume.pdf)"
+    ],
+    "What data science projects has Aren worked on?": [
+        "He has contributed to MarketSimOptimizer, a market simulation tool using machine learning models, and LMP Forecasting, leveraging LEAR and deep neural networks for price forecasting.",
+        " [link](arendesai.com/MSO-README.md)"
+    ],
+    "What graphics projects has Aren created?": [
+        "Aren has developed a 3D boat model using Blender and Unity (available on GitHub) and created a web-based portfolio game, Book of Joe.",
+        " [link](github.com/ArenKDesai/Boat)"
+    ],
+    "Does Aren have experience with machine learning?": [
+        "Yes, he has worked extensively with machine learning models in projects like MarketSimOptimizer and LMP Forecasting.",
+        " [link](arendesai.com/LMPF-README.md)"
+    ],
+    "What is the WRoverSoftware project?": [
+        "WRoverSoftware is a robotics project developed for the Wisconsin Rover, utilizing ROS/ROS2 for autonomous navigation and data processing.",
+        " [link](github.com/WisconsinRobotics/WRoverSoftware)"
+    ],
+    "Can you tell me about Aren's work experience?": [
+        "Aren has interned at Madison Gas & Electric as an Energy Supply Intern and worked in data analytics at Compeer Financial.",
+        " [link](arendesai.com/resume.pdf)"
+    ],
+    "What courses has Aren taken in data science?": [
+        "He has completed coursework in data analysis, machine learning, natural language processing, and database management at UW-Madison.",
+        " [link](arendesai.com/coursework)"
+    ],
+    "Tell me about Aren's leadership roles": [
+        "Aren served as the Finance Lead for Google Developer Student Club and as an Arm Developer for Wisconsin Robotics.",
+        " [link](github.com/ArenKDesai/Boat)"
+    ],
+    "What is the purpose of the Boat project?": [
+        "The Boat project is a 3D model created using Blender and Unity, showcasing Aren's expertise in graphics and modeling.",
+        " [link](github.com/ArenKDesai/Boat)"
+    ],
+    "How can I see Aren's resume?": [
+        "His resume is available for download on his portfolio website under 'resume.pdf'.",
+        " [link](arendesai.com/resume_nodetails.pdf)"
+    ],
+    "What technical tools does Aren use?": [
+        "He frequently uses Git, Jira, and Docker in addition to programming languages like Python and R.",
+        " [link](github.com/ArenKDesai/Boat)"
+    ],
+    "Does Aren work with cloud platforms?": [
+        "Yes, he has experience with Google Cloud Platform (GCP) for hosting applications, as seen in his website project.",
+        " [link](github.com/ArenKDesai/ArenWebsite)"
+    ],
+    "What is the Book of Joe?": [
+        "Book of Joe is a web-based portfolio game developed by Aren Desai, showcasing his skills in web development and interactive experiences.",
+        " [link](arendesai.com/LMPF-README.md)"
+    ],
+    "What libraries does Aren use for data analysis?": [
+        "He often uses Pandas, NumPy, and Matplotlib in Python for data analysis and visualization.",
+        " [link](arendesai.com/resume.pdf)"
+    ],
+    "How is the MarketSimOptimizer tool used?": [
+        "MarketSimOptimizer is a tool that simulates market trends using machine learning models to help users make informed decisions.",
+        " [link](arendesai.com/MSO-README.md)"
+    ],
+    "What are the key technologies in LMP Forecasting?": [
+        "LMP Forecasting uses deep neural networks and traditional algorithms like LEAR (Local Linear Embedding) for predicting market prices.",
+        " [link](arendesai.com/LMPF-README.md)"
+    ],
+    "How does the Boat project relate to robotics?": [
+        "While primarily a graphics project, the Boat model demonstrates Aren's ability to apply 3D modeling techniques in various contexts, including robotics.",
+        " [link](github.com/ArenKDesai/Boat)"
+    ],
+    "What is the significance of the Book of Joe project?": [
+        "Book of Joe highlights Aren's expertise in web development and interactive storytelling, making it a showcase for creative and technical skills."
+    ],
+    "How does the WRoverSoftware project contribute to robotics research?": [
+        "WRoverSoftware advances autonomous navigation systems by integrating advanced algorithms with robotics hardware, enhancing real-world applications.",
+        " [link](github.com/WisconsinRobotics/WRoverSoftware)"
+    ]
+}

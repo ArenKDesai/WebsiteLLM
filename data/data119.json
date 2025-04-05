@@ -1,0 +1,20 @@
+{
+    "What can you tell me about Aren's education?": "[link] with information on Aren's academic background including his current studies at UW-Madison.",
+    "Can you explain Aren's technical skills?": ["[link1] listing his programming languages and tools, [link2] detailing his graphics and robotics expertise"],
+    "What data science projects has Aren worked on?": "[link3] describing his MarketSimOptimizer project and LMP Forecasting work",
+    "Does Aren have experience with machine learning?": "[link4] explaining his use of PyTorch and TensorFlow in data science projects",
+    "What programming languages does Aren know?": ["[link5] listing Python, SQL, R, Java, C/C++, JavaScript, and Julia"],
+    "Tell me about Aren's work experience": "[link6] detailing his roles at Madison Gas & Electric and Compeer Financial",
+    "What is the WRoverSoftware project?": "[link7] explaining the Wisconsin Rover software development led by Aren",
+    "What graphics projects has Aren created?": ["[link8] highlighting the Boat model in Blender and Unity, [link9] describing the CyberCity environment"],
+    "What courses has Aren taken in data science?": "[link10] listing his coursework at UW-Madison including data structures and machine learning",
+    "How can I see Aren's resume?": "[link11] providing a link to his resume PDF on the portfolio section",
+    "What about Aren's robotics experience?": "[link12] detailing his work with ROS/ROS2 and Gazebo for the WRoverSoftware project",
+    "Does Aren have leadership experience?": "[link13] explaining his roles as Finance Lead in the Google Developer Student Club and Arm Developer in Wisconsin Robotics",
+    "How can I contact Aren?": "[link14] providing links to his LinkedIn profile and GitHub repositories",
+    "What is the best way to follow up on projects?": ["[link15] suggesting a direct message via LinkedIn or email for project inquiries"],
+    "Can you recommend further reading about Aren's work?": ["[link16] suggesting his resume, [link17] offering insights into his technical blog posts"],
+    "What inspired Aren to pursue computer science?": "[link18] sharing a link to his personal statement on academic interests and career goals",
+    "How does Aren stay updated in the tech field?": "[link19] mentioning his subscriptions to tech newsletters and participation in coding competitions",
+    "Are there any tips for someone interested in robotics?": "[link20] offering advice from his experience with UW-Madison's Robotics Club and Wisconsin Rover projects"
+}

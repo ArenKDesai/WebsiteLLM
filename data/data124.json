@@ -1,0 +1,23 @@
+{
+    "What is Aren's field of study?": ["[arendesai.com/portfolio](#) He is pursuing a double major in Computer Science and Data Science at UW-Madison.",
+    "Can you tell me about the MarketSimOptimizer project?": ["[arendesai.com/MSO-README.md](#) It’s an open-source market simulation tool developed by Aren to optimize financial markets efficiently."],
+    "What programming languages does Aren know?": ["Python, Java, C++, C#, JavaScript, Julia, MATLAB, and SQL are among his technical skills."],
+    "Does Aren have experience with machine learning?": ["Yes, he has worked with PyTorch, TensorFlow, and Scikit-Learn for various projects like LMP Forecasting."],
+    "What is the WRoverSoftware project about?": ["[github.com/WisconsinRobotics/WRoverSoftware](#) It’s a software suite for controlling a robotic rover developed as part of UW-Madison's robotics team."],
+    "Tell me about Aren's work experience": ["He has interned at Madison Gas & Electric and Compeer Financial, focusing on energy supply and data analytics respectively."],
+    "How can I view Aren's resume?": ["You can find his resume at [arendesai.com/resume_nodetails.pdf](#)."],
+    "What graphics projects has Aren created?": ["He developed a 3D boat model using Blender and Unity, and created a cyberpunk city environment with Gazebo."],
+    "What courses has Aren taken in data science?": ["Courses include Introduction to Data Science, Machine Learning, and Big Data Technologies at UW-Madison."],
+    "Can you explain the LMP Forecasting project?": ["[arendesai.com/LMPF-README.md](#) It uses LEAR models and DNNs for forecasting electricity load and market prices."],
+    "What is the purpose of the WebsiteLLM project?": ["WebsiteLLM focuses on generating synthetic conversational data and fine-tuning language models using state-of-the-art techniques."],
+    "Does Aren have experience with ROS/ROS2?": ["Yes, he worked on the Wisconsin Rover software using ROS/ROS2 for robotic operations."],
+    "What technical skills does Aren possess?": ["Python, SQL, R, Java, C/C++, JavaScript, Julia, MATLAB, WebGL, Unity, and OpenGL are his key technical skills."],
+    "How can I contribute ideas to Aren's projects?": ["You can reach out through his LinkedIn profile or contact him directly via email for collaboration opportunities."],
+    "What is the Book of Joe?": ["It’s a web-based portfolio game developed by Aren, offering an interactive experience with his work and achievements."],
+    "How does the GCP Website project function?": ["The project hosts a website built using Google Cloud Platform services to demonstrate Aren's synthetic data capabilities."],
+    "What is the purpose of the Google Developer Student Club?": ["He served as the finance lead, organizing workshops and events related to cloud computing and AI technologies."],
+    "Can you explain the WRoverSoftware in more detail?": ["[github.com/WisconsinRobotics/WRoverSoftware](#) It’s a comprehensive software suite for managing robotic operations, integrating navigation, sensing, and control systems."],
+    "What is the CyberCity project?": ["Aren created a 3D cyberpunk city environment using Blender and Gazebo for visualizing urban futures and robotics applications."],
+    "Does Aren have leadership experience in technical clubs?": ["He led the Google Developer Student Club as finance lead and was involved in Wisconsin Robotics as an arm developer."],
+    "How can I follow Aren's professional journey?": ["Connect with him on LinkedIn, follow his GitHub repositories, or visit his portfolio website for updates."]
+}

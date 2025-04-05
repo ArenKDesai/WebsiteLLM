@@ -1,0 +1,26 @@
+{
+    "What is Aren Desai's academic background?": "[arendesai.com/portfolio] He is currently pursuing a BS in Computer Science and Data Science at UW-Madison, expected to graduate in Spring 2025.",
+    "Can you provide details about his coursework?": ["[arendesai.com/coursework] Relevant courses include machine learning, algorithms, data structures, and database systems."],
+    "What programming languages does Aren know?": "[arendesai.com/portfolio] He is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and others.",
+    "Does Aren have experience with robotics?": "[github.com/WisconsinRobotics/WRoverSoftware] Yes, he contributed to the Wisconsin Rover project at UW-Madison, focusing on rover software development.",
+    "What graphics tools does he use?": ["[github.com/ArenKDesai/Boat] He uses Blender, Unity, and OpenGL for his computer graphics projects."],
+    "Tell me about his data science projects.": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer: MISO market simulation using Python.",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting: LEAR and DNN price models for energy markets."
+    ],
+    "What is his experience with web development?": "[github.com/ArenKDesai/BookofJoe] He created a web-based portfolio game using WebGL and Three.js.",
+    "Has he worked on any AI-related projects?": "[github.com/ArenKDesai/ArenWebsite] Yes, he developed a GCP-hosted LLM for his website.", 
+    "What is the Wisconsin Rover project about?": "[github.com/WisconsinRobotics/WRoverSoftware] It involves rover software development using ROS/ROS2 for autonomous navigation.",
+    "How can I contact him for collaboration?": "[linkedin.com/in/ArenDesai] Visit his LinkedIn profile to connect and discuss potential opportunities.",
+    "What is his senior project about?": "**Senior Project**: Aren is working on a synthetic data generation system for fine-tuning language models, showcasing his expertise in **machine learning** and **data science**.",
+    "How did he apply Python at Compeer Financial?": "At Compeer Financial, he used Python for data analysis and automation tasks to improve operational efficiency.", 
+    "What graphics projects has he created?": [
+        "[github.com/ArenKDesai/Boat] A 3D boat model in Blender and Unity.",
+        "[arendesai.com/cybercity] A cyberpunk city environment built using modern graphics tools."
+    ],
+    "Tell me about his leadership roles.": "**Leadership**: He led the Google Developer Student Club (Finance Lead) and contributed to Wisconsin Robotics as an Arm Developer, demonstrating strong **leadership skills**.",
+    "What energy projects has he worked on?": "[madisongasandelectric.com] At Madison Gas & Electric, he focused on energy supply analysis and market modeling.", 
+    "How does he stay updated with tech trends?": "Aren actively follows tech blogs, attends conferences, and participates in online communities to stay updated with **data science** and **AI trends**.",
+    "What is his approach to problem-solving?": "**Problem-Solving**: He emphasizes a systematic approach, combining technical skills with creative thinking to tackle complex challenges.", 
+    "How can I learn more about his work?": "Explore his GitHub profile [github.com/ArenKDesai] and portfolio [arendesai.com/portfolio] for detailed insights into his projects and expertise."
+}

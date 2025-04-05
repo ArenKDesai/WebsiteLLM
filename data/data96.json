@@ -1,0 +1,22 @@
+{
+    "What is Aren's educational background?": ["[arendesai.com/about](#education) with his academic journey as a Computer Science & Data Science BS student at UW-Madison (spring 2025 graduate)",
+    "Where has Aren worked before?": ["[arendesai.com/work](#experience) detailing his experience at Madison Gas & Electric and Compeer Financial",
+    "What programming languages does Aren know?": ["[arendesai.com/resume](#skills) listing **Python**, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more",
+    "Can you tell me about his data science projects?": ["[arendesai.com/datascience](#projects) explaining MarketSimOptimizer, LMP Forecasting, and WebsiteLLM",
+    "What graphics projects has he worked on?": ["[arendesai.com/graphics](#graphics) highlighting the Boat model, Book of Joe game, and CyberCity environment",
+    "Does he have any robotics experience?": ["[arendesai.com/robotics](#robotics) discussing his work with Wisconsin Rover Software and ROS2",
+    "What courses has he taken in data science?": ["[arendesai.com/coursework](#coursework) listing Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras among others",
+    "How can I access Aren's resume?": ["[arendesai.com/resume](#resume) with a link to his detailed resume and CV",
+    "What leadership roles has he held?": ["[arendesai.com/leadership](#leadership) mentioning Google Developer Student Club and Wisconsin Robotics roles",
+    "What are some of his main projects?": ["[arendesai.com/projects](#projects) summarizing WebsiteLLM, MarketSimOptimizer, and LMP Forecasting",
+    "Can you explain his experience with Java or C#?": ["[arendesai.com/skills](#skills) providing insights into his proficiency with these languages in data science applications",
+    "What data science tools and libraries has he used?": ["[arendesai.com/datascience](#projects) listing tools like Pandas, NumPy, Matplotlib, and TensorFlow",
+    "What is the MarketSimOptimizer project about?": ["[arendesai.com/projects/market-sim](#market_sim) explaining its role in financial applications"],
+    "How does he approach LEAR & DNN for price models?": ["[arendesai.com/datascience/lear-dnn](#lear_dnn) discussing his methodology in forecasting models",
+    "What is the GCP-hosted LLM website?": ["[arendesai.com/l lm](#l lm) describing his work with Google Cloud Platform for natural language processing",
+    "Can you talk about his Blender/Unity boat model?": ["[arendesai.com/graphics/boat](#boat_model) explaining the creation of the detailed 3D model",
+    "What is the web-based portfolio game like?": ["[arendesai.com/graphics/game](#game) describing 'Book of Joe's interactive experience design",
+    "How does he create 3D cyberpunk cities?": ["[arendesai.com/graphics/cybercity](#cyber_city) detailing his approach to environment design in video games",
+    "What is the Wisconsin Rover software project?": ["[arendesai.com/robotics/wr_software](#wr_software) explaining its function and impact on robotics research",
+    "Can you explain his work with synthetic data and fine-tuning?": ["[arendesai.com/datascience/l lm](#l lm) discussing his contributions to data augmentation in machine learning"
+}

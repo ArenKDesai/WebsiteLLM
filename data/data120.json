@@ -1,0 +1,79 @@
+{
+    "user question 1": "[aredesai.com](https://aredesai.com) with a brief overview of Aren Desai's background and achievements.",
+    "user question 2": [
+        " [arendesai.com/portfolio](https://arendesai.com/portfolio) detailing his education and professional experience",
+        " [arendesai.com/cv_nodetails.pdf](https://arendesai.com/cv_nodetails.pdf) for a comprehensive resume"
+    ],
+    "user question 3": [
+        " [aredesai.com/datascience](https://aredesai.com/datascience) highlighting his data science projects",
+        " [github.com/ArenKDesai/ArenWebsite](https://github.com/ArenKDesai/ArenWebsite) for the GCP-hosted LLM project"
+    ],
+    "user question 4": [
+        " [github.com/ArenKDesai/Boat](https://github.com/ArenKDesai/Boat) showcasing his 3D boat model",
+        " [arendesai.com/cybercity](https://arendesai.com/cybercity) for the cyberpunk city environment"
+    ],
+    "user question 5": [
+        " [github.com/WisconsinRobotics/WRoverSoftware](https://github.com/WisconsinRobotics/WRoverSoftware) about the Wisconsin Rover software",
+        " [aredesai.com/portfolio/resume.pdf](https://arendesai.com/resume_nodetails.pdf) for his resume"
+    ],
+    "user question 6": [
+        " [aredesai.com/coursework](https://arendesai.com/coursework) listing his academic coursework",
+        " [github.com/ArenKDesai/Book of Joe](https://github.com/ArenKDesai/Book%20of%20Joe) for the portfolio game"
+    ],
+    "user question 7": [
+        " [aredesai.com/portfolio LinkedIn](https://aredesai.com/linkedin_nodetails.pdf) for his LinkedIn profile",
+        " [github.com/ArenKDesai/GitHub](https://github.com/ArenKDesai) linking to his GitHub repositories"
+    ],
+    "user question 8": [
+        " **Python** projects on [github.com/ArenKDesai](https://github.com/ArenKDesai) ",
+        " **Java** expertise in MarketSimOptimizer project"
+    ],
+    "user question 9": [
+        " **ROS/ROS2** in Wisconsin Rover software",
+        " **Gazebo** for the cyberpunk city environment"
+    ],
+    "user question 10": [
+        " **Pandas, NumPy** in data science projects",
+        " **TensorFlow, PyTorch** for machine learning models"
+    ],
+    "user question 11": [
+        " **Google Developer Student Club** as Finance Lead",
+        " **Wisconsin Robotics** role as Arm Developer"
+    ],
+    "user question 12": [
+        " [aredesai.com/portfolio](https://arendesai.com/portfolio) for professional overview",
+        " [aredesai.com/cv_nodetails.pdf](https://arendesai.com/cv_nodetails.pdf) for detailed resume"
+    ],
+    "user question 13": [
+        " **MarketSimOptimizer** on [arendesai.com/MSO-README.md](https://arendesai.com/MSO-README.md)",
+        " **LMP Forecasting** using LEAR & DNN models"
+    ],
+    "user question 14": [
+        " **OpenGL/WebGL** for graphics projects",
+        " **Unity** in the Boat project"
+    ],
+    "user question 15": [
+        " [github.com/ArenKDesai/Boat](https://github.com/ArenKDesai/Boat) for the Blender/Unity model",
+        " [aredesai.com/cybercity](https://arendesai.com/cybercity) for the cyberpunk environment"
+    ],
+    "user question 16": [
+        " **MATLAB** for academic projects",
+        " **C++** in MarketSimOptimizer"
+    ],
+    "user question 17": [
+        " [github.com/ArenKDesai/Book of Joe](https://github.com/ArenKDesai/Book%20of%20Joe) for the portfolio game",
+        " **Unity** and **Blender** for the game development"
+    ],
+    "user question 18": [
+        " **Google Cloud Platform** for the LLM project",
+        " **AWS** for data science pipelines"
+    ],
+    "user question 19": [
+        " **OpenCV** in image processing projects",
+        " **Computer Vision** applications"
+    ],
+    "user question 20": [
+        " **Numpy, Pandas** for data manipulation",
+        " **TensorFlow/PyTorch** for machine learning models"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "What is your background?": "[arendesai.com/portfolio] Aren Desai is a Computer Science & Data Science student at UW-Madison, with interests in robotics, computer graphics, and data science. His professional journey includes internships at Madison Gas & Electric and Compeer Financial.",
+    "Which projects have you worked on?": ["[arendesai.com/MSO-README.md] MarketSimOptimizer", "[arendesai.com/LMPF-README.md] LMP Forecasting", "[github.com/ArenKDesai/ArenWebsite] GCP Website"],
+    "What programming languages do you know?": "**Python**, **SQL**, **R**, **Java**, **C/C++/C#**, **JavaScript**, **Julia**, **MATLAB**. These skills are used across various projects and coursework.",
+    "Where have you interned?": "[madisongas electric.com] Madison Gas & Electric (Energy Supply Intern) and [compererfinancial.com] Compeer Financial (Data Analytics).",
+    "Tell me about the MarketSimOptimizer project?": "**MarketSimOptimizer** is a market simulation tool for MISO, developed with Python. It helps in understanding energy markets.",
+    "What 3D modeling tools do you use?": "**Blender**, **Unity**, and **Gazebo**. These are used in projects like the Boat model and CyberCity environment.",
+    "What's your role with Wisconsin Rover Software?": "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware, where Aren works on ROS2 development for a rover project at UW-Madison.",
+    "Which data science courses have you taken?": ["[coursework section] Data Science Fundamentals", "Machine Learning with PyTorch and TensorFlow"],
+    "How can I view your resume?": "[arendesai.com/resume_nodetails.pdf] Download resume or [cv.pdf] CV for more details.",
+    "What are your career goals?": "**Robotics, AI, and data science**. He aims to leverage his skills in these areas for innovative projects.",
+    "Do you have any open-source contributions?": "[github.com/ArenKDesai] Contributions include the Boat project and ArenWebsite.",
+    "How do you stay updated with tech trends?": "**Tech blogs**, **online courses**, and **community forums**. This helps in continuous learning.",
+    "What challenges have you faced in data science?": "**Data preprocessing** and **model optimization**. These require careful approaches to ensure accuracy.",
+    "What's your favorite project?": "**WebsiteLLM**. It involved synthetic data creation and fine-tuning LLMs, a challenging yet rewarding experience.",
+    "How do you approach problem-solving?": "**Breakdown into smaller tasks**, research solutions, and iterative testing. This method ensures effective results.",
+    "Tell me about your leadership roles?": "**Google Developer Student Club (Finance Lead)** and **Wisconsin Robotics** contributions highlight his leadership skills.",
+    "What's the Boat project about?": "[github.com/ArenKDesai/Boat] A Blender/Unity 3D boat model, showcasing graphics skills and attention to detail.",
+    "How do you handle time management?": "**Prioritization**, **task scheduling**, and **regular reviews**. This approach balances multiple projects effectively.",
+    "What's your advice for newcomers in data science?": "Start with fundamentals, practice regularly, and engage in real-world projects to build a strong foundation.",
+    "What tools do you use for data analysis?": "**Pandas**, **NumPy**, **Scikit-Learn**, and **TensorFlow**. These tools are essential for data processing and modeling."
+}
