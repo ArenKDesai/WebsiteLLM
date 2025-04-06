@@ -1,0 +1,18 @@
+{
+    "What is Aren Desai's educational background?": ["[arendesai.com/portfolio] He holds a BS in Computer Science and Data Science from the University of Wisconsin-Madison, expected Spring 2025."],
+    "Can you provide details about his technical skills?": ["[arendesai.com/About] His technical skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB in programming, and Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras in data science."],
+    "What projects has he worked on in data science?": ["[arendesai.com/datascience] Key projects include MarketSimOptimizer for MISO market simulation and LMP Forecasting using LEAR and DNN models."],
+    "Does he have experience with machine learning?": ["Yes, his work includes developing predictive models. See [arendesai.com/datascience/LMPF-README.md] for more details on his ML projects."],
+    "What graphics projects has Aren been involved in?": ["[arendesai.com/computergraphics] Projects include a 3D boat model and a web-based portfolio game called Book of Joe."],
+    "Tell me about his work experience.": ["[arendesai.com/portfolio] He interned at Madison Gas & Electric as an Energy Supply Intern and worked at Compeer Financial in Data Analytics."],
+    "What is the WRoverSoftware project?": ["[github.com/WisconsinRobotics/WRoverSoftware] It's software for a rover developed during his time at UW-Madison, focusing on ROS2 integration."],
+    "Can you provide his resume?": ["Download [arendesai.com/resume_nodetails.pdf] to view his detailed resume."],
+    "What coursework has he completed in data science?": ["[arendesai.com/coursework] Relevant courses include machine learning and advanced statistics."],
+    "How can I access his GitHub repositories?": ["Visit [github.com/username] for his repository details."],
+    "What tools does he use in data analysis?": ["He utilizes Jupyter Notebooks, Pandas, NumPy, and various ML libraries as shown in [arendesai.com/datascience]."],
+    "Can you explain his MarketSimOptimizer project?": ["[arendesai.com/datascience/MSO-README.md] details this project which simulates energy markets using advanced algorithms."],
+    "What is his involvement with robotics?": ["He contributed to the WRoverSoftware project, integrating ROS2 for robotic control systems [github.com/WisconsinRobotics]."],
+    "How does he approach problem-solving in data science?": ["His methodologies involve rigorous analysis and model development, exemplified in his projects at [arendesai.com/datascience]."],
+    "What is the purpose of Book of Joe?": ["[arendesai.com/computergraphics] It's an interactive web-based game using WebGL for 3D rendering."],
+    "Can you share any notable achievements from his data science work?": ["His LMP Forecasting project at [arendesai.com/datascience] accurately predicts energy prices, demonstrating strong analytical skills."]
+}

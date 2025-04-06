@@ -1,0 +1,42 @@
+{
+    "Tell me about Aren Desai": ["[arendesai.com](About section) - Aren Desai is a talented Computer Science & Data Science student at the University of Wisconsin-Madison, with a passion for programming, data science, and robotics. He has worked on exciting projects like **WebsiteLLM** and **WRoverSoftware**, and brings expertise in Python, SQL, R, and other technologies."],
+    "What is Aren's educational background?": ["[arendesai.com/portfolio](Education section) - Aren is pursuing a BS in Computer Science & Data Science at UW-Madison, expected to graduate in Spring 2025. He has completed coursework in data science, computer graphics, and robotics."],
+    "What programming languages does Aren know?": ["[arendesai.com/about](Technical Skills section) - Aren is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more."],
+    "Can you tell me about Aren's data science projects?": [
+        "[arendesai.com/datascience/MSO-README.md](MarketSimOptimizer) - A market simulation optimizer for energy markets.",
+        "[arendesai.com/datascience/LMPF-README.md](LMP Forecasting) - Predicts electricity prices using LEAR and DNN models."
+    ],
+    "What graphics projects has Aren worked on?": [
+        "[github.com/ArenKDesai/Boat](Boat) - A 3D boat model created in Blender and Unity.",
+        "[arendesai.com/computergraphics/bookofjoe](Book of Joe) - An interactive web-based portfolio game.",
+        "[arendesai.com/cybercity](CyberCity) - A cyberpunk-themed 3D environment."
+    ],
+    "What robotics work has Aren been involved in?": ["[github.com/WisconsinRobotics/WRoverSoftware](WRoverSoftware) - Software development for the Wisconsin Rover project at UW-Madison."],
+    "Where can I find Aren's resume?": ["[arendesai.com/resume_nodetails.pdf](Resume PDF) - A detailed overview of Aren's education, skills, and experience."],
+    "What is Aren's experience with machine learning?": [
+        "[github.com/ArenKDesai/WebsiteLLM](Synthetic Data and Fine-Tuning) - Work on synthetic data generation for LLM training.",
+        "[arendesai.com/datascience/LMPF-README.md](LMP Forecasting) - Applied ML models like PyTorch and TensorFlow."
+    ],
+    "What courses has Aren taken at UW-Madison?": ["[arendesai.com/coursework](Coursework section) - Courses include Data Science Methods, Machine Learning, Computer Graphics, and Robotics."],
+    "How can I contact Aren?": ["[LinkedIn Profile](LinkedIn link) - Connect with Aren on LinkedIn for more information."],
+    "What is Aren's experience with GCP?": ["[github.com/ArenKDesai/ArenWebsite](GCP Website Project) - Developed a website hosted on Google Cloud Platform using TensorFlow and Keras."],
+    "Can you tell me about Aren's leadership roles?": [
+        "[Google Developer Student Club](GDC section) - Served as Finance Lead for the UW-Madison GDC chapter.",
+        "[Wisconsin Robotics](WRoverSoftware) - Contributed as an Arm Developer in the Wisconsin Robotics team."
+    ],
+    "What tools does Aren use for data analysis?": ["[Pandas, NumPy, PyTorch, TensorFlow](Technical Skills section) - Aren uses these libraries for data science tasks."],
+    "What is Aren's experience with web development?": [
+        "[Boat Project](GitHub link) - Created a 3D Unity game for展示.",
+        "[Book of Joe](Website link) - Developed an interactive web-based portfolio."
+    ],
+    "What is Aren's approach to problem-solving?": ["[Medium or Blog link] - Aren often writes about his approaches to technical challenges on his blog."],
+    "Where can I find Aren's GitHub profile?": ["[github.com/ArenKDesai](GitHub Profile) - Explore Aren's repositories and projects."],
+    "What is Aren's interest in AI?": ["[Synthetic Data Project](GitHub link) - Worked on generating synthetic data for training language models using Python and TensorFlow."],
+    "How does Aren stay updated with tech trends?": ["[Tech Blogs, GitHub, Conferences] - Aren follows various tech blogs and attends conferences to stay updated."],
+    "What is Aren's favorite programming language?": ["Python - Aren favors Python for its simplicity and versatility in data science and machine learning."],
+    "What inspired Aren to pursue Computer Science?": ["[Blog Post or Interview link] - Read about Aren's motivations in his personal blog or interviews."],
+    "How can I follow Aren's work?": [
+        "[LinkedIn](LinkedIn Profile) - Follow Aren’s professional journey.",
+        "[GitHub](GitHub Profile) - Track his latest projects."
+    ]
+}

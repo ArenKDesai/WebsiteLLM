@@ -1,0 +1,22 @@
+{
+    "Tell me about Aren Desai": ["[arendesai.com/portfolio] About section - Overview of education, skills, experience, and projects"],
+    "What are Aren's technical skills?": ["[arendesai.com/portfolio] Technical Skills - Detailed list of programming languages and tools"],
+    "Can you tell me about Aren's education?": ["[arendesai.com/portfolio] Education - BS in Computer Science & Data Science at UW-Madison (Spring 2025)"],
+    "What data science projects has Aren worked on?": ["[arendesai.com/datascience] Projects - MarketSimOptimizer, LMP Forecasting, and GCP Website"],
+    "Does Aren have experience with machine learning?": ["[arendesai.com/datascience] Projects - **LMP Forecasting** uses PyTorch and TensorFlow for price prediction"],
+    "What programming languages does Aren know?": ["[arendesai.com/portfolio] Technical Skills - Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Tell me about Aren's work experience": ["[arendesai.com/portfolio] Experience - Madison Gas & Electric (Energy Supply Intern), Compeer Financial (Data Analytics)"],
+    "What is the WRoverSoftware project?": ["[github.com/WisconsinRobotics/WRoverSoftware] Project - UW-Madison rover software development"],
+    "What graphics projects has Aren created?": ["[arendesai.com/computergraphics] Projects - Boat, Book of Joe, and CyberCity"],
+    "How can I see Aren's resume?": ["[arendesai.com/portfolio/resume.pdf] Download - Resume with detailed experience and skills"],
+    "What coursework has Aren taken in data science?": ["[arendesai.com/coursework] Coursework - UW-Madison data science and computer science courses"],
+    "Tell me about Aren's leadership roles": ["[arendesai.com/portfolio] Leadership - Google Developer Student Club (Finance Lead), Wisconsin Robotics (Arm Developer)"],
+    "What is the Boat project?": ["[github.com/ArenKDesai/Boat] Project - Blender/Unity 3D boat model and simulation"],
+    "Can you explain Aren's experience with robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] Experience - WRoverSoftware for UW-Madison rover development"],
+    "What is the Book of Joe project?": ["[arendesai.com/bookofjoe] Project - Web-based portfolio game built with HTML, CSS, and JavaScript"],
+    "What tools does Aren use for data science?": ["[arendesai.com/datascience] Tools - Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras"],
+    "Tell me about Aren's experience with 3D graphics": ["[arendesai.com/computergraphics] Projects - Unity, Blender, OpenGL, WebGL for 3D environments"],
+    "What is the CyberCity project?": ["[arendesai.com/cybercity] Project - 3D cyberpunk city environment created with Unity and Blender"],
+    "Can you provide examples of Aren's work in energy supply?": ["[arendesai.com/portfolio] Experience - Madison Gas & Electric (Energy Supply Intern)"],
+    "What is the GCP Website project?": ["[github.com/ArenKDesai/ArenWebsite] Project - Cloud-based website using Google Cloud Platform"]
+}

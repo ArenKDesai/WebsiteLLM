@@ -1,0 +1,73 @@
+{
+  "Tell me about Aren Desai": [
+    "[Link](https://www.arendesaiportfolio.com/portfolio) - A comprehensive overview of his professional background, interests, and projects."
+  ],
+  "What are Aren's main interests?": [
+    "**Data Science** - His work in data analysis and modeling.",
+    "**Computer Graphics** - Projects involving 3D environments and visual effects.",
+    "**Robotics** - Contributions to robotic systems and automation."
+  ],
+  "Where is Aren educated?": [
+    "[Link](https://www.wisc.edu) - University of Wisconsin-Madison, pursuing a BS in Computer Science and Data Science."
+  ],
+  "What projects has he worked on in data science?": [
+    "[Link](https://www.arendesaiportfolio.com/datascience/market-simulation) - MarketSimOptimizer: MISO energy market simulation.",
+    "[Link](https://www.arendesaiportfolio.com/datascience/load-forecasting) - LMP Forecasting: Predictive modeling for locational marginal prices.",
+    "[Link](https://www.arendesaiportfolio.com/datascience/cloud-infrastructure) - GCP Website: Cloud-based data visualization platform."
+  ],
+  "Can you tell me about his technical skills?": [
+    {
+      "Programming Languages": ["Python", "SQL", "R", "Java"],
+      "Data Science Tools": ["Pandas, NumPy, TensorFlow, Keras"],
+      "Frameworks/Libraries": ["Django, Flask, PyTorch"]
+    }
+  ],
+  "What programming languages does Aren know?": [
+    "[Link](https://www.arendesaiportfolio.com/skills/programming) - Proficient in Python, SQL, R, and Java."
+  ],
+  "What's the MarketSimOptimizer project about?": [
+    "[Link](https://github.com/arendesai/market-simulator/blob/master/README.md) - Simulates Midcontinent Independent System Operator (MISO) energy market dynamics for grid planning."
+  ],
+  "How did he create CyberCity?": [
+    "[Link](https://www.arendesaiportfolio.com/projects/cyber-city) - Developed using Blender and Unity, focusing on creating a detailed 3D environment for virtual reality applications."
+  ],
+  "What is his experience with robotics?": [
+    "[Link](https://github.com/arendesai/wisconsin-rover/blob/master/README.md) - Contributed to the ROS2 framework for autonomous navigation in the Wisconsin Rover project."
+  ],
+  "Where can I find Aren's resume?": [
+    "[Link](https://www.arendesaiportfolio.com/portfolio/resume.pdf) - Detailed academic and professional background."
+  ],
+  "What coursework has he taken in data science?": [
+    "[Link](https://www.wisc.edu/course-directory) - Includes Machine Learning, Data Analysis, and High-Performance Computing."
+  ],
+  "How does his work experience relate to his skills?": [
+    "[Link](https://www.arendesaiportfolio.com/work-experience) - Internships at Madison Gas & Electric and Compeer Financial, applying data analysis and software development skills."
+  ],
+  "What leadership roles does Aren have?": [
+    "[Link](https://www.gdsc.community.dev) - Google Developer Student Clubs as Finance Lead.",
+    "[Link](https://www.wisconsinrobotics.org) - Wisconsin Robotics team contributing to competitive projects."
+  ],
+  "Can you explain his involvement in the Book of Joe project?": [
+    "[Link](https://www.arendesaiportfolio.com/projects/book-of-joe) - A web-based interactive portfolio game exploring creative coding and user interaction."
+  ],
+  "How did he contribute to the Wisconsin Rover software?": [
+    "[Link](https://github.com/arendesai/wisconsin-rover/blob/master/LICENSE) - Developed pathfinding algorithms using ROS2 for autonomous navigation."
+  ],
+  "What's his approach to computer graphics?": [
+    "[Link](https://www.arendesaiportfolio.com/skills/graphics) - Utilizes Blender and Unity for creating detailed 3D environments and models."
+  ],
+  "Has Aren worked on any machine learning projects?": [
+    "[Link](https://github.com/arendesai/load-forecasting/blob/master/LICENSE) - Developed neural networks for load forecasting using TensorFlow."
+  ],
+  "How can I see his academic achievements?": [
+    "[Link](https://www.arendesaiportfolio.com/portfolio/cv.pdf) - Comprehensive CV highlighting academic and professional accomplishments."
+  ],
+  "What tools does he use for data analysis?": [
+    "Python libraries: Pandas, NumPy, Matplotlib.",
+    "ML frameworks: TensorFlow, PyTorch.",
+    "Cloud platforms: Google Cloud Platform (GCP)."
+  ],
+  "Where can I find more information about his cloud projects?": [
+    "[Link](https://www.arendesaiportfolio.com/datascience/cloud-infrastructure) - GCP-based data visualization and analysis platform."
+  ]
+}

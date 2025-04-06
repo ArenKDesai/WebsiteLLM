@@ -1,0 +1,57 @@
+{
+    "What is Aren Desai's educational background?": "[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science at UW-Madison, expected to graduate in Spring 2025.",
+    "Can you summarize Aren's technical skills?": [
+        "[arendesai.com/portfolio] He knows Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and is skilled in data science tools like Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras.",
+        "**Computer Graphics**: Aren has experience with OpenGL, WebGL, Unity, and Blender."
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/MarketSimOptimizer-README.md] MarketSimOptimizer: MISO market simulation for energy systems.",
+        "[arendesai.com/LMPF-README.md] LMP Forecasting: Price models using LEAR and DNN."
+    ],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] Boat: 3D model in Blender/Unity.",
+        "[arendesai.com/bookofjoe] Book of Joe: Web-based portfolio game.",
+        "[arendesai.com/cybercity] CyberCity: 3D cyberpunk city environment."
+    ],
+    "What robotics work has Aren been involved in?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware: UW-Madison rover project using ROS2."
+    ],
+    "Where can I find Aren's resume?": [
+        "[arendesai.com/portfolio] Download resume.pdf (arendesai.com/resume_nodetails.pdf)."
+    ],
+    "What coursework has Aren completed at UW-Madison?": "[arendesai.com/coursework] Relevant coursework includes data science, computer graphics, and robotics.",
+    "How does Aren approach problem-solving in data science?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer: Uses optimization techniques for energy market simulation.",
+        "**Synthetic Data**: He has experience with generating synthetic data for machine learning models."
+    ],
+    "What leadership roles has Aren held?": [
+        "[google.com/developer-student-clubs] Google Developer Student Club (Finance Lead)",
+        "[wisconsinrobotics.org] Wisconsin Robotics (Arm Developer)."
+    ],
+    "How does Aren use Python in his projects?": [
+        "**Data Science**: Uses libraries like Pandas and NumPy for data manipulation.",
+        "**Machine Learning**: Implements models with PyTorch, TensorFlow, and Keras."
+    ],
+    "What is the purpose of the GCP Website project?": "[github.com/ArenKDesai/ArenWebsite] A website hosted on Google Cloud Platform featuring a language model.",
+    "Can you explain Aren's work at Madison Gas & Electric?": "[mghe.com] Energy Supply Intern: Assisted with energy supply and market analysis tasks.",
+    "What is the Web-Based Portfolio Game project about?": "[arendesai.com/bookofjoe] A web-based game showcasing his programming and design skills.",
+    "How does Aren use Unity in his graphics projects?": "[github.com/ArenKDesai/Boat] Boat project: Created a 3D model using Blender and exported to Unity for visualization.",
+    "What is the significance of the CyberCity project?": "[arendesai.com/cybercity] A detailed 3D environment built to demonstrate advanced graphics capabilities.",
+    "How does Aren balance coursework with projects?": [
+        "**Time Management**: Prioritizes tasks, uses tools like Git for version control.",
+        "**Collaboration**: Works with peers on group projects and open-source contributions."
+    ],
+    "What are some of the key features of the GCP Website project?": [
+        "**Cloud Hosting**: Uses Google Cloud Platform for hosting.",
+        "**Language Model**: Integrates a machine learning model for interactive features."
+    ],
+    "How has Aren's experience with ROS2 influenced his robotics projects?": "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware: Developed software components using ROS2 for the UW-Madison rover project.",
+    "What tools does Aren use for 3D modeling and rendering?": [
+        "**Blender**: For creating detailed 3D models.",
+        "**Unity**: For rendering and animation."
+    ],
+    "Can you describe Aren's contributions to open-source projects?": [
+        "**GitHub Contributions**: Actively participates in various open-source projects, focusing on data science and graphics.",
+        "**Collaboration**: Works with teams to improve project functionality and documentation."
+    ]
+}

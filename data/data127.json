@@ -1,0 +1,67 @@
+{
+    "What is Aren Desai known for?": ["[arendesai.com/portfolio] He is a computer science student with expertise in data science, graphics, and robotics."],
+    "Tell me about Aren's education": ["[arendesai.com/portfolio] Aren is pursuing a BS in Computer Science & Data Science at UW-Madison (Spring 2025)."],
+    "What programming languages does Aren know?": ["[arendesai.com/portfolio] He knows Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB."],
+    "Can you give an example of Aren's data science work?": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for MISO market simulation.",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting with LEAR and DNN models."
+    ],
+    "What graphics projects has Aren worked on?": [
+        "[github.com/ArenKDesai/Boat] 3D boat model in Blender/Unity.",
+        "[arendesai.com/bookofjoe] Web-based portfolio game.",
+        "[arendesai.com/cybercity] 3D cyberpunk city environment."
+    ],
+    "Does Aren have experience with machine learning?": [
+        "[github.com/ArenKDesai/Boat] Yes, he has worked on projects involving PyTorch and TensorFlow."
+    ],
+    "What is Aren's experience in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] He contributed to the Wisconsin Rover project using ROS2."],
+    "Can I see Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Yes, his resume is available for download."],
+    "What technical skills does Aren have in data science?": [
+        "Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras.",
+        "**data science tools** include Python libraries for analysis and modeling."
+    ],
+    "Tell me about Aren's leadership roles": [
+        "[arendesai.com/portfolio] He is the Finance Lead of Google Developer Student Club and a developer in Wisconsin Robotics."
+    ],
+    "What coursework has Aren completed?": ["[arendesai.com/coursework] Courses include Data Science, Machine Learning, and Computer Graphics."],
+    "What is Aren's experience at Madison Gas & Electric?": ["[arendesai.com/portfolio] He interned as an Energy Supply Intern, focusing on data analytics."],
+    "Can you explain Aren's work with GCP?": ["[github.com/ArenKDesai/ArenWebsite] He developed a website hosted on Google Cloud Platform with LLM integration."],
+    "What is the purpose of the Book of Joe project?": [
+        "[arendesai.com/bookofjoe] It's a web-based game created to showcase his programming and design skills.",
+        "**game development** highlights his ability to combine creativity and technology."
+    ],
+    "How does Aren use Julia?": ["[github.com/ArenKDesai/Boat] He uses Julia for efficient data analysis and modeling."],
+    "What is the focus of LMP Forecasting?": [
+        "[arendesai.com/datascience/LMPF-README.md] It focuses on predicting energy market prices using advanced algorithms.",
+        "**energy markets** are a key area of his research."
+    ],
+    "Can you describe Aren's contribution to Wisconsin Robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] He worked on ROS2 integration and software development for the rover."],
+    "What tools does Aren use in graphics programming?": [
+        "OpenGL, DirectX, and Vulkan.",
+        "**graphics APIs** are central to his work in 3D rendering."
+    ],
+    "How did Aren's internship at Madison Gas & Electric impact his career?": ["[arendesai.com/portfolio] It provided hands-on experience in energy analytics and data science."],
+    "What is the significance of MarketSimOptimizer?": [
+        "[arendesai.com/datascience/MSO-README.md] It simulates energy markets to optimize trading strategies.",
+        "**energy market simulation** is critical for understanding pricing dynamics."
+    ],
+    "Can you explain Aren's role in Google Developer Student Club?": ["[arendesai.com/portfolio] As Finance Lead, he manages resources and organizes events for student developers."],
+    "What inspired Aren to work on the Cyber City project?": [
+        "[arendesai.com/cybercity] It was inspired by a desire to create immersive virtual environments.",
+        "**immersive environments** are key in modern gaming and simulation."
+    ],
+    "How does Aren's knowledge of C++ benefit his work?": ["[github.com/ArenKDesai/Boat] It allows him to optimize performance in graphics programming."],
+    "What is the goal of the Wisconsin Rover project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] The goal is to develop autonomous navigation and data collection capabilities.",
+        "**autonomous systems** are a major focus of his robotics work."
+    ],
+    "Can you describe Aren's experience with JavaScript?": ["[arendesai.com/portfolio] He uses JavaScript for web development and interactive applications."],
+    "What courses has Aren taken in computer graphics?": [
+        "[arendesai.com/coursework] Courses include Computer Graphics and 3D Modeling.",
+        "**graphics coursework** has shaped his ability to create visual simulations."
+    ],
+    "How does Aren apply machine learning in energy markets?": [
+        "[arendesai.com/datascience/LMPF-README.md] He applies ML algorithms to predict price trends and optimize trading strategies.",
+        "**machine learning applications** are vital for data-driven decisions."
+    ]
+}

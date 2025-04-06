@@ -1,0 +1,44 @@
+{
+    "What universities has Aren attended?": "[https://www.wisc.edu](University of Wisconsin-Madison) where he is pursuing a BS in Computer Science & Data Science.",
+    "Can you tell me about Aren's education?": "[arendesai.com/portfolio#education](Aren is currently enrolled in a Bachelor of Science program in Computer Science and Data Science at the University of Wisconsin-Madison, set to graduate in Spring 2025.)",
+    "Which programming languages does Aren know?": [
+        "[https://www.python.org](Python)",
+        "[https://sql.com](SQL)",
+        "[https://www.r-project.org](R)",
+        "[https://www.oracle.com/java](Java)",
+        "[https://www.microsoft.com/csharp](C#)"
+    ],
+    "What projects has Aren worked on in data science?": [
+        "[arendesai.com/datascience/MSO-README.md](MarketSimOptimizer for energy market simulation)",
+        "[arendesai.com/datascience/LMPF-README.md](LMP Forecasting using LEAR and DNN models)"
+    ],
+    "How does the MarketSimOptimizer work?": "[arendesai.com/datascience/MSO-README.md](The tool simulates Midcontinent Independent System Operator markets to optimize energy trading strategies.)",
+    "What graphics projects has Aren created?": [
+        "[https://github.com/ArenKDesai/Boat](3D boat model using Blender and Unity)",
+        "[arendesai.com/cybercity](3D cyberpunk city environment)"
+    ],
+    "Can you tell me about Aren's technical skills in data science?": [
+        "[https://pandas.pydata.org](Pandas)",
+        "[https://numpy.org](NumPy)",
+        "[https://pytorch.org](PyTorch)"
+    ],
+    "What is the MarketSimOptimizer used for?": "[arendesai.com/datascience/MSO-README.md](It simulates energy markets to optimize trading strategies and evaluate market conditions.)",
+    "Where can I see Aren's resume?": "[arendesai.com/portfolio#resume](Download [resume.pdf] or [cv.pdf] from the portfolio section.)",
+    "What leadership roles has Aren held?": "[https://www.wisc.edu/gdsc](Google Developer Student Club Finance Lead at UW-Madison)",
+    "How did Aren's experience at Madison Gas & Electric impact his career?": "[https://www.mge.com](He gained practical insights into energy supply and demand analysis.)",
+    "What coursework has Aren completed in data science?": [
+        "Machine Learning with Python (UW-Madison)",
+        "Data Structures and Algorithms"
+    ],
+    "Can you tell me about the Wisconsin Rover project?": "[https://github.com/ArenKDesai](Developed software for a rover as part of a robotics team at UW-Madison.)",
+    "What tools does Aren use for data analysis?": [
+        "[https://jupyter.org](Jupyter Notebooks)",
+        "[https://pandas.pydata.org](Pandas)"
+    ],
+    "How did Aren's internship at Microsoft influence his career goals?": "[https://www.microsoft.com](He gained hands-on experience in software development and AI.)",
+    "What are some of the key features of the LMP Forecasting model?": "[arendesai.com/datascience/LMPF-README.md](It uses advanced neural networks to predict energy prices.)",
+    "Can you tell me about Aren's involvement in open-source projects?": "[https://github.com/ArenKDesai](Contributions to various projects on GitHub, focusing on data science and machine learning.)",
+    "What is the primary focus of the CyberCity project?": "[arendesai.com/cybercity](Creating a detailed 3D model of a futuristic city using Blender and Python.)",
+    "How does Aren's background in robotics complement his work in data science?": "[https://www.wisc.edu/robotics](Experience with autonomous systems and AI algorithms.)",
+    "What are some of the challenges Aren has faced in developing MarketSimOptimizer?": "[arendesai.com/datascience/MSO-README.md](Modeling complex market dynamics and ensuring accuracy in simulations.)"
+}

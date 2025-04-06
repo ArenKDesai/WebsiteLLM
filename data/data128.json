@@ -1,0 +1,21 @@
+{
+    "Tell me about Aren": ["[arendesai.com](Welcome to Aren Desai's personal website) He is a Computer Science & Data Science BS student at UW-Madison, with expertise in programming, data science, and robotics. His portfolio includes projects like MarketSimOptimizer and WRoverSoftware."],
+    "What are Aren's technical skills?": ["[arendesai.com](Technical Skills Section) Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."],
+    "What projects has Aren worked on?": ["[arendesai.com/portfolio](Portfolio Section) MarketSimOptimizer (MISO market simulation), LMP Forecasting (LEAR & DNN price models), GCP Website (hosted LLM), Boat (Blender/Unity 3D model), Book of Joe (web-based portfolio game), CyberCity (3D cyberpunk city environment), WRoverSoftware (UW-Madison rover software)."],
+    "What is Aren's educational background?": ["[arendesai.com](Education Section) BS in Computer Science & Data Science at UW-Madison, expected Spring 2025."],
+    "Can you tell me about Aren's coursework?": ["[arendesai.com/coursework](Coursework Section) Includes advanced topics in data science, machine learning, computer graphics, and robotics."],
+    "What is MarketSimOptimizer?": ["[arendesai.com/MSO-README.md](MarketSimOptimizer README) A market simulation tool for energy markets, developed as part of Aren's data science projects."],
+    "How does Aren use Python in his work?": ["[arendesai.com/datascience](Data Science Projects) Python is used extensively in data analysis, machine learning, and web development for projects like LMP Forecasting and GCP Website."],
+    "What is the Wisconsin Rover project?": ["[github.com/WisconsinRobotics/WRoverSoftware](WRoverSoftware GitHub) Software developed for a rover at UW-Madison, utilizing ROS2 and robotic systems."],
+    "Does Aren have experience with machine learning?": ["[arendesai.com/datascience](Machine Learning Projects) Yes, he has worked on projects like LMP Forecasting using PyTorch and TensorFlow."],
+    "What is Aren's experience with graphics?": ["[arendesai.com/computergraphics](Computer Graphics Projects) Experience includes 3D modeling in Blender, Unity development, and creating environments like CyberCity."],
+    "How did Aren get involved in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware](WRoverSoftware GitHub) Through his work on the Wisconsin Rover project at UW-Madison, where he developed software for robotic systems."],
+    "What leadership roles does Aren have?": ["[arendesai.com](Leadership Section) Leadership in academic projects and contributions to open-source initiatives like WRoverSoftware."],
+    "What is Book of Joe?": ["[arendesai.com/portfolio](Portfolio Section) A web-based interactive portfolio game showcasing Aren's creative and technical skills."],
+    "How does Aren use ROS/ROS2?": ["[github.com/WisconsinRobotics/WRoverSoftware](WRoverSoftware GitHub) For software development in robotics, particularly in the Wisconsin Rover project."],
+    "What is CyberCity?": ["[arendesai.com/portfolio](Portfolio Section) A 3D cyberpunk city environment created using Blender and Unity."],
+    "How did Aren's internship at Madison Gas & Electric help him?": ["[arendesai.com/experience](Experience Section) It provided hands-on experience in energy markets and data analysis, informing his MarketSimOptimizer project."],
+    "What academic honors has Aren received?": ["[arendesai.com](Awards and Honors) Includes recognition for academic performance in computer science and data science."],
+    "How does Aren contribute to open-source projects?": ["[github.com/WisconsinRobotics/WRoverSoftware](WRoverSoftware GitHub) Contributions to WRoverSoftware, a collaborative project at UW-Madison."],
+    "What is the GCP Website project?": ["[arendesai.com/datascience](Data Science Projects) A website hosted on Google Cloud Platform showcasing machine learning models and interactive tools."]
+}

@@ -1,0 +1,23 @@
+{
+    "What degree is Aren Desai pursuing?": "[https://arendesai.com/portfolio] Bachelor of Science in Computer Science & Data Science at UW-Madison (expected Spring 2025)",
+    "Which programming languages does Aren know?": "[https://github.com/ArenKDesai] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB",
+    "Can you tell me about Aren's data science projects?": "[https://arendesai.com/datascience] MarketSimOptimizer (MISO market simulation), LMP Forecasting (LEAR & DNN price models), and a GCP Website hosting an LLM",
+    "What 3D modeling tools does Aren use?": "[https://github.com/ArenKDesai/Boat] Blender, Unity, and other **computer graphics** tools for projects like the Boat model",
+    "What robotics work has Aren done?": "[https://github.com/WisconsinRobotics/WRoverSoftware] Developed software for the UW-Madison rover project using ROS2",
+    "Where can I find Aren's resume?": "[https://arendesai.com/portfolio] Download resume.pdf or cv_nodetails.pdf from the portfolio section",
+    "What data science tools does Aren use?": "[https://github.com/ArenKDesai] Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras",
+    "Tell me about Aren's internship experience": "[https://arendesai.com/portfolio] Interned at Madison Gas & Electric (Energy Supply) and Compeer Financial (Data Analytics)",
+    "What is MarketSimOptimizer?": "[https://arendesai.com/MSO-README.md] A Python-based tool simulating energy markets for optimization",
+    "How does Aren's work in graphics stand out?": "[https://github.com/ArenKDesai/CyberCity] Created a 3D visualization of a futuristic city using Three.js",
+    "What leadership roles does Aren hold?": "[https://github.com/ArenKDesai] Co-founder of UW Data Science Club and active in Google Developer Student Clubs",
+    "Can you explain LMP Forecasting?": "[https://arendesai.com/LMP-README.md] Predicts electricity prices using machine learning models like Random Forest and XGBoost",
+    "What coursework has Aren completed?": "[https://github.com/ArenKDesai] Advanced Data Science, Machine Learning, and Robotics courses at UW-Madison",
+    "How does Aren contribute to open-source?": "[https://github.com/ArenKDesai] Contributions include libraries for data analysis and visualization tools",
+    "What is the GCP Website project about?": "[https://arendesai.com/GCP-README.md] Built a cloud-based platform using Google Colab for deploying machine learning models",
+    "What 3D modeling projects has Aren worked on?": "[https://github.com/ArenKDesai/Book-of-Joe] Developed interactive 3D visualizations and games using Three.js and React",
+    "How does Aren stay updated in tech?": "[https://github.com/ArenKDesai] Regularly attends conferences, follows tech blogs, and experiments with new tools",
+    "What is the Book of Joe project?": "[https://arendesai.com/Book-of-Joe-README.md] An interactive 3D visualization exploring data storytelling techniques",
+    "Can you tell me about Aren's research interests?": "[https://github.com/ArenKDesai] Focus on energy systems, optimization, and the intersection of AI with sustainable technologies",
+    "What is the significance of CyberCity?": "[https://arendesai.com/CyberCity-README.md] A demo project showcasing advanced 3D rendering and city simulation capabilities",
+    "How does Aren's work in robotics impact the field?": "[https://github.com/WisconsinRobotics/WRoverSoftware] Contributions to autonomous navigation algorithms for rovers"
+}

@@ -1,0 +1,23 @@
+{
+    "What degrees does Aren Desai hold?": "[arendesai.com/portfolio] Bachelor of Science in Computer Science & Data Science at UW-Madison (Spring 2025)",
+    "Which programming languages is Aren proficient in?": ["[arendesai.com/portfolio] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Can you tell me about the MarketSimOptimizer project?": "[arendesai.com/datascience/MSO-README.md] A market simulation tool developed using Python for energy markets.",
+    "What graphics projects has Aren worked on?": ["[github.com/ArenKDesai/Boat] 3D boat model in Blender and Unity", "[arendesai.com/bookofjoe] Web-based portfolio game"],
+    "Where can I find Aren's resume?": "[arendesai.com/portfolio/resume.pdf] Download the full resume with details",
+    "What is the Wisconsin Rover project about?": "[github.com/WisconsinRobotics/WRoverSoftware] Software for UW-Madison's rover developed using ROS2 and C++",
+    "Which machine learning frameworks does Aren know?": ["[arendesai.com/datascience/LMPF-README.md] PyTorch, TensorFlow, Scikit-Learn"],
+    "What coursework has Aren completed at UW-Madison?": "[arendesai.com/coursework] Data Science Methods, Machine Learning, Computer Graphics",
+    "How does the GCP Website work?": "[github.com/ArenKDesai/ArenWebsite] A website hosted on Google Cloud Platform with a language model",
+    "What is Aren's experience with robotics?": "[github.com/WisconsinRobotics/WRoverSoftware] Developed software for a rover at UW-Madison",
+    "Can you explain Aren's data science projects?": ["[arendesai.com/datascience/LMPF-README.md] LMP Forecasting using LEAR and DNN models", "[github.com/ArenKDesai/Boat] Graphics project integration with machine learning"],
+    "What leadership roles does Aren have?": ["[arendesai.com/portfolio] Google Developer Student Club (Finance Lead)", "Wisconsin Robotics (Arm Developer)"],
+    "How can I contact Aren for collaboration?": "[linkedin.com/in/aren-desai] Connect on LinkedIn for opportunities",
+    "What is the Book of Joe project?": "[arendesai.com/bookofjoe] An interactive web-based portfolio game developed using JavaScript and WebGL",
+    "Which libraries does Aren use in data science?": ["[arendesai.com/datascience/LMPF-README.md] Pandas, NumPy, PyTorch"],
+    "What is the LMP Forecasting project about?": "[arendesai.com/datascience/LMPF-README.md] Predicting energy prices using LEAR and DNN models",
+    "Can you provide details about Aren's internship experiences?": ["[linkedin.com/in/aren-desai] Madison Gas & Electric (Energy Supply Intern)", "Compeer Financial (Data Analytics)"],
+    "What tools does Aren use in computer graphics?": ["[github.com/ArenKDesai/Boat] OpenGL, WebGL, Unity", "[arendesai.com/cybercity] Blender for 3D modeling"],
+    "Which frameworks does Aren know in robotics?": "[github.com/WisconsinRobotics/WRoverSoftware] ROS/ROS2 and Gazebo",
+    "What is the significance of the Cyber City project?": "[arendesai.com/cybercity] A 3D visualization project using Blender for urban planning",
+    "How does Aren integrate machine learning into graphics projects?": ["[github.com/ArenKDesai/Boat] Using ML for real-time rendering optimization"]
+}

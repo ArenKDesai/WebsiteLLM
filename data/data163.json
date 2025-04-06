@@ -1,0 +1,37 @@
+{
+    "What is Aren Desai known for?": ["[arendesai.com/portfolio] Known for expertise in computer science, data science, and robotics, Aren has worked on projects like MarketSimOptimizer and WRoverSoftware."],
+    "Can you provide an overview of Aren’s professional background?": ["[arendesai.com/portfolio] Aren is a Computer Science & Data Science BS student at UW-Madison with experience in energy supply analysis and data analytics."],
+    "Where did Aren Desai attend school?": ["[uw-madison.edu] Aren is pursuing a degree in Computer Science and Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."],
+    "What degree programs is Aren pursuing?": ["[uw-madison.edu] Aren is enrolled in a BS program combining Computer Science and Data Science at UW-Madison."],
+    "What programming languages does Aren know?": ["[github.com/ArenKDesai] Proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and OpenGL for graphics."],
+    "What data science tools and libraries is Aren familiar with?": ["[github.com/ArenKDesai] Skills include Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras, and GCP for cloud-based projects."],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/MarketSimOptimizer README.md] MarketSimOptimizer for MISO market simulation.",
+        "[arendesai.com/LMPF-README.md] LMP Forecasting using LEAR and DNN models."
+    ],
+    "Can you explain the MarketSimOptimizer project?": ["[github.com/ArenKDesai/MSO] This project simulates electricity markets, aiding in understanding pricing dynamics."],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] A 3D boat model using Blender and Unity.",
+        "[arendesai.com/bookofjoe] Interactive web-based portfolio game built with WebGL."
+    ],
+    "Tell me about the Book of Joe project.": ["[arendesai.com/bookofjoe] An interactive game exploring creative design through WebGL programming."],
+    "What robotics work has Aren been involved in?": ["[github.com/ArenKDesai/WRoverSoftware] Developed software for a rover, enhancing autonomy and navigation capabilities."],
+    "Can you describe the WRoverSoftware project?": ["[github.com/ArenKDesai/WRoverSoftware] This project focuses on creating autonomous navigation systems for robotic applications."],
+    "What professional experience does Aren have?": [
+        "[linkedin.com/in/ArenDesai] Interned at a utility company, analyzing energy supply data.",
+        "[linkedin.com/in/ArenDesai] Conducted data analytics for retail businesses."
+    ],
+    "Where did Aren intern, and what did they do?": ["[linkedin.com/in/ArenDesai] Interned at a utility company, focusing on energy supply chain analysis."],
+    "What leadership roles does Aren have?": [
+        "[linkedin.com/in/ArenDesai] Active in tech communities, contributing to open-source projects.",
+        "[github.com/ArenKDesai] Collaborates with others on data science initiatives."
+    ],
+    "How was Aren involved with Google Developer Student Clubs?": ["[g.dev/...] Led a club focused on advancing AI and machine learning within the local developer community."],
+    "How can I see Aren's resume or CV?": ["[linkedin.com/in/ArenDesai] Available upon request through professional networking platforms."],
+    "Are there specific algorithms Aren has expertise in?": ["[github.com/ArenKDesai] Expertise includes neural networks, optimization techniques, and time-series analysis."],
+    "What inspired Aren to pursue data science?": ["[medium.com/@ArenDesai] A passion for problem-solving and leveraging technology for societal impact."],
+    "How did Aren get started in data science?": [
+        "[towardsdatascience.com/@ArenDesai] Through coursework in statistics and computer science, followed by hands-on projects."
+    ],
+    "What challenges has Aren faced in robotics?": ["[medium.com/@ArenDesai] Navigating complex systems and integrating AI for decision-making processes."]
+}

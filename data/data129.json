@@ -1,0 +1,23 @@
+{
+    "What is your educational background?": ["https://arendesai.com/portfolio#education - Aren Desai has a BS in Computer Science and Data Science from UW-Madison, expected Spring 2025"],
+    "Can you explain the MarketSimOptimizer project?": ["https://arendesai.com/datascience/MSO-README.md - A Python-based tool for simulating electricity markets using MISO data"],
+    "What programming languages do you know?": ["https://www.arendeDesai.com/about#skills - Includes Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Have you worked on any machine learning projects?": ["https://arendesai.com/datascience/LMPF-README.md - Developed LEAR and DNN models for LMP forecasting"],
+    "What is the Wisconsin Rover project about?": ["https://github.com/WisconsinRobotics/WRoverSoftware - Software developed for a rover at UW-Madison"],
+    "Can you tell me about your experience with graphics?": ["https://arendesai.com/portfolio#graphics - Created 3D models in Blender and Unity, including the Book of Joe game"],
+    "What courses have you taken in data science?": ["https://arendesai.com/coursework - Includes UW-Madison coursework like Data Science Methods and Machine Learning"],
+    "How can I view your resume?": ["https://arendesai.com/portfolio#resume - Download resume.pdf or cv.pdf from the portfolio section"],
+    "What is your experience with robotics?": ["https://github.com/WisconsinRobotics/WRoverSoftware - Worked on rover software using ROS2"],
+    "Can you explain your internship at Compeer Financial?": ["https://arendesai.com/portfolio#experience - Analyzed data to optimize credit risk models"],
+    "What tools do you use for data analysis?": ["https://www.arendeDesai.com/about#skills - Tools include Pandas, NumPy, PyTorch, TensorFlow"],
+    "Tell me about the CyberCity project": ["https://arendesai.com/computergraphics/cybercity - A 3D cyberpunk city environment created using Blender"],
+    "How did you get started with machine learning?": ["https://arendesai.com/datascience/LMPF-README.md - Begun with coursework and projects like LMP forecasting"],
+    "What is your experience with cloud technologies?": ["https://github.com/ArenKDesai/ArenWebsite - Deployed a website using GCP"],
+    "Can you tell me about your leadership roles?": ["https://www.arendeDesai.com/about#leadership - Led Google Developer Student Club and Wisconsin Robotics projects"],
+    "What is the Book of Joe project?": ["https://arendesai.com/computergraphics/bookofjoe - A web-based portfolio game using Three.js"],
+    "How did you develop the WebsiteLLM project?": ["https://www.arendeDesai.com/portfolio#projects - Involved synthetic data generation and fine-tuning"],
+    "What skills do you have in computer graphics?": ["https://arendesai.com/computergraphics - Proficient in OpenGL, WebGL, Unity, Blender"],
+    "Can you explain your internship at Madison Gas & Electric?": ["https://arendesai.com/portfolio#experience - Worked on energy supply optimization and market analysis"],
+    "What is the focus of your coursework?": ["https://arendesai.com/coursework - Emphasizes data science, machine learning, and robotics"],
+    "How do you stay updated with tech trends?": ["https://www.arendeDesai.com/about#skills - Continuous learning through projects and open-source contributions"]
+}

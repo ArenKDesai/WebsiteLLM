@@ -1,0 +1,22 @@
+{
+    "Tell me about Aren Desai": "[arendesai.com/portfolio] Read more about Aren's background, education, skills, and projects.",
+    "What is Aren's educational background?": ["[arendesai.com/resume_nodetails.pdf] BS in Computer Science & Data Science at UW-Madison (Spring 2025).", "**Data Science** and **Computer Science** are his primary areas of study."],
+    "Can you tell me about Aren's technical skills?": ["[arendesai.com/portfolio] Skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more.", "**Programming Languages** and **Data Science Tools** are key areas of expertise."],
+    "What data science projects has Aren worked on?": ["[arendesai.com/datascience] Projects include MarketSimOptimizer for MISO market simulation and LMP Forecasting with LEAR & DNN models."],
+    "Does Aren have experience with machine learning?": ["Yes, he has worked on projects like the **LMP Forecasting** system using PyTorch and Scikit-Learn ([arendesai.com/LMPF-README.md]).", "**Machine Learning** is a key area of his expertise."],
+    "What graphics projects has Aren created?": ["[arendesai.com/computergraphics] Projects include a 3D boat model in Blender/Unity and the Book of Joe web game."],
+    "Tell me about Aren's work experience": ["He interned at Madison Gas & Electric (Energy Supply Intern) and Compeer Financial (Data Analytics).", "**Energy** and **Finance** sectors are areas of his professional experience."],
+    "What is the MarketSimOptimizer project?": ["[arendesai.com/MSO-README.md] A market simulation tool for MISO markets, developed with Python and Pandas."],
+    "What robotics work has Aren done?": ["He contributed to **WRoverSoftware** ([github.com/WisconsinRobotics/WRoverSoftware]) for the UW-Madison rover project.", "**Robotics** is a passion area for him."],
+    "What academic courses has Aren taken?": ["[arendesai.com/coursework] Courses include Data Science, Machine Learning, and Computer Graphics.", "**Academic Coursework** highlights his learning journey."],
+    "How can I see Aren's resume?": ["Download it from [arendesai.com/resume_nodetails.pdf].", "**Resume** and **CV** are available for detailed insights."],
+    "What leadership roles has Aren held?": ["He is a Finance Lead at Google Developer Student Club and worked on the Wisconsin Robotics team.", "**Leadership** in tech organizations is a key part of his background."],
+    "What tools does Aren use for data science?": ["Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras. ([arendesai.com/datascience])", "**Data Science Tools** are central to his work."],
+    "Can you tell me about Aren's graphics projects?": ["[arendesai.com/computergraphics] Includes 3D modeling in Blender and Unity, as well as the Book of Joe game.", "**Computer Graphics** is a creative area he explores."],
+    "What programming languages does Aren know?": ["Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB. ([arendesai.com/portfolio])", "**Programming Languages** are his primary tools."],
+    "How did Aren get started with robotics?": ["He worked on the Wisconsin Rover project at UW-Madison ([github.com/WisconsinRobotics/WRoverSoftware]).", "**Robotics** began with hands-on experience in academia."],
+    "What is Aren's approach to machine learning?": ["He focuses on practical applications, like price prediction models for energy markets ([arendesai.com/LMPF-README.md]).", "**Machine Learning Applications** are a key focus."],
+    "Can you tell me about Aren's web development skills?": ["He uses JavaScript and frameworks for projects like the Book of Joe game. ([arendesai.com/computergraphics])", "**Web Development** is part of his technical toolkit."],
+    "What inspired Aren to study data science?": ["His interest in solving real-world problems with data ([arendesai.com/portfolio]).", "**Data Science** is driven by a desire to innovate and analyze."],
+    "How does Aren stay updated in tech?": ["He follows the latest trends in AI, robotics, and web development. ([arendesai.com/portfolio])", "**Continuous Learning** keeps him at the forefront of technology."]
+}

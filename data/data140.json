@@ -1,0 +1,22 @@
+{
+    "What can you tell me about Aren Desai?": ["[arendesai.com] About Aren Desai - Computer Science & Data Science BS at UW-Madison (Spring 2025), with technical skills in Python, SQL, R, Java, and more."],
+    "What are some of Aren's most impressive projects?": ["[arendesai.com/MSO-README.md] MarketSimOptimizer - MISO market simulation project", "[arendesai.com/LMPF-README.md] LMP Forecasting - LEAR & DNN price models"],
+    "Where can I find Aren's resume?": ["[arendesai.com/resume_nodetails.pdf] Resume PDF - Professional overview and education details."],
+    "What programming languages does Aren know?": ["[About page] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Can you tell me about Aren's education?": ["[About page] Computer Science & Data Science BS at UW-Madison (Spring 2025)"],
+    "What data science tools does Aren use?": ["[About page] Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras"],
+    "Where can I see examples of Aren's work in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware - UW-Madison rover project"],
+    "What graphics software is Aren proficient in?": ["[About page] OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2"],
+    "Can you tell me about Aren's work experience?": ["[About page] Madison Gas & Electric (Energy Supply Intern), Compeer Financial (Data Analytics)"],
+    "What is the GCP Website project?": ["[github.com/ArenKDesai/ArenWebsite] GCP-hosted website with LLM capabilities"],
+    "How did Aren contribute to the Wisconsin Rover project?": ["[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware - Developed software for UW-Madison rover"],
+    "What leadership roles has Aren held?": ["[About page] Google Developer Student Clubs, Compeer Financial collaboration"],
+    "Can you tell me about Aren's work in energy supply?": ["[About page] Madison Gas & Electric (Energy Supply Intern)"],
+    "Where can I find details about Aren's coursework?": ["[About page] Academic coursework in computer science and data science"],
+    "What machine learning frameworks does Aren use?": ["[About page] TensorFlow, PyTorch, Scikit-Learn"],
+    "How did Aren approach the MarketSimOptimizer project?": ["[arendesai.com/MSO-README.md] MISO market simulation using advanced algorithms"],
+    "Can you tell me about Aren's involvement in data science competitions?": ["[About page] Experience with Kaggle and similar platforms"],
+    "What is the purpose of the LMP Forecasting project?": ["[arendesai.com/LMPF-README.md] Predicting electricity prices using LEAR & DNN models"],
+    "Where can I find Aren's academic publications?": ["[About page] Details available upon request"],
+    "What is Aren's approach to website development?": ["[github.com/ArenKDesai/ArenWebsite] GCP-hosted, LLM-integrated solution"]
+}

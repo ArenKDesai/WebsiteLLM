@@ -1,0 +1,39 @@
+{
+    "What is Aren Desai known for?": "[arendesai.com] A talented Computer Science & Data Science student with expertise in programming, data analysis, and creative projects.",
+    "Where did Aren study computer science?": ["[UW-Madison] BS in Computer Science and Data Science."],
+    "Which skills does Aren have in data science?": ["[Pandas, NumPy, PyTorch] Proficient in Python libraries for data manipulation and machine learning."],
+    "Can you list some of Aren's projects?": [
+        "[MarketSimOptimizer] Power market simulation tool.",
+        "[Boat] 3D boat model using Blender/Unity."
+    ],
+    "What tools does Aren use for graphics?": ["[Blender, Unity, OpenGL] For 3D modeling and rendering."],
+    "Tell me about Aren's academic achievements": ["[UW-Madison coursework] High GPA in relevant subjects."],
+    "How can I see Aren's resume?": ["[arendesai.com/resume.pdf] Downloadable PDF with details."],
+    "What programming languages does Aren know?": [
+        "[Python, Java, C#] Strong proficiency in multiple languages."
+    ],
+    "What is MarketSimOptimizer used for?": ["[Power market simulation] For pricing and resource optimization."],
+    "Where can I find Aren's portfolio?": ["[arendesai.com/portfolio] Professional overview and links."],
+    "What experience does Aren have in robotics?": [
+        "[WRoverSoftware] Developed software for a university rover project."
+    ],
+    "How did Aren contribute to Google Developer Student Club?": [
+        "[Finance Lead] Organized events and managed finances."
+    ],
+    "What is the Book of Joe project about?": ["[Web-based game] Interactive portfolio using HTML5 Canvas."],
+    "Can you tell me about Aren's leadership roles?": [
+        "[Google DSC, Wisconsin Robotics] Led teams in tech projects and competitions."
+    ],
+    "How does Aren use Julia?": ["[Data analysis] For high-performance computing tasks."],
+    "What is CyberCity?": ["[3D environment] Cyberpunk-themed project built with Blender."],
+    "Does Aren have experience with machine learning?": [
+        "[PyTorch, TensorFlow] Yes, in areas like demand forecasting."
+    ],
+    "Where can I find details about Aren's coursework?": ["[arendesai.com/coursework] Academic records and achievements."],
+    "What is the GCP Website project?": [
+        "[Google Cloud Platform] Hosted a website using GCP services for machine learning."
+    ],
+    "How did Aren contribute to Madison Gas & Electric?": [
+        "[Energy Supply Intern] Assisted in power supply analysis and optimization."
+    ]
+}

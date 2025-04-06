@@ -1,0 +1,47 @@
+{
+    "What is Aren Desai's educational background?": "[arendesai.com/portfolio] His education includes a BS in Computer Science & Data Science from UW-Madison (Spring 2025). **Computer Science** and **Data Science** are his primary fields of study.",
+    
+    "Can you tell me about his technical skills?": [
+        "[arendesai.com/portfolio] He is proficient in programming languages like Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB. His skills also extend to **data science** tools such as Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras."
+    ],
+    
+    "What projects has Aren worked on?": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for MISO market simulation.",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting using LEAR and DNN models.",
+        "[github.com/ArenKDesai/Boat] Boat, a Blender/Unity 3D model project."
+    ],
+    
+    "What is his experience with data science?": [
+        "[arendesai.com/portfolio] He has worked on projects involving market simulation, forecasting, and website development using GCP. His work includes **data analysis** and **machine learning** applications."
+    ],
+    
+    "Does he have any robotics experience?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware for the UW-Madison rover project. He has experience with **ROS/ROS2** and robotic software development."
+    ],
+    
+    "What about his work in computer graphics?": [
+        "[github.com/ArenKDesai/Boat] Boat, a 3D model project using Blender and Unity.",
+        "[arendesai.com/cybercity] CyberCity, a 3D cyberpunk city environment."
+    ],
+    
+    "What leadership roles does Aren have?": [
+        "[arendesai.com/portfolio] He has held leadership roles in academic projects and robotics initiatives. His **leadership** experience includes managing teams and overseeing project development."
+    ],
+    
+    "How does he approach problem-solving?": [
+        "[github.com/ArenKDesai/MarketSimOptimizer] His work demonstrates a structured approach to solving complex problems, particularly in **market simulation** and **forecasting**."
+    ],
+    
+    "What are some of his recent projects?": [
+        "[github.com/ArenKDesai/LMP-Forecasting] Recent focus on LMP Forecasting using advanced machine learning techniques.",
+        "[github.com/ArenKDesai/WRoverSoftware] Continued involvement in robotic software development for the UW-Madison rover project."
+    ],
+    
+    "What coursework has he completed?": [
+        "[arendesai.com/portfolio] Relevant coursework includes algorithms, data structures, machine learning, and robotics. His academic background provides a strong foundation in **computer science** and **data analysis**."
+    ],
+    
+    "How does he contribute to open-source projects?": [
+        "[github.com/ArenKDesai/MarketSimOptimizer] Active contributor to MarketSimOptimizer, a project focused on energy market simulation. His contributions highlight his expertise in **open-source development** and **collaborative coding**."
+    ]
+}

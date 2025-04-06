@@ -1,0 +1,61 @@
+{
+    "Tell me about Aren": [
+        "[arendesai.com] Arendesai is a skilled computer science student with a focus in data science at UW-Madison, offering expertise in programming, robotics, and graphics."
+    ],
+    "What are Aren's technical skills?": [
+        "[arendesai.com/technical-skills] Skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."
+    ],
+    "What education does Aren have?": [
+        "[arendesai.com/portfolio] BS in Computer Science & Data Science at UW-Madison (Spring 2025), with a focus on robotics and data analysis."
+    ],
+    "Can you tell me about Aren's projects?": [
+        "[arendesai.com/portfolio] Key projects include MarketSimOptimizer, LMP Forecasting, GCP Website, Boat, Book of Joe, CyberCity, and WRoverSoftware."
+    ],
+    "What programming languages does Aren know?": [
+        "[arendesai.com/programming-languages] Languages include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and others."
+    ],
+    "Does Aren have experience with robotics?": [
+        "[arendesai.com/robotics] Experience includes work on the Wisconsin Rover project at UW-Madison (github.com/WisconsinRobotics/WRoverSoftware)."
+    ],
+    "What graphics projects has Aren worked on?": [
+        "[arendesai.com/computergraphics] Projects include Boat, Book of Joe, and CyberCity."
+    ],
+    "What data science tools does Aren use?": [
+        "[arendesai.com/data-science-tools] Tools include Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras, and more."
+    ],
+    "Where can I find Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Download his concise resume here."
+    ],
+    "What leadership roles has Aren held?": [
+        "[arendesai.com/leadership] Leadership includes Google Developer Student Club (Finance Lead) and Wisconsin Robotics (Arm Developer)."
+    ],
+    "What coursework has Aren taken in data science?": [
+        "[arendesai.com/coursework] Coursework includes Data Science methods, Machine Learning, Statistics, and more."
+    ],
+    "How can I see Aren's GitHub profile?": [
+        "[github.com/ArenKDesai] Visit his GitHub page to explore his code repositories."
+    ],
+    "What experience does Aren have in data analytics?": [
+        "[compeerfinancial.com] He interned at Compeer Financial, applying machine learning and SQL for data analysis."
+    ],
+    "Where can I learn about Aren's energy work?": [
+        "[madisongasandelectric.com] His internship at Madison Gas & Electric focused on energy supply analysis."
+    ],
+    "What is the MarketSimOptimizer project?": [
+        "[arendesai.com/MSO-README.md] A market simulation tool for energy systems, developed using Python and data modeling."
+    ],
+    "How does Aren use Unity and Blender?": [
+        "[arendesai.com/graphics-tools] He uses Unity for game development and Blender for 3D modeling in projects like CyberCity."
+    ],
+    "What is the Book of Joe project about?": [
+        "[arendesai.com/bookofjoe] An interactive web experience combining HTML5 Canvas, JavaScript, and WebGL."
+    ],
+    "Can I see Aren's work on Google Cloud Platform?": [
+        "[gcp.google.com] His GCP Website project demonstrates cloud-based data visualization using Python and TensorFlow."
+    },
+    "What is the CyberCity project?": [
+        "[arendesai.com/cybercity] A 3D virtual city simulation created with WebGL and Three.js, exploring urban planning concepts."
+    ],
+    "How can I follow Aren's academic research?": [
+        "[uw.edu] Visit UW-Madison's Computer Science department for updates on his research in robotics and data science."
+}

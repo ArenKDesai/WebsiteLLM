@@ -1,0 +1,36 @@
+{
+    "What is Aren Desai's educational background?": "[arendesai.com/portfolio/resume.pdf]aren has a bs in computer science and data science from uw-madison, expected spring 2025. **Computer Science** | **Data Science**",
+    "Can you tell me about Aren's technical skills?": [
+        "[arendesai.com/portfolio/cv_nodetails.pdf]",
+        "[https://www.github.com/ArenKDesai] GitHub profile"
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for market simulation",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting using LEAR and DNN models"
+    ],
+    "Does Aren have experience with machine learning?": "[https://towardsdatascience.com] Yes, he has worked on ML projects including **PyTorch** and **TensorFlow**.",
+    "What programming languages does Aren know?": [
+        "**Python**, **SQL**, **R**, **Java**, **C/C++/C#**, **JavaScript**, **Julia**, **MATLAB**"
+    ],
+    "Tell me about Aren's work experience": [
+        "[https://www.mge.com] Madison Gas & Electric (Energy Supply Intern)",
+        "[https://compeeducational.com] Compeer Financial (Data Analytics)"
+    ],
+    "What is the WRoverSoftware project?": "[github.com/WisconsinRobotics/WRoverSoftware] UW-Madison rover software developed for robotics research.",
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] Blender/Unity 3D boat model",
+        "[arendesai.com/bookofjoe] Web-based portfolio game"
+    ],
+    "What courses has Aren taken in data science?": "[https://uw.edu/courses] Data Science coursework at UW-Madison including **Pandas** and **NumPy**.",
+    "How can I see Aren's resume?": "[arendesai.com/portfolio/resume.pdf]",
+    "What tools does Aren use for graphics development?": "**Blender**, **Unity**, **OpenGL**",
+    "Has Aren published any research papers?": "[https://scholar.google.com] Yes, in areas like AI and robotics.",
+    "What leadership roles has Aren held?": "President of **UW Data Science Club** and mentor for **Coding Workshops**.",
+    "Can you explain Aren's approach to problem-solving?": "He focuses on **AI**, **ML**, and **robotics** to solve complex challenges.",
+    "Does Aren have a GitHub profile?": "[https://github.com/ArenKDesai]",
+    "What industries is Aren interested in?": "**Tech**, **Robotics**, **Energy**",
+    "Has Aren worked on any open-source projects?": "Contributions to **TensorFlow** and **PyTorch** frameworks.",
+    "What is Aren's favorite programming language?": "**Python** for its versatility and efficiency.",
+    "Can you share any of Aren's recent projects?": "[arendesai.com/datascience] Recent AI and ML projects on GitHub.",
+    "How does Aren stay updated with tech trends?": "Through **TechCrunch**, **Medium**, and **Reddit** communities."
+}

@@ -1,0 +1,64 @@
+{
+    "What is Aren Desai's educational background?": "[arendesai.com/resume_nodetails.pdf] He is currently pursuing a BS in Computer Science and Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025.",
+    "Can you provide details about Aren's academic projects?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer: A simulation tool for MISO market optimization.",
+        "[arendesai.com/LMPF-README.md] LMP Forecasting: Predictive models using LEAR and DNN."
+    ],
+    "What programming languages does Aren know?": [
+        "**Python**",
+        "**SQL**",
+        "**R**",
+        "**Java**",
+        "**C/C++/C#**",
+        "**JavaScript**",
+        "**Julia**",
+        "**MATLAB**"
+    ],
+    "What data science tools and libraries is Aren familiar with?": [
+        "**Pandas**",
+        "**NumPy**",
+        "**PyTorch**",
+        "**TensorFlow**",
+        "**Scikit-Learn**",
+        "**Keras**"
+    ],
+    "What graphics technologies does Aren use?": [
+        "**OpenGL**",
+        "**WebGL**",
+        "**Unity**",
+        "**Blender**"
+    ],
+    "Can you tell me about Aren's robotics experience?": "[github.com/WisconsinRobotics/WRoverSoftware] He contributed to the WRoverSoftware project at the University of Wisconsin-Madison, focusing on rover software development.",
+    "What work experience does Aren have?": [
+        "**Madison Gas & Electric**: Energy Supply Intern",
+        "**Compeer Financial**: Data Analytics Intern"
+    ],
+    "What leadership roles has Aren held?": [
+        "**Google Developer Student Club (GDSC)**: Finance Lead at UW-Madison",
+        "**Wisconsin Robotics**: Arm Developer and contributor to the Wisconsin Rover project."
+    ],
+    "What is the GCP Website project about?": "[github.com/ArenKDesai/ArenWebsite] A website hosted on Google Cloud Platform featuring a language model.",
+    "What graphics projects has Aren worked on?": [
+        "**Boat**: A 3D boat model created using Blender and Unity (github.com/ArenKDesai/Boat)",
+        "**CyberCity**: A cyberpunk-themed 3D environment (arendesai.com/cybercity)"
+    ],
+    "What is the LMP Forecasting project?": "[arendesai.com/LMPF-README.md] A project involving machine learning models for electricity price forecasting using LEAR and DNN approaches.",
+    "How can I access Aren's resume?": "[arendesai.com/resume_nodetails.pdf] You can download his resume here.",
+    "What is the MarketSimOptimizer used for?": "[arendesai.com/MSO-README.md] It simulates and optimizes markets in the MISO region, providing insights for energy management.",
+    "Can you explain Aren's involvement with GDSC?": "He served as the Finance Lead, helping organize events and manage resources for the Google Developer Student Club at UW-Madison.",
+    "What is the significance of the GCP Website project?": "It showcases Aren's ability to deploy machine learning models on cloud platforms, demonstrating his expertise in both AI and cloud computing.",
+    "How does Aren's background in robotics complement his work in data science?": "His experience with robotics has honed his skills in algorithm development, problem-solving, and software engineering, which are directly applicable to data science projects.",
+    "What tools does Aren use for machine learning research?": [
+        "**PyTorch**",
+        "**TensorFlow**",
+        "**Scikit-Learn**"
+    ],
+    "Can you provide more details about the Wisconsin Rover project?": "[github.com/WisconsinRobotics/WRoverSoftware] The project involves developing software for autonomous rovers, with Aren contributing to arm development and control systems.",
+    "What is the focus of the LMP Forecasting project?": "It focuses on predicting electricity prices using advanced machine learning techniques, which is critical for grid management and energy trading.",
+    "How can I learn more about Aren's 3D graphics work?": [
+        "**Boat**: [github.com/ArenKDesai/Boat] A Blender and Unity project showcasing 3D modeling skills.",
+        "**CyberCity**: [arendesai.com/cybercity] An immersive cyberpunk-themed environment."
+    ],
+    "What is the purpose of the GCP-hosted language model?": "The project aims to demonstrate the integration of machine learning models into cloud-based applications, providing a platform for natural language processing tasks.",
+    "How does Aren's leadership experience impact his technical work?": "His leadership roles have enhanced his ability to manage projects, collaborate with teams, and integrate diverse perspectives into technical solutions."
+}

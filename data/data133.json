@@ -1,0 +1,52 @@
+{
+    "Tell me about Aren": "[arendesai.com] About Aren Desai - A brief overview of his education, skills, and experience",
+    "What is Aren's educational background?": "[arendesai.com/portfolio] Bachelor of Science in Computer Science & Data Science at UW-Madison (Spring 2025)",
+    "Can you explain Aren's technical expertise?": [
+        "[arendesai.com/resume_nodetails.pdf] Technical skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB",
+        "**Data Science** and **Computer Graphics** are key areas of focus"
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer for MISO market simulation",
+        "[arendesai.com/LMPF-README.md] LMP Forecasting using LEAR & DNN models"
+    ],
+    "How does Aren's background in robotics look?": "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware development at UW-Madison",
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] Boat - Blender/Unity 3D model project",
+        "[arendesai.com/cybercity] CyberCity - 3D cyberpunk city environment"
+    ],
+    "Can you share details about Aren's work experience?": [
+        "[arendesai.com/portfolio] Madison Gas & Electric (Energy Supply Intern)",
+        "[arendesai.com/portfolio] Compeer Financial (Data Analytics)"
+    ],
+    "What leadership roles has Aren held?": [
+        "[google-developer-student-club.org] Google Developer Student Club (Finance Lead)",
+        "[wisconsinrobotics.org] Wisconsin Robotics (Arm Developer)"
+    ],
+    "How can I access Aren's resume?": "[arendesai.com/resume_nodetails.pdf] Download the resume PDF",
+    "What coursework has Aren completed at UW-Madison?": [
+        "[arendesai.com/coursework] Data Science and Computer Science courses",
+        "**Machine Learning** and **Computer Graphics** are notable areas of study"
+    ],
+    "Does Aren have experience with machine learning?": "[ithub.com/ArenKDesai/MSO-README.md] MarketSimOptimizer uses ML for market simulation",
+    "What is the LMP Forecasting project about?": [
+        "[arendesai.com/LMPF-README.md] Predictive modeling for electricity prices using DNNs and LEAR frameworks"
+    ],
+    "How can I see Aren's academic credentials?": "[arendesai.com/cv_nodetails.pdf] Download the CV PDF",
+    "What tools does Aren use in data science?": [
+        "Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras"
+    ],
+    "Can you tell me about Aren's involvement with robotics?": "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware development for UW-Madison rover",
+    "What is the Wisconsin Rover project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Software development for a robotic rover"
+    ],
+    "How does Aren's work in graphics stand out?": [
+        "**CyberCity** - A 3D cyberpunk environment, **Book of Joe** - Web-based portfolio game"
+    ],
+    "What programming languages is Aren proficient in?": [
+        "Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "Can you explain Aren's approach to data science projects?": "[ithub.com/ArenKDesai/LMPF-README.md] Focus on predictive modeling and optimization",
+    "What is the MarketSimOptimizer used for?": [
+        "[arendesai.com/MSO-README.md] Simulating energy markets and optimizing grid operations"
+    ]
+}

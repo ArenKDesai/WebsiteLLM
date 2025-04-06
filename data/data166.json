@@ -1,0 +1,63 @@
+{
+    "Tell me about Aren Desai": [
+        "[arendesai.com/portfolio] Arendesai.com provides an overview of his professional background, education, and projects.",
+        "Aren is a Computer Science & Data Science BS student at UW-Madison with expertise in programming, data science, and robotics."
+    ],
+    "What are Aren's technical skills?": [
+        "[arendesai.com/portfolio] His technical skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras."
+    ],
+    "What projects has Aren worked on?": [
+        "[arendesai.com/datascience] Projects include MarketSimOptimizer (market simulation), LMP Forecasting (energy price models), and a GCP-hosted website with an LLM.",
+        "[github.com/ArenKDesai/Boat] 3D boat model in Blender/Unity.",
+        "[arendesai.com/cybercity] A cyberpunk city environment."
+    ],
+    "What is Aren's educational background?": [
+        "[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science at UW-Madison, expected Spring 2025."
+    ],
+    "Can you tell me about Aren's experience with machine learning?": [
+        "[github.com/ArenKDesai/WebsiteLLM] He has worked on synthetic data generation and fine-tuning LLMs for specific tasks.",
+        "[arendesai.com/datascience] His work includes implementing PyTorch and TensorFlow models."
+    ],
+    "What programming languages does Aren know?": [
+        "[github.com/ArenKDesai] Languages include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB."
+    ],
+    "What is the Wisconsin Rover Software project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] This ROS2-based software controls autonomous rover navigation and sensors."
+    ],
+    "How can I see Aren's resume?": [
+        "[arendesai.com/portfolio/resume.pdf] Download his resume with detailed work experience and projects.",
+        "[arendesai.com/portfolio/cv.pdf] View his CV for a more technical skills-focused overview."
+    ],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] A 3D boat model in Blender and Unity.",
+        "[arendesai.com/bookofjoe] Web-based portfolio game using Three.js."
+    ],
+    "What is the MarketSimOptimizer?": [
+        "[arendesai.com/datascience/MSO-README.md] This project simulates energy markets to optimize pricing strategies."
+    ],
+    "How did Aren use data science in his internship?": [
+        "[github.com/ArenKDesai/WebsiteLLM] He developed machine learning models for energy market forecasting at Madison Gas & Electric.",
+        "[arendesai.com/datascience/LMPF-README.md] His work included LEAR and DNN price prediction models."
+    ],
+    "What leadership roles has Aren held?": [
+        "[github.com/ArenKDesai] He leads the Google Developer Student Club (Finance Lead) and contributes to UW-Madison robotics teams."
+    ],
+    "How does Aren use Python in his projects?": [
+        "[github.com/ArenKDesai/WebsiteLLM] Python powers his synthetic data generation and machine learning pipelines.",
+        "[github.com/ArenKDesai/Boat] Python is used for 3D rendering and animation scripting."
+    ],
+    "What courses has Aren taken in data science?": [
+        "[arendesai.com/portfolio] Courses include Machine Learning, Data Structures & Algorithms, and Statistical Analysis."
+    ],
+    "How does Aren contribute to open-source projects?": [
+        "[github.com/ArenKDesai] He contributes to robotics and machine learning projects on GitHub.",
+        "[github.com/WisconsinRobotics/WRoverSoftware] Collaborates on the Wisconsin Rover Software project."
+    ],
+    "What are Aren's career goals?": [
+        "Aren aims to work in AI research or robotics, focusing on energy markets and autonomous systems."
+    ],
+    "How can I contact Aren for collaboration?": [
+        "[github.com/ArenKDesai] Reach out via GitHub for potential collaborations.",
+        "[arendesai.com/portfolio] Contact information is available on his portfolio page."
+    ]
+}

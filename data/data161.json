@@ -1,0 +1,22 @@
+{
+    "Tell me about Aren": "[arendesai.com/portfolio] An overview of his academic and professional background, including education, skills, and projects.",
+    "What is Aren currently studying?": ["[uw.edu] Computer Science & Data Science BS at UW-Madison (Spring 2025)", "**data science** for more details on coursework and research."],
+    "What programming languages does Aren know?": ["[github.com/ArenKDesai] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB", "Check his **portfolio** for recent projects using these languages."],
+    "Can you tell me about Aren's education?": "[arendesai.com/resume_nodetails.pdf] BS in Computer Science & Data Science at UW-Madison with a focus on machine learning and robotics.",
+    "What data science projects has Aren worked on?": ["[arendesai.com/MSO-README.md] MarketSimOptimizer for energy market simulation", "[arendesai.com/LMPF-README.md] LMP Forecasting using LEAR & DNN models."],
+    "Does Aren have experience with machine learning?": ["[github.com/ArenKDesai/ArenWebsite] GCP-hosted LLM project demonstrates ML expertise.", "**datascience** for more ML-related projects."],
+    "What graphics projects has Aren created?": ["[github.com/ArenKDesai/Boat] Blender/Unity 3D boat model", "[arendesai.com/cybercity] Cyberpunk city environment design."],
+    "What is the WRoverSoftware project about?": "[github.com/WisconsinRobotics/WRoverSoftware] UW-Madison rover software development using ROS2.", "**robotics** for more details on his work in this field."],
+    "How can I see Aren's resume?": "[arendesai.com/resume_nodetails.pdf] Download his concise resume with education, skills, and experience.",
+    "What is Aren's technical expertise in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] ROS2 implementation", "**robotics** for more projects and details."],
+    "Tell me about Aren's work experience": ["[linkedin.com/in/ArenKDesai] Madison Gas & Electric internship in energy supply", "Compeer Financial data analytics role."],
+    "What courses has Aren taken at UW-Madison?": "[arendesai.com/coursework] Data Science, Computer Graphics, Robotics, and more.", "**coursework** for a detailed list of courses."],
+    "How does Aren approach problem-solving?": ["[github.com/ArenKDesai/Boat] Graphics project showcasing iterative design process", "**datascience** for ML model development insights."],
+    "What tools does Aren use for data science?": ["Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras", "**datascience** for detailed tool usage and projects."],
+    "Can you tell me about Aren's leadership roles?": ["[github.com/ArenKDesai] Co-founded a tech startup in college", "**portfolio** for more details on his entrepreneurial journey."],
+    "What is Aren's interest in computer graphics?": "[github.com/ArenKDesai/Boat] 3D modeling and rendering techniques", "**graphics** for more projects and insights."],
+    "How does Aren contribute to open-source?": ["[github.com/ArenKDesai] Active contributor to several public repositories", "**portfolio** for a list of his contributions."],
+    "What is Aren's favorite programming language?": "[github.com/ArenKDesai] Python, due to its versatility and extensive libraries.", "**datascience** for more details on his Python projects."],
+    "Can you tell me about Aren's problem-solving techniques?": ["[github.com/ArenKDesai/Boat] Emphasizes iterative testing and refinement", "**robotics** for examples of complex problem-solving in robotics."],
+    "What is Aren's vision for the future?": "[linkedin.com/in/ArenKDesai] Goals include advancing AI research and sustainable tech innovations.", "**portfolio** for more details on his career aspirations."
+}

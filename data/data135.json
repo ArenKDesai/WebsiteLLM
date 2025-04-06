@@ -1,0 +1,22 @@
+{
+    "What educational background does Aren Desai have?": ["[arendesai.com/portfolio] He holds a BS in Computer Science & Data Science from UW-Madison (Spring 2025)."],
+    "Can you explain his involvement with robotics projects?": ["[github.com/WisconsinRobotics/WRoverSoftware] He contributed to the Wisconsin Rover project, focusing on ROS2 software development."],
+    "What data science coursework has he completed?": ["[arendesai.com/coursework] Courses include Machine Learning and Applied Data Science at UW-Madison."],
+    "Tell me about his graphics projects.": ["[github.com/ArenKDesai/Boat] Created a 3D boat model in Blender and Unity, and developed the 'Book of Joe' web game."],
+    "Does he have experience with machine learning?": ["Yes, he worked on MISO market simulation using Python and TensorFlow at Madison Gas & Electric."],
+    "What programming languages does Aren know?": ["[arendesai.com/skills] Proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB."],
+    "Can you tell me about his work experience?": ["[linkedin.com/in/ArenDesai] Interned at Madison Gas & Electric and Compeer Financial, focusing on data analytics and energy supply."],
+    "What is the MarketSimOptimizer project about?": ["[arendesai.com/MSO-README.md] A MISO market simulation tool using Python for power system optimization."],
+    "How can I see Aren's resume?": ["Download it from [arendesai.com/resume_nodetails.pdf]."],
+    "What tools does he use in data science?": ["Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras are among his frequently used tools."],
+    "Can you explain his leadership roles?": ["[linkedin.com/in/ArenDesai] Served as Finance Lead for Google Developer Student Club and worked on ROS/ROS2 in Wisconsin Robotics."],
+    "What projects showcase his programming skills?": ["[github.com/ArenKDesai] Includes MarketSimOptimizer, LMP Forecasting, and GCP Website implementations."],
+    "How does he approach software development?": ["Utilizes best practices in robotics and web development, focusing on modularity and scalability."],
+    "What are his future goals in tech?": ["Expanding expertise in AI/ML and exploring opportunities in computer graphics and robotics."],
+    "What is the GCP Website project about?": ["[github.com/ArenKDesai/ArenWebsite] A website hosted on Google Cloud Platform integrating a custom LLM."],
+    "How does his skills align with industry needs?": ["His proficiency in Python, data science, and robotics makes him versatile for roles in tech and energy sectors."],
+    "What is his favorite programming language?": ["Python, due to its versatility and extensive libraries in data science and machine learning."],
+    "Can you explain the impact of his data science projects?": ["The LMP Forecasting project aids in optimizing power grid operations using advanced algorithms."],
+    "What challenges has he faced in robotics?": ["Developing robust software for autonomous systems requires precise control and fault tolerance."],
+    "How was CyberCity created?": ["[arendesai.com/portfolio] A detailed 3D city model built using Blender, showcasing architectural design skills."]
+}

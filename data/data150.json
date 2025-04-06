@@ -1,0 +1,32 @@
+{
+    "Tell me about Aren Desai": "[https://arendesai.com/portfolio](About Aren Desai - Learn more about his professional background and achievements)",
+    "What is Aren's educational background?": ["[https://arendesai.com/portfolio#education](Aren has a BS in Computer Science and Data Science from UW-Madison, expected Spring 2025)"],
+    "Can you list some of Aren's technical skills?": ["[https://arendesai.com/portfolio#skills](Aren is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more.)"],
+    "What data science projects has Aren worked on?": [
+        "[https://arendesai.com/datascience/MSO-README.md](MarketSimOptimizer - MISO market simulation)",
+        "[https://arendesai.com/datascience/LMPF-README.md](LMP Forecasting - LEAR & DNN price models)"
+    ],
+    "What graphics projects has Aren created?": [
+        "[https://github.com/ArenKDesai/Boat](Boat - Blender/Unity 3D boat model)",
+        "[https://arendesai.com/bookofjoe](Book of Joe - Web-based portfolio game)"
+    ],
+    "Does Aren have experience with robotics?": ["[https://github.com/WisconsinRobotics/WRoverSoftware](Yes, he contributed to the WRoverSoftware project at UW-Madison.)"],
+    "What is MarketSimOptimizer?": ["[https://arendesai.com/datascience/MSO-README.md](AARENDES Market Simulation Optimizer (MISO) for energy markets.)"],
+    "Can I see Aren's resume?": ["[https://arendesai.com/resume_nodetails.pdf](Download his resume from the website.)"],
+    "What programming languages does Aren know?": ["[https://arendesai.com/portfolio#skills](Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB)"],
+    "What is Aren's experience with machine learning?": [
+        "[https://arendesai.com/datascience/LMPF-README.md](Worked on LEAR & DNN price models)",
+        "**TensorFlow** and **PyTorch** are part of his skillset."
+    ],
+    "What courses has Aren taken in data science?": ["[https://arendesai.com/coursework](Check out his coursework at UW-Madison.)"],
+    "Has Aren worked on any projects involving neural networks?": ["[https://arendesai.com/datascience/LMPF-README.md](Yes, he worked on DNN price models.)"],
+    "What leadership roles does Aren hold?": [
+        "[https://arendesai.com/portfolio#leadership](Member of the Google Developer Student Clubs)",
+        "[https://github.com/WisconsinRobotics](Contributor to Wisconsin Robotics)"
+    ],
+    "Can you explain the LMP Forecasting project?": ["[https://arendesai.com/datascience/LMPF-README.md](Predictive modeling for energy markets using LEAR and DNN.)"],
+    "What tools does Aren use for data analysis?": ["[https://arendesai.com/portfolio#tools](Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)"],
+    "How can I follow Aren's work on GitHub?": ["[https://github.com/ArenKDesai](Follow his GitHub profile for updates.)"],
+    "What is the Book of Joe project about?": ["[https://arendesai.com/bookofjoe](A web-based portfolio game he created using HTML, CSS, and JavaScript.)"],
+    "Can Aren explain how MarketSimOptimizer works?": ["[https://arendesai.com/datascience/MSO-README.md](Comprehensive documentation available here.)"]
+}

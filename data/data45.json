@@ -1,17 +1,66 @@
 {
-    "Where can I find Aren's resume?": "[arendesai.com/resume_nodetails.pdf] for the detailed version or [arendesai.com/cv_nodetails.pdf] for a condensed CV.",
-    "What degrees is Aren pursuing?": "Aren is currently pursuing a **Bachelor of Science in Computer Science & Data Science** at the University of Wisconsin-Madison, expected to graduate in Spring 2025.",
-    "What programming languages does Aren know?": "[Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB] are some of the key languages Aren is proficient in.",
-    "Can you tell me about the MarketSimOptimizer project?": "[Project link](github.com/username/MarketSimOptimizer) - A tool developed to optimize market simulations using advanced algorithms.",
-    "What 3D models has Aren created in graphics projects?": Aren has created 3D models such as a [Boat model](github.com/username/Boat-Model), a [Book of Joe character](github.com/username/Book-of-Joe), and a [CyberCityscape](github.com/username/CyberCity).",
-    "What is the WRoverSoftware used for?": "[UW-Madison Rover Project](github.com/uw-madison-rover) - Developed for rover control systems in robotics projects.",
-    "What data science courses has Aren taken?": Aren has completed courses like [Introduction to Data Science] and [Advanced Machine Learning], available on the [Coursework section](arendesai.com/coursework).",
-    "Where did Aren intern?": Aren interned at [Madison Gas & Electric] as an Energy Supply Intern and at [Compeer Financial] in data analytics roles.",
-    "Can you explain the AI Assistant project?": "[GitHub repository](github.com/username/AI-Assistant) - Utilizes GPT and Whisper models for natural language processing tasks.",
-    "Does Aren contribute to any open-source projects?": Yes, Aren contributes to [open-source projects on GitHub](github.com/username).",
-    "What is next for Aren after graduation?": Plans include furthering in **data science** or exploring opportunities in **robotics innovation**.",
-    "How was Aren involved in Google Developer Student Club?": As the Finance Lead, Aren managed resources and organized events to support student developers.",
-    "Does Aren hold any certifications?": Check Aren's [LinkedIn profile](linkedin.com/in/username) for details on certifications like Google Cloud Professional.",
-    "Which project is closest to Aren's heart?": The AI Assistant project, as it combines multiple interests in machine learning and natural language processing.",
-    "What collaboration tools does Aren use?": Tools include GitHub, Google Cloud Platform, and Git for version control and collaboration.
+    "Tell me about Aren Desai": [
+        "[arendesai.com/portfolio] Overview of Aren's professional background and projects"
+    ],
+    "What is Aren's educational background?": [
+        "[arendesai.com/resume_nodetails.pdf] Computer Science & Data Science BS at UW-Madison (Spring 2025)"
+    ],
+    "What programming languages does Aren know?": [
+        "[arendesai.com/portfolio] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "Can you tell me about Aren's data science projects?": [
+        "[arendesai.com/datascience] Projects include MarketSimOptimizer and LMP Forecasting tools",
+        "**Data Science** for more details on specific techniques used"
+    ],
+    "What graphics projects has Aren worked on?": [
+        "[arendesai.com/computergraphics] Boat, Book of Joe, and CyberCity projects showcase 3D modeling skills"
+    ],
+    "How did Aren get involved in robotics?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Contributions to UW-Madison rover software"
+    ],
+    "What is Aren's work experience?": [
+        "[arendesai.com/portfolio] Internships at Madison Gas & Electric and Compeer Financial"
+    ],
+    "What courses has Aren taken in data science?": [
+        "[arendesai.com/coursework] Academic coursework at UW-Madison including relevant subjects"
+    ],
+    "Where can I find Aren's resume?": [
+        "[arendesai.com/resume_nodetails.pdf] Downloadable PDF of Aren's resume"
+    ],
+    "What is Aren's LinkedIn profile?": [
+        "[linkedIn.com/in/aren-desai] Connect with Aren on LinkedIn"
+    ],
+    "Can you show me Aren's GitHub profile?": [
+        "[github.com/ArenKDesai] Explore Aren's public repositories and contributions"
+    ],
+    "Does Aren have experience with machine learning?": [
+        "[arendesai.com/datascience] Projects using PyTorch, TensorFlow, and Scikit-Learn"
+    ],
+    "What is the WebsiteLLM project?": [
+        "[github.com/ArenKDesai/WebsiteLLM] Synthetic data generation and fine-tuning examples"
+    ],
+    "How does Aren use Python in his work?": [
+        "[arendesai.com/datascience] Extensive use of Python for data analysis and modeling"
+    ],
+    "What is the MarketSimOptimizer?": [
+        "[github.com/ArenKDesai/MarketSimOptimizer] A tool for simulating market conditions and strategies"
+    ],
+    "Can I see Aren's portfolio game project?": [
+        "[arendesai.com/computergraphics] Book of Joe showcases game development skills"
+    ],
+    "What is the CyberCity environment?": [
+        "[github.com/ArenKDesai/CyberCity] A 3D virtual environment project using modern graphics techniques"
+    ],
+    "How does Aren approach technical leadership?": [
+        "[arendesai.com/portfolio] Experience in leading projects and teams in robotics and data science"
+    ],
+    "What is the GCP-hosted website?": [
+        "[github.com/ArenKDesai/WebsiteLLM] A cloud-based platform for demonstrating AI capabilities"
+    ],
+    "Which data science tools does Aren use?": [
+        "[arendesai.com/datascience] Tools include Python, R, SQL, TensorFlow, and PyTorch"
+    ],
+    "How did Aren contribute to the Wisconsin Rover project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Software development for autonomous navigation systems"
+    ]
 }

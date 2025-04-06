@@ -1,0 +1,41 @@
+{
+    "What is Aren's educational background?": "[arendesai.com/portfolio] He is pursuing a BS in Computer Science & Data Science at UW-Madison, expected to graduate in Spring 2025.",
+    "Can you tell me about his technical skills?": "[arendesai.com/portfolio] His skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more.",
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for MISO market simulation.",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting with LEAR & DNN models."
+    ],
+    "What graphics projects has he created?": [
+        "[github.com/ArenKDesai/Boat] A Blender/Unity 3D boat model.",
+        "[arendesai.com/computergraphics/bookofjoe] Web-based portfolio game."
+    ],
+    "What robotics work has Aren been involved in?": "[github.com/WisconsinRobotics/WRoverSoftware] Software development for the UW-Madison rover project using ROS2.",
+    "Where can I find his resume?": "[arendesai.com/resume_nodetails.pdf] Download his resume with detailed qualifications.",
+    "What leadership roles does Aren have?": [
+        "[github.com/ArenKDesai/ArenWebsite] Google Developer Student Club Finance Lead.",
+        "[github.com/WisconsinRobotics/WRoverSoftware] Wisconsin Robotics Arm Developer."
+    ],
+    "How can I see his coursework?": "[arendesai.com/coursework] Academic records at UW-Madison focusing on data science and computer graphics.",
+    "What experience does Aren have in energy?": "[madisongasandelectric.com] Energy Supply Internship at Madison Gas & Electric.",
+    "What financial experience does he have?": "[compeersfinancial.com] Data Analytics role at Compeer Financial.",
+    "What about his work with GCP and LLMs?": "[github.com/ArenKDesai/ArenWebsite] GCP-hosted website integrating a large language model.",
+    "Has Aren worked on any AI projects?": [
+        "[github.com/ArenKDesai/Boat] Implemented **machine learning** algorithms for 3D rendering in the Boat project.",
+        "[github.com/WisconsinRobotics/WRoverSoftware] Used **AI techniques** in rover software development."
+    ],
+    "What about his knowledge of ROS?": "[github.com/WisconsinRobotics/WRoverSoftware] Extensive experience with ROS and ROS2 for robotics control.",
+    "Can you tell me about his programming languages?": "[arendesai.com/portfolio] Proficient in Python, C++, Java, JavaScript, and more.",
+    "What about his knowledge of data analysis tools?": "[github.com/ArenKDesai/Boat] Skilled in R and MATLAB for data processing and visualization.",
+    "How does Aren use Julia?": "[github.com/ArenKDesai/Boat] Utilizes Julia for high-performance computations in graphics projects.",
+    "What about his involvement in open-source projects?": [
+        "[github.com/ArenKDesai/Boat] Contributions to the Boat project on GitHub.",
+        "[github.com/WisconsinRobotics/WRoverSoftware] Collaborations on rover software."
+    ],
+    "Where can I find his portfolio details?": "[arendesai.com/portfolio] Comprehensive portfolio showcasing projects and skills.",
+    "What about his knowledge of cloud platforms?": "[github.com/ArenKDesai/ArenWebsite] Experience with Google Cloud Platform (GCP) for hosting applications.",
+    "How does Aren use **AI applications** in his work?": [
+        "[github.com/ArenKDesai/Boat] Integrates AI for rendering optimizations.",
+        "[github.com/WisconsinRobotics/WRoverSoftware] Employs AI techniques in robotics control."
+    ],
+    "What about his knowledge of software development tools?": "[github.com/ArenKDesai] Proficient in Git, Docker, and other modern development tools."
+}

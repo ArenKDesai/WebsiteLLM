@@ -1,0 +1,38 @@
+{
+    "Tell me about Aren's education": "[arendesai.com/portfolio#education] Bachelor of Science in Computer Science & Data Science at UW-Madison (Spring 2025)",
+    "What programming languages does Aren know?": [
+        "[arendesai.com/about#skills] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"
+    ],
+    "Can you tell me about Aren's data science projects?": [
+        "[arendesai.com/datascience#MarketSimOptimizer] MarketSimOptimizer - MISO market simulation",
+        "[arendesai.com/datascience#LMPForecasting] LMP Forecasting - LEAR & DNN price models"
+    ],
+    "What graphics projects has Aren worked on?": [
+        "[github.com/ArenKDesai/Boat] Boat - Blender/Unity 3D boat model",
+        "[arendesai.com/computergraphics#CyberCity] CyberCity - 3D cyberpunk city environment"
+    ],
+    "How does Aren use Python in his work?": "[arendesai.com/datascience#GCPWebsite] GCP Website - Website with GCP-hosted LLM",
+    "What is MarketSimOptimizer used for?": "[arendesai.com/datascience#MarketSimOptimizer] MISO market simulation and optimization",
+    "Where can I find Aren's resume?": [
+        "[arendesai.com/portfolio#resume] [resume.pdf]",
+        "[arendesai.com/portfolio#cvid] [cv.pdf]"
+    ],
+    "What leadership roles does Aren have?": "[arendesai.com/about#leadership] Google Developer Student Club (Finance Lead), Wisconsin Robotics (Arm Developer)",
+    "Tell me about Aren's work experience": [
+        "[arendesai.com/portfolio#experience] Madison Gas & Electric (Energy Supply Intern), Compeer Financial (Data Analytics)"
+    ],
+    "What machine learning frameworks does Aren use?": "[arendesai.com/about#skills] PyTorch, TensorFlow, Scikit-Learn, Keras",
+    "How did Aren get involved with robotics?": "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware - UW-Madison rover software development",
+    "What courses has Aren taken in data science?": "[arendesai.com/coursework] Data Science coursework at UW-Madison",
+    "What is the LMP Forecasting project about?": "[arendesai.com/datascience#LMPForecasting] LEAR & DNN price models for energy forecasting",
+    "Where can I see Aren's portfolio game?": "[arendesai.com/computergraphics#BookofJoe] Book of Joe - Web-based portfolio game",
+    "What graphics libraries does Aren know?": "[arendesai.com/about#skills] OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2",
+    "How can I contact Aren?": "[arendesai.com/portfolio#contact] LinkedIn and GitHub links available",
+    "What is the Wisconsin Rover project?": "[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware - UW-Madison rover software",
+    "What inspired Aren to work on CyberCity?": "[arendesai.com/computergraphics#CyberCity] Passion for 3D modeling and cyberpunk aesthetics",
+    "Where can I find Aren's GitHub profile?": "[github.com/ArenKDesai] GitHub -AREN-K-DESAI",
+    "What is the difference between a CV and resume?": [
+        "[arendesai.com/portfolio#cvvsresume] CV focuses on academic achievements, while resume highlights work experience"
+    ],
+    "How does Aren approach problem-solving?": "[arendesai.com/about#approach] Emphasizes analytical thinking and collaborative solutions"
+}

@@ -1,0 +1,28 @@
+{
+    "What is Aren Desai's educational background?": "[https://arendesai.com/portfolio] He holds a BS in Computer Science & Data Science from the University of Wisconsin-Madison, expected to graduate in Spring 2025. **Computer Science** and **Data Science** are his primary fields of study.",
+    "Can you provide information about Aren's technical skills?": "[https://arendesai.com/portfolio] Aren is proficient in programming languages such as Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and has experience with data science libraries like Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras. His skills also include graphics and robotics tools like OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2.",
+    "What are some of Aren's notable projects?": [
+        "[https://github.com/ArenKDesai/Boat] Boat - A 3D boat model created using Blender and Unity.",
+        "[https://arendesai.com/cybercity] CyberCity - A cyberpunk-themed 3D city environment project.",
+        "[https://github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware - Software developed for the Wisconsin Rover project at UW-Madison."
+    ],
+    "What experience does Aren have in data science?": [
+        "[https://arendesai.com/datasetsim-README.md] MarketSimOptimizer - A market simulation tool using MISO optimization.",
+        "[https://arendesai.com/lmpf-README.md] LMP Forecasting - Projects involving LEAR and DNN price models."
+    ],
+    "What is Aren's experience with machine learning?": "[https://github.com/ArenKDesai/WebsiteLLM] WebsiteLLM - Involves synthetic data generation and fine-tuning of language models. **Machine Learning** and **Synthetic Data** are key topics here.",
+    "Where can I find Aren's resume?": "[https://arendesai.com/resume_nodetails.pdf] Download his resume from this link for detailed professional information.",
+    "What is Aren's leadership experience?": "[https://www.linkedin.com/in/aren-desai-092b581a6/] As part of Google Developer Student Clubs and Wisconsin Robotics, Aren has held leadership roles in organizing events and managing projects. **Leadership** and **Collaboration** are his key strengths.",
+    "What are some highlights from Aren's academic career?": "[https://arendesai.com/portfolio] Highlights include coursework in AI, data structures, algorithms, and involvement in robotics and graphics research projects. **Academic Achievements** and **Research** are significant aspects of his profile.",
+    "How does Aren apply machine learning in real-world scenarios?": "[https://github.com/ArenKDesai/WebsiteLLM] WebsiteLLM demonstrates his application of machine learning techniques in creating synthetic data and fine-tuning models for practical use. **Practical Applications** and **Data Science** are key areas here.",
+    "What creative projects has Aren undertaken?": [
+        "[https://arendesai.com/cybercity] CyberCity - A creative 3D project showcasing his skills in graphics design.",
+        "[https://github.com/ArenKDesai/Boat] Boat - A detailed 3D model created using Blender and Unity."
+    ],
+    "Where can I find examples of Aren's coding projects?": [
+        "[https://github.com/ArenKDesai/WebsiteLLM] WebsiteLLM - Involves machine learning and synthetic data generation.",
+        "[https://github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware - Robotics software development."
+    ],
+    "What tools does Aren use for graphics development?": "[https://arendesai.com/portfolio] Tools include Blender, Unity, OpenGL, WebGL. **Graphics Development** and **3D Modeling** are his expertise areas.",
+    "How has collaboration played a role in Aren's projects?": "[https://www.linkedin.com/in/aren-desai-092b581a6/] Collaboration with teams in Google Developer Student Clubs and Wisconsin Robotics has been crucial. **Collaboration** and **Teamwork** are highlighted in his professional journey."
+}

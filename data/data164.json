@@ -1,0 +1,54 @@
+{
+    "What is your educational background?": ["[arendesai.com/portfolio] He holds a BS in Computer Science & Data Science from UW-Madison, expected Spring 2025."],
+    "Can you tell me about your technical skills?": ["[arendesai.com/technical-skills.pdf] Skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and more."],
+    "What data science projects have you worked on?": [
+        "[arendesai.com/ds-projects/market-simulation.pdf] MarketSimOptimizer for MISO market simulation.",
+        "[arendesai.com/ds-projects/lmp-forecasting.pdf] LMP Forecasting with LEAR and DNN models."
+    ],
+    "Do you have experience with machine learning frameworks?": [
+        "[arendesai.com/ML-frameworks.pdf] Familiar with PyTorch, TensorFlow, Scikit-Learn, Keras."
+    ],
+    "What graphics projects have you created?": [
+        "[github.com/ArenKDesai/Boat] Boat model in Blender and Unity.",
+        "[arendesai.com/cybercity] 3D cyberpunk city environment."
+    ],
+    "What is the WRoverSoftware project about?": ["[github.com/WisconsinRobotics/WRoverSoftware] ROS2-based software for UW-Madison rover."],
+    "How can I access your resume or portfolio?": [
+        "[arendesai.com/portfolio/resume.pdf] Download resume PDF.",
+        "[arendesai.com/portfolio/cv.pdf] View detailed CV."
+    ],
+    "Which programming languages do you know?": ["[arendesai.com/programming-languages.pdf] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB."],
+    "Can you tell me about your work experience?": [
+        "[arendesai.com/work-experience/mge-energy-supply-intern.pdf] Energy Supply Intern at Madison Gas & Electric.",
+        "[arendesai.com/work-experience/compeer-financial-data-analyst.pdf] Data Analytics at Compeer Financial."
+    ],
+    "What courses have you taken in data science?": [
+        "[arendesai.com/coursework/credit-hours.pdf] Data Science, Computer Graphics, Robotics coursework at UW-Madison."
+    ],
+    "Have you worked with any notable companies?": [
+        "[mge.com] Madison Gas & Electric.",
+        "[compeer.com] Compeer Financial."
+    ],
+    "What leadership roles do you hold?": [
+        "**Google Developer Student Club (Finance Lead)**, **Wisconsin Robotics (Arm Developer)."
+    ],
+    "How can I learn more about your website LLM project?": ["[github.com/ArenKDesai/WebsiteLLM] Synthetic data and fine-tuning for LLMs."],
+    "Does the MarketSimOptimizer require specific tools?": [
+        "[ithub.com/ArenKDesai/MarketSimOptimizer] Requires Python, NumPy, Pandas."
+    ],
+    "Has your work been recognized in any way?": ["[arendesai.com/awards/honors.pdf] Honors in Computer Science and Data Science."],
+    "Can you explain your experience with GCP?": [
+        "[arendesai.com/cloud-experience/gcp.pdf] Experience with Google Cloud Platform services."
+    ],
+    "What's the purpose of the Cyberpunk City project?": ["[arendesai.com/cybercity] 3D environment design for creative visualization."],
+    "Do you have any GitHub repositories I can explore?": [
+        "[github.com/ArenKDesai] Explore projects like Boat, Cyberpunk City, and MarketSimOptimizer."
+    ],
+    "What tools do you use for data analysis?": ["[arendesai.com/data-analysis-tools.pdf] Pandas, NumPy, Matplotlib, Seaborn."],
+    "Can I view your 3D cyberpunk city project online?": [
+        "[arendesai.com/cybercity/rendering.html] View rendered images and details."
+    ],
+    "Does the Boat project require any special software?": [
+        "[github.com/ArenKDesai/Boat] Requires Blender, Unity for visualization."
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Tell me about Aren Desai": ["[arendesai.com/portfolio] A detailed overview of Aren's professional background, education, and projects."],
+    "What is Aren's educational background?": ["[arendesai.com/portfolio/resume.pdf] BS in Computer Science & Data Science at UW-Madison (Spring 2025)."],
+    "What programming languages does Aren know?": [
+        "[arendesai.com/portfolio] Proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB."
+    ],
+    "Can you explain Aren's expertise in data science?": [
+        "**Data Science Tools**: Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras. [arendesai.com/datascience] Explore his projects like MarketSimOptimizer and LMP Forecasting."
+    ],
+    "What data science projects has Aren worked on?": [
+        "[arendesai.com/MSO-README.md] MarketSimOptimizer for market simulation. [arendesai.com/LMPF-README.md] LMP Forecasting using LEAR & DNN models."
+    ],
+    "What graphics projects has Aren created?": [
+        "[github.com/ArenKDesai/Boat] A 3D boat model in Blender/Unity. [arendesai.com/bookofjoe] Web-based portfolio game. [arendesai.com/cybercity] Cyberpunk city environment."
+    ],
+    "What robotics work has Aren been involved in?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Developed software for the UW-Madison rover using ROS2."
+    ],
+    "Where can I find Aren's academic projects?": ["[arendesai.com/coursework] Detailed coursework and academic projects."],
+    "What work experience does Aren have?": [
+        "[linkedin.com/in/aren-desai] Internships at Madison Gas & Electric and Compeer Financial. Roles in Data Analytics."
+    ],
+    "Tell me about Aren's leadership roles?": [
+        "**Leadership**: Google Developer Student Club (Finance Lead) and Wisconsin Robotics (Arm Developer)."
+    ],
+    "How can I contact Aren?": ["[arendesai.com/contact] Connect via email or LinkedIn."],
+    "What tools does Aren use for data analysis?": ["Pandas, NumPy, Matplotlib. [github.com/ArenKDesai/data-tools] Custom scripts and Jupyter notebooks."],
+    "Can you provide details on Aren's graphics skills?": [
+        "**Graphics & Tools**: OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2. [github.com/ArenKDesai/graphics-projects]"
+    ],
+    "What is the MarketSimOptimizer project about?": ["[arendesai.com/MSO-README.md] Simulates market conditions for testing algorithms."],
+    "How does Aren approach problem-solving?": [
+        "**Problem-Solving**: Emphasizes data-driven solutions and continuous learning. [blog.aren-desai.com] Read more on his methodologies."
+    ],
+    "What is the LMP Forecasting project?": ["[arendesai.com/LMPF-README.md] Predicts electricity market prices using advanced models."],
+    "Where can I find Aren's portfolio?": ["[arendesai.com/portfolio] Comprehensive portfolio showcasing skills and projects."],
+    "Can you share details about the Wisconsin rover project?": [
+        "[github.com/WisconsinRobotics/WRoverSoftware] Contributions include navigation and sensor integration."
+    ],
+    "What courses has Aren completed in data science?": ["[arendesai.com/coursework/data-science] Includes machine learning and statistics."],
+    "How does Aren contribute to open-source projects?": [
+        "**Open Source**: Active on GitHub. Contributes to robotics and data science repositories. [github.com/ArenKDesai]"
+    ],
+    "What is the purpose of the BookofJoe game?": ["[arendesai.com/bookofjoe] A web-based RPG demonstrating game development skills."]
+}

@@ -1,0 +1,22 @@
+{
+    "What is your background in computer science?": ["[arendesai.com/portfolio] He has a BS in Computer Science & Data Science from UW-Madison, with a focus on software development and data analysis."],
+    "Can you tell me about your education?": ["[arendesai.com/portfolio] Aren Desai is pursuing a BS in Computer Science & Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."],
+    "What data science projects have you worked on?": ["[arendesai.com/MarketSimOptimizer-README.md] MarketSimOptimizer: A market simulation tool for energy optimization.", "[arendesai.com/LMPF-README.md] LMP Forecasting: Predicts energy prices using LEAR and DNN models."],
+    "Do you have experience with machine learning frameworks?": ["[arendesai.com/datascience] He uses TensorFlow, PyTorch, and Scikit-Learn for data science projects."],
+    "What programming languages are you proficient in?": ["[arendesai.com/About] Proficient in Python, SQL, R, Java, C/C++, JavaScript, Julia, and MATLAB."],
+    "Tell me about your work experience.": ["[arendesai.com/portfolio] Worked at Madison Gas & Electric as an Energy Supply Intern and Compeer Financial for data analytics roles."],
+    "What graphics projects have you created?": ["[github.com/ArenKDesai/Boat] Boat: A 3D Unity model of a boat using Blender.", "[arendesai.com/cybercity] CyberCity: A cyberpunk city environment in 3D."],
+    "How did you get involved in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] Developed software for the Wisconsin Rover project at UW-Madison."],
+    "What coursework have you completed?": ["[arendesai.com/coursework] Courses include Data Science methodologies, Machine Learning, and Computer Graphics."],
+    "Can I see your resume?": ["[arendesai.com/resume_nodetails.pdf] Download his resume from the portfolio section."],
+    "What is the MarketSimOptimizer project about?": ["[arendesai.com/MarketSimOptimizer-README.md] Simulates energy markets to optimize pricing strategies using MISO data."],
+    "Have you worked with GCP for hosting websites?": ["[github.com/ArenKDesai/ArenWebsite] Yes, he used Google Cloud Platform to host a website featuring an LLM."],
+    "What tools do you use for 3D modeling?": ["[github.com/ArenKDesai/Boat] Uses Blender and Unity for 3D modeling and game development."],
+    "How did you contribute to the Wisconsin Rover project?": ["[github.com/WisconsinRobotics/WRoverSoftware] Developed control systems using C++ and Qt."],
+    "What leadership roles have you held?": ["[github.com/ArenKDesai] Served as a leader in robotics and software development projects at UW-Madison."],
+    "Can you explain your experience with TensorFlow?": ["[arendesai.com/datascience] Used TensorFlow for machine learning models in energy forecasting and analysis."],
+    "How do you approach data analysis projects?": ["[arendesai.com/datascience] Emphasizes thorough data cleaning, model selection, and validation techniques."],
+    "What's the purpose of the Book of Joe project?": ["[github.com/ArenKDesai/Book-of-Joe] A 3D interactive comic book prototype using Unity and Blender."],
+    "Have you used Gazebo for robotics simulations?": ["[github.com/WisconsinRobotics/WRoverSoftware] Yes, Gazebo was used to simulate the rover's environment and testing scenarios."],
+    "Where can I find details about your academic achievements?": ["[arendesai.com/portfolio] Detailed information available in his portfolio under the coursework section."]
+}

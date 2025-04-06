@@ -1,0 +1,25 @@
+{
+    "What is Aren Desai's current role?": "[Link](/about) provides an overview of Aren's professional background, including his current academic and technical pursuits.",
+    "How did Aren get into computer graphics?": ["[Boat Project](https://github.com/ArenKDesai/Boat)", "[Book of Joe](/bookofjoe)", "[CyberCity](/cybercity)"],
+    "What data analysis tools does Aren know?": "[Link](/datascience) highlights his proficiency in Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras.",
+    "Can you tell me about Aren's academic background?": "[Education Section](/portfolio#education) details his BS in Computer Science & Data Science at UW-Madison (Spring 2025).",
+    "What programming languages does Aren use most frequently?": "[Technical Skills](/about) list includes Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB.",
+    "Tell me about Aren's work on the Wisconsin Rover.": "[WRoverSoftware](https://github.com/WisconsinRobotics/WRoverSoftware) describes his contributions to UW-Madison's rover project using ROS2.",
+    "What is the purpose of MarketSimOptimizer?": "[MarketSimOptimizer README](/MSO-README.md) explains its use for MISO market simulation in energy systems.",
+    "How does Aren approach data science projects?": "[Data Science Projects](/datascience) showcases his work on LEAR & DNN price models and LMP forecasting.",
+    "What tools does Aren use for 3D modeling?": "[Boat Project](https://github.com/ArenKDesai/Book-of-Joe) demonstrates his use of Blender and Unity for graphics projects.",
+    "Can you provide examples of Aren's leadership roles?": "[Leadership Experience](/about) highlights his work as Google Developer Student Club Finance Lead and Wisconsin Robotics Arm Developer.",
+    "What courses has Aren taken in data science?": "[Coursework Section](/coursework) outlines his academic training in relevant subjects at UW-Madison.",
+    "How can I view Aren's resume?": "[Resume Download](/resume.pdf) provides access to his detailed academic and professional history.",
+    "What are some of Aren's most notable projects?": [
+        "[WebsiteLLM](/datascience#synthetic-data-and-finetuning)",
+        "[Wisconsin Rover Software](https://github.com/WisconsinRobotics/WRoverSoftware)"
+    ],
+    "Does Aren have experience with machine learning?": "[Data Science Projects](/datascience) features his work with PyTorch, TensorFlow, and Scikit-Learn.",
+    "What is the Web-Based Portfolio Game called Book of Joe?": "[Project Link](/bookofjoe) describes a web-based game he created for portfolio development.",
+    "Can you tell me about Aren's energy supply internship?": "[Madison Gas & Electric Experience](/experience#energy-supply-intern)",
+    "What is the LMP Forecasting project?": "[LMPF README](/LMPF-README.md) details his work on LEAR and DNN price models for energy markets.",
+    "How does Aren use ROS in robotics?": "[WRoverSoftware](https://github.com/WisconsinRobotics/WRoverSoftware) showcases his use of ROS2 for rover development.",
+    "What are some of Aren's technical interests outside of work?": "[Personal Projects](/about) highlights his passion for 3D modeling and game development.",
+    "Can you provide details about the CyberCity project?": "[Project Link](/cybercity) describes a large-scale 3D city model he created using modern graphics tools."
+}

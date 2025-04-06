@@ -1,0 +1,23 @@
+{
+    "What is your educational background?": "[arendesai.com/portfolio] with answer and explanation. **Data Science** and Computer Science BS at UW-Madison (Spring 2025).",
+    "What programming languages do you know?": ["[arendesai.com/portfolio] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB."],
+    "Can you tell me about your data science projects?": ["[arendesai.com/datasetsimoptimizer-readme-md] MarketSimOptimizer for energy market simulation.", "[arendesai.com/lmp-forecasting-readme-md] LMP Forecasting with LEAR and DNN models."],
+    "What graphics software do you use?": ["[github.com/ArenKDesai/Boat] Blender and Unity for 3D modeling.", "[github.com/ArenKDesai/CyberCity] WebGL for cyberpunk environments."],
+    "Tell me about your experience with machine learning.": "[arendesai.com/portfolio] Experienced with PyTorch, TensorFlow, Scikit-Learn, and Keras for various projects.",
+    "What is your experience in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] ROS2 software development for a rover project."],
+    "Where can I see your resume?": ["[arendesai.com/resume_nodetails.pdf] Detailed resume available as PDF download."],
+    "What coursework have you completed?": ["[arendesai.com/coursework] Data Science, Computer Graphics, and Robotics courses at UW-Madison."],
+    "How do you use Python in your work?": ["[github.com/ArenKDesai/BookOfJoe] Web development with Flask.", "[github.com/ArenKDesai/MSO-README.md] Energy market simulation with Pandas and NumPy."],
+    "What is the Wisconsin Rover project?": ["[github.com/WisconsinRobotics/WRoverSoftware] ROS2-based software for a university rover."],
+    "Can you explain your work at Madison Gas & Electric?": "[arendesai.com/portfolio] Data analysis for energy supply optimization.",
+    "How do you use JavaScript in your projects?": ["[github.com/ArenKDesai/BookOfJoe] Interactive web applications.", "[github.com/ArenKDesai/CyberCity] WebGL rendering."],
+    "What is the LMP Forecasting project about?": "[arendesai.com/lmp-forecasting-readme-md] Predicting electricity prices using LEAR and DNN models.",
+    "Tell me about your leadership roles.": ["[github.com/ArenKDesai/GoogleDeveloperStudentClub] Finance Lead for Google Developer Student Club."],
+    "What is the Book of Joe project?": "[arendesai.com/bookofjoe] A web-based portfolio game developed using React and Node.js.",
+    "How do you use Unity in your work?": ["[github.com/ArenKDesai/Boat] 3D boat model development for gaming applications."],
+    "What is the MarketSimOptimizer project?": "[arendesai.com/market-sim-optimizer-readme-md] Energy market simulation tool using Python and Pandas.",
+    "Can you explain your work at Compeer Financial?": "[arendesai.com/portfolio] Data analytics for financial systems optimization.",
+    "How do you use ROS in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] ROS2 integration for rover software development."],
+    "What is the CyberCity project about?": "[arendesai.com/cybercity] 3D cyberpunk city environment created with Blender and Unity.",
+    "How do you use GCP in your projects?": ["[github.com/ArenKDesai/website-llm] Cloud hosting for a website using Google's AI services."]
+}

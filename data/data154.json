@@ -1,0 +1,23 @@
+{
+    "What is Aren Desai's educational background?": "[arendesai.com/portfolio] with answer and explanation",
+    "Can you provide details about Aren's technical skills?": ["[arendesai.com/technical-skills.pdf]", "Aren specializes in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras, OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2"],
+    "What data science projects has Aren worked on?": ["[arendesai.com/datascience] MarketSimOptimizer for MISO market simulation", "[arendesai.com/datascience] LMP Forecasting with LEAR & DNN models"],
+    "Does Aren have experience with machine learning?": ["Yes, Aren has worked on projects involving PyTorch, TensorFlow, and Scikit-Learn. **Machine Learning** techniques are a key part of his data science work"],
+    "What programming languages does Aren know?": ["Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Tell me about Aren's work experience": ["Madison Gas & Electric (Energy Supply Intern)", "Compeer Financial (Data Analytics)"],
+    "What is the WRoverSoftware project?": ["[github.com/WisconsinRobotics/WRoverSoftware] Software for the UW-Madison rover project, focusing on **Robotics** and **ROS/ROS2**"],
+    "What graphics projects has Aren created?": ["Boat (Blender/Unity 3D model)", "[arendesai.com/bookofjoe] Web-based portfolio game", "[arendesai.com/cybercity] 3D cyberpunk city environment"],
+    "What courses has Aren taken in data science?": ["UW-Madison coursework in statistics, machine learning, and computational methods"],
+    "How can I see Aren's resume?": ["[arendesai.com/resume_nodetails.pdf]", "[arendesai.com/cv_nodetails.pdf]"],
+    "What leadership roles has Aren held?": ["Google Developer Student Club (Finance Lead)", "Wisconsin Robotics (Arm Developer)"],
+    "What tools does Aren use for data science?": ["Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras"],
+    "Can you tell me about Aren's involvement in robotics?": ["UW-Madison rover project ([github.com/WisconsinRobotics/WRoverSoftware])", "Gazebo and ROS/ROS2 for simulation and control"],
+    "What graphics frameworks does Aren know?": ["OpenGL, WebGL, Unity, Blender"],
+    "Has Aren worked on any web-based projects?": ["[arendesai.com/bookofjoe] Web-based portfolio game", "Website with GCP-hosted LLM ([github.com/ArenKDesai/ArenWebsite])"],
+    "What is Aren's experience with energy markets?": ["Madison Gas & Electric internship focused on energy supply analysis"],
+    "Can you provide examples of Aren's data science work?": ["MarketSimOptimizer for MISO market simulation", "LMP Forecasting models using LEAR and DNN"],
+    "What programming languages does Aren use for robotics?": ["C/C++/C#, Python, ROS/ROS2"],
+    "Does Aren have experience with cloud computing?": ["Yes, he has worked on a website hosted on Google Cloud Platform (GCP)"],
+    "What is the focus of Aren's data science projects?": ["Energy markets (MISO), LMP forecasting, and computational methods"],
+    "Can you tell me about Aren's academic achievements?": ["UW-Madison coursework in statistics, machine learning, and computational methods"]
+}

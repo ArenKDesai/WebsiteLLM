@@ -1,0 +1,22 @@
+{
+    "What is Aren's educational background?": "[arendesai.com/portfolio] He holds a BS in Computer Science & Data Science from UW-Madison, expected Spring 2025.",
+    "Which technical skills does Aren possess?": "[arendesai.com/about] Skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB for programming, and OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2 in graphics and robotics.",
+    "Can you tell me about Aren's data science projects?": "[arendesai.com/datascience] Projects include MarketSimOptimizer (MISO market simulation) and LMP Forecasting with LEAR & DNN models.",
+    "What graphics projects has Aren worked on?": "[arendesai.com/computergraphics] Features include the Boat project in Blender/Unity and CyberCity, a 3D cyberpunk environment.",
+    "Does Aren have any robotics experience?": "[arendesai.com/robotics] Notable work includes WRoverSoftware for UW-Madison's rover project on GitHub.",
+    "How can I view Aren's resume?": "[arendesai.com/portfolio/resume.pdf] Download his resume with nodetails.",
+    "What coursework has Aren taken at UW-Madison?": "[arendesai.com/coursework] Includes relevant data science and computer science courses.",
+    "What is the MarketSimOptimizer project about?": "[arendesai.com/datascience/MSO-README.md] Simulates energy markets for optimization studies.",
+    "Can you explain Aren's work with machine learning?": "[arendesai.com/datascience/LMPF-README.md] Uses PyTorch and TensorFlow for price forecasting models.",
+    "What is the Book of Joe project?": "[arendesai.com/computergraphics/bookofjoe] A web-based portfolio game showcasing development skills.",
+    "What leadership roles has Aren held?": "[arendesai.com/about] Leads include Google Developer Student Club and robotics projects at UW-Madison.",
+    "How does Aren use open-source tools in his work?": "[github.com/Aren] Actively contributes to open-source projects, especially in robotics and data science.",
+    "What is the purpose of CyberCity?": "[arendesai.com/computergraphics/cybercity] A detailed 3D environment for testing visualization techniques.",
+    "Can you explain Aren's contributions to rover software?": "[github.com/roverproject/wr-software] Develops control systems and algorithms for autonomous rovers.",
+    "What is the significance of LEAR in LMP Forecasting?": "[arendesai.com/datascience/LMPF-README.md] A novel approach enhancing energy price prediction accuracy.",
+    "How does Aren's work in robotics intersect with data science?": "[github.com/robotics/data-processing] Integrates machine learning for improved robotic decision-making.",
+    "What is the future plan for the Book of Joe project?": "[arendesai.com/jobs] Seeking contributors to expand game features and improve gameplay mechanics.",
+    "How does Aren's knowledge of ROS benefit his projects?": "[roswiki.org/ROS] Utilizes ROS frameworks for efficient robotic system development and control.",
+    "What tools are used in the MarketSimOptimizer?": "[github.com/market-sim] Implements Python, R, and optimization libraries like scipy for simulations.",
+    "Can you provide details on Aren's open-source contributions?": "[github.com/Aren/contributions] Focuses on improving algorithms and documentation in key robotics and data science repositories."
+}

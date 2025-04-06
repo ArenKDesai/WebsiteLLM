@@ -1,0 +1,22 @@
+{
+    "What is Aren Desai's educational background?": "[arendesai.com/resume_nodetails.pdf] He is pursuing a BS in Computer Science and Data Science at UW-Madison, expected Spring 2025.",
+    "Can you tell me about his technical skills?": ["[arendesai.com/technical-skills.pdf] **Programming Languages**: Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB. **Data Science Tools**: Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras. **Graphics & Robotics**: OpenGL, WebGL, Unity, Blender, Gazebo, ROS/ROS2.",
+    "What data science projects has he worked on?": ["[arendesai.com/MSO-README.md] MarketSimOptimizer - MISO market simulation. [arendesai.com/LMPF-README.md] LMP Forecasting - LEAR & DNN price models.", "**Related topic**: **data science**"],
+    "What graphics projects has he created?": ["[github.com/ArenKDesai/Boat] Boat - Blender/Unity 3D boat model. [arendesai.com/bookofjoe] Book of Joe - Web-based portfolio game. [arendesai.com/cybercity] CyberCity - 3D cyberpunk city environment.", "**Related topic**: **computer graphics**"],
+    "What robotics work has he been involved in?": ["[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware - UW-Madison rover software. [arendesai.com/robotics] Additional projects include ROS2 and Gazebo simulations.", "**Related topic**: **robotics**"],
+    "Where can I find his resume?": "[arendesai.com/resume_nodetails.pdf] Download his resume here.",
+    "What is his experience with machine learning?": ["[arendesai.com/datascience] He has worked on projects involving PyTorch, TensorFlow, and Scikit-Learn, including LMP Forecasting models.", "**Related topic**: **machine learning**"],
+    "Tell me about his work experience.": ["[arendesai.com/work-experience.pdf] Madison Gas & Electric (Energy Supply Intern), Compeer Financial (Data Analytics).", "**Related topic**: **experience**"],
+    "What leadership roles has he held?": ["[arendesai.com/leadership.pdf] Google Developer Student Club (Finance Lead), Wisconsin Robotics (Arm Developer).", "**Related topic**: **leadership**"],
+    "How can I see his portfolio?": "[arendesai.com/portfolio] View his professional overview and projects here.",
+    "What coursework has he completed?": ["[arendesai.com/coursework.pdf] Data Science, Computer Graphics, Robotics, Machine Learning.", "**Related topic**: **coursework**"],
+    "Does he have experience with web development?": ["[github.com/ArenKDesai/Book-of-Joe] Book of Joe - Web-based portfolio game. [github.com/ArenKDesai/Boat] Boat - Unity WebGL integration.", "**Related topic**: **web development**"],
+    "What is the MarketSimOptimizer used for?": "[arendesai.com/MSO-README.md] It simulates MISO markets and optimizes energy prices and flows.",
+    "Can you tell me about his involvement in open-source projects?": ["[github.com/ArenKDesai] Explore his GitHub profile for contributions to various projects.", "**Related topic**: **open source**"],
+    "What is his approach to data science?": "[arendesai.com/datascience] He focuses on applying advanced algorithms and tools to solve real-world problems.",
+    "How does he use Unity in his work?": ["[github.com/ArenKDesai/Boat] Boat project - 3D modeling and animation. [arendesai.com/cybercity] CyberCity - virtual environment creation.", "**Related topic**: **Unity**"],
+    "What is his experience with ROS?": ["[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware integrates ROS for robot control and navigation.", "**Related topic**: **ROS**"],
+    "How has he contributed to the Google Developer Student Club?": "[arendesai.com/leadership.pdf] As Finance Lead, he helped organize events and manage resources.", "**Related topic**: **student organizations**"],
+    "What tools does he use for data analysis?": ["[arendesai.com/datascience] Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks.", "**Related topic**: **data analysis**"],
+    "Can you tell me about his participation in hackathons?": "[arendesai.com/hackathons.pdf] Explore his involvement in competitive programming events here."
+}

@@ -1,0 +1,22 @@
+{
+    "What is Aren's educational background?": "[arendesai.com/portfolio] BS in Computer Science & Data Science at UW-Madison (Spring 2025)",
+    "Which programming languages does Aren know?": ["[link to skills section]", "Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Can you explain the Boat project?": ["[github.com/ArenKDesai/Boat] 3D boat model using Blender and Unity"],
+    "What data science models has Aren implemented?": ["[arendesai.com/datascience/LMPF-README.md]", "LEAR & DNN price models for LMP Forecasting project"],
+    "How can I view Aren's resume?": ["[arendesai.com/portfolio/resume.pdf] Download PDF version"],
+    "What is the MarketSimOptimizer used for?": ["[arendesai.com/datascience/MSO-README.md]", "MISO market simulation tool"],
+    "Tell me about Aren's leadership roles.": ["**Google Developer Student Club (Finance Lead)**, **Wisconsin Robotics (Arm Developer)**"],
+    "What graphics tools does Aren use?": ["OpenGL, WebGL, Unity, Blender", "**3D modeling and rendering**"],
+    "Can you describe the CyberCity project?": ["[arendesai.com/cybergraphics/cybercity]", "Web-based cyberpunk city environment using WebGL"],
+    "What experience does Aren have in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware]", "ROS2 software for UW-Madison rover"],
+    "What coursework has Aren completed?": ["**UW-Madison data science and computer science courses**", "[arendesai.com/coursework] details available"],
+    "How does the Book of Joe work?": ["[arendesai.com/computergraphics/bookofjoe]", "Web-based portfolio game built with WebGL"],
+    "What is Aren's experience with machine learning?": ["Pandas, NumPy, PyTorch, TensorFlow", "**Data science tools** for projects"],
+    "Where can I find Aren's academic work?": ["[arendesai.com/coursework]", "Access to relevant coursework details"],
+    "How was the GCP Website built?": ["[github.com/ArenKDesai/ArenWebsite]", "Hosted with Google Cloud Platform (GCP) using LLM"],
+    "What is Aren's technical expertise?": ["Python, SQL, R", "**Data science and programming skills**"],
+    "Can you tell me about Aren's work experience?": ["Madison Gas & Electric, Compeer Financial", "**Energy Supply Intern, Data Analytics roles**"],
+    "What projects has Aren worked on with GCP?": ["[github.com/ArenKDesai/ArenWebsite]", "LLM integration in a GCP-hosted website"],
+    "How does the Wisconsin Rover project function?": ["[github.com/WisconsinRobotics/WRoverSoftware]", "ROS2-based rover software development"],
+    "What is the purpose of the LMP Forecasting project?": ["Predict energy prices using LEAR & DNN models", "[arendesai.com/datascience/LMPF-README.md]"]
+}

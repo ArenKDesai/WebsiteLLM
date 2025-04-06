@@ -1,0 +1,22 @@
+{
+    "What is Aren's educational background?": ["arendesai.com/portfolio#education", "Aren Desai is pursuing a BS in Computer Science and Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."],
+    "Can you tell me about Aren's projects?": ["arendesai.com/portfolio#projects", "Aren has worked on various projects including MarketSimOptimizer for market simulation and a web-based portfolio game called Book of Joe."],
+    "What programming languages does Aren know?": ["arendesai.com/about#skills", "Aren is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB, and others."],
+    "Does Aren have experience with robotics?": ["github.com/WisconsinRobotics/WRoverSoftware", "Yes, Aren contributed to the WRoverSoftware project at the University of Wisconsin-Madison."],
+    "What data science tools does Aren use?": ["arendesai.com/datascience#projects", "Aren uses Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras for data science tasks."],
+    "What is the MarketSimOptimizer project about?": ["arendesai.com/datscience/MarketSimOptimizer", "It's a market simulation tool using MISO models to optimize energy markets."],
+    "Where has Aren interned?": ["arendesai.com/portfolio#experience", "Aren interned at Madison Gas & Electric and Compeer Financial."],
+    "Can you tell me about Aren's work at Compeer Financial?": ["arendesai.com/portfolio#experience", "Aren worked on data analytics projects, including customer segmentation using machine learning."],
+    "What graphics projects has Aren worked on?": ["arendesai.com/computergraphics#projects", "Projects include a 3D cyberpunk city and a Unity boat model."],
+    "How did Aren create the Boat model?": ["github.com/ArenKDesai/Boat", "Created using Blender and Unity for a 3D simulation project."],
+    "What clubs is Aren part of?": ["arendesai.com/portfolio#leadership", "Aren leads the Google Developer Student Club as Finance Lead."],
+    "What leadership roles does Aren have?": ["arendesai.com/portfolio#leadership", "Roles include Arm Developer at Wisconsin Robotics and organizing tech events."],
+    "What is the GCP Website project?": ["github.com/ArenKDesai/ArenWebsite", "A website hosted on Google Cloud Platform showcasing a language model."],
+    "Tell me about Aren's work experience": ["arendesai.com/portfolio#experience", "Experience includes internships and leadership roles in tech and finance."],
+    "What is the Book of Joe project?": ["arendesai.com/computergraphics/BookofJoe", "A web-based portfolio game demonstrating 3D graphics skills."],
+    "What courses has Aren taken in data science?": ["arendesai.com/coursework#courses", "Courses include Machine Learning, Data Mining, and Statistical Methods."],
+    "How can I see Aren's resume?": ["arendesai.com/portfolio#downloads", "Download the resume from arendesai.com/resume_nodetails.pdf."],
+    "What is the Wisconsin Rover project?": ["github.com/WisconsinRobotics/WRoverSoftware", "Developed rover software using ROS2 for autonomous navigation."],
+    "What tools does Aren use in robotics?": ["github.com/WisconsinRobotics/WRoverSoftware", "Uses ROS/ROS2, Gazebo, and Unity for simulation and development."],
+    "Can you tell me about Aren's leadership roles?": ["arendesai.com/portfolio#leadership", "Includes organizing tech workshops and leading student clubs in finance and robotics."]
+}

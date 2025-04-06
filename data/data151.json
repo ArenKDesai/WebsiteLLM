@@ -1,0 +1,17 @@
+{
+    "What are Aren's technical skills?": ["[arendesai.com/technical-skills] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB", "**Data Science** tools like Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras"],
+    "Can you tell me about Aren's education?": ["[arendesai.com/portfolio] BS in Computer Science & Data Science at UW-Madison (Spring 2025)"],
+    "What data science projects has Aren worked on?": ["[arendesai.com/MSO-README.md] MarketSimOptimizer for MISO market simulation", "[arendesai.com/LMPF-README.md] LMP Forecasting with LEAR & DNN models"],
+    "Does Aren have experience with machine learning?": ["Yes, he has worked on projects using PyTorch and TensorFlow, such as the [LMP Forecasting project](https://github.com/ArenKDesai/LMPF)"],
+    "What programming languages does Aren know?": ["[arendesai.com/portfolio] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB"],
+    "Tell me about Aren's work experience": ["[ Madison Gas & Electric ](https://www.mge.com/) Energy Supply Intern", "[ Compeer Financial ](https://www.compeed.com/) Data Analytics role"],
+    "What is the WRoverSoftware project?": ["[github.com/WisconsinRobotics/WRoverSoftware] ROS2-based software for a UW-Madison rover project"],
+    "What graphics projects has Aren created?": ["[github.com/ArenKDesai/Boat] Blender/Unity 3D boat model", "[arendesai.com/bookofjoe] Web-based portfolio game"],
+    "What is Aren's involvement in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] Contributed to ROS2 software for a UW-Madison rover project"],
+    "How can I view Aren's resume?": ["Download his resume from [arendesai.com/resume] or request via email"],
+    "What courses has Aren taken in data science?": ["[UW-Madison](https://datascience.wisc.edu/) Courses include Machine Learning and Data Analysis"],
+    "Can you provide details on the MarketSimOptimizer project?": ["[arendesai.com/MSO-README.md] Simulates electricity markets using Python and optimization techniques"],
+    "What is Aren's GitHub profile?": ["[github.com/ArenKDesai](https://github.com/ArenKDesai) View his repositories and contributions"],
+    "How did Aren's work at Madison Gas & Electric impact his skills?": ["Developed data analysis skills using Python, SQL, and MATLAB for energy market research"],
+    "Can you tell me about Aren's leadership roles?": ["Led a team on the [LMP Forecasting project](https://github.com/ArenKDesai/LMPF) and contributed to [WRoverSoftware]"]
+}

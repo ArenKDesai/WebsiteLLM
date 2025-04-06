@@ -1,0 +1,50 @@
+{
+    "What is Aren Desai's educational background?": "[arendesai.com/portfolio] UW-Madison BS in Computer Science & Data Science",
+    "Can you provide details about Aren's academic projects?": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for MISO market simulation",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting with LEAR & DNN models"
+    ],
+    "What programming languages does Aren know?": [
+        "**Python**", "**SQL**", "**R**", "**Java**", "**C/C++/C#**", "**JavaScript**", "**Julia**", "**MATLAB**",
+        "[https://www.w3schools.com] Full list of programming languages"
+    ],
+    "What is the focus of Aren's data science work?": [
+        "[arendesai.com/datascience/GCPWebsite] GCP-hosted LLM implementation",
+        "[https://pytorch.org] PyTorch and TensorFlow usage in projects"
+    ],
+    "Tell me about Aren's experience with robotics.": "[github.com/WisconsinRobotics/WRoverSoftware] Software development for UW-Madison rover project",
+    "What graphics tools does Aren use?": [
+        "**OpenGL**", "**WebGL**", "**Unity**", "**Blender**",
+        "[https://www.unity.com] Unity 3D game engine details"
+    ],
+    "How can I view Aren's resume?": "[arendesai.com/portfolio/resume.pdf] Download the resume PDF",
+    "What are some of Aren's creative projects?": [
+        "[github.com/ArenKDesai/Boat] Blender/Unity 3D boat model",
+        "[arendesai.com/cybercity] Cyberpunk city environment project"
+    ],
+    "Where can I find Aren's portfolio game?": "[arendesai.com/bookofjoe] Web-based portfolio game 'Book of Joe'",
+    "What coursework has Aren completed at UW-Madison?": [
+        "[https://www.cs.wisc.edu] Computer Science courses",
+        "[https://data-science.wisc.edu] Data Science curriculum"
+    ],
+    "How does Aren contribute to open-source projects?": "[github.com/ArenKDesai] GitHub profile with open-source contributions",
+    "What leadership roles has Aren held?": [
+        "**Google Developer Student Club (Finance Lead)**",
+        "**Wisconsin Robotics (Arm Developer and Contributor)**"
+    ],
+    "What is the WebsiteLLM project about?": [
+        "[github.com/ArenKDesai/WebsiteLLM] Synthetic data generation and fine-tuning for LLMs",
+        "[https://towardsdatascience.com] Blog post on synthetic data techniques"
+    ],
+    "Can you explain Aren's internship experiences?": [
+        "**Madison Gas & Electric (Energy Supply Intern)**",
+        "**Compeer Financial (Data Analytics Intern)**"
+    ],
+    "What is the purpose of the GCP Website project?": "[github.com/ArenKDesai/ArenWebsite] GCP-hosted website with LLM integration",
+    "How does Aren use ROS/ROS2 in robotics?": "[https://www.ros.org] ROS/ROS2 for UW-Madison rover software development",
+    "What visualization tools does Aren use?": [
+        "**Pandas**", "**NumPy**", "**Matplotlib**", "**Seaborn**"
+    ],
+    "Where can I find Aren's academic publications?": "[https://scholar.google.com] Google Scholar profile for UW-Madison research",
+    "What is the LEAR model used for in data science?": "[arendesai.com/datascience/LMPF-README.md] Load Duration Forecasting with LEAR"
+}

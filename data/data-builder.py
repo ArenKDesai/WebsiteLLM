@@ -5,6 +5,7 @@ import sys
 from datetime import datetime
 import polars as pl
 import time
+import argparse
 
 # LLM Setup
 dataPrompt = """
@@ -68,7 +69,7 @@ Sample Questions (DO NOT REUSE THESE EXACT QUESTIONS):
 Remember to generate diverse, natural-sounding questions that website visitors might ask. Vary between general and specific questions about different aspects of Aren's background and projects.
 \"\"\"\"
 """
-modelCommand = ["ollama", "run", "deepseek-r1:8b", dataPrompt]
+modelCommand = ["ollama", "run", "deepseek-r1:14b", dataPrompt]
 
 # Data Creation
 def create_data(modelCommand, force=False):
@@ -113,13 +114,16 @@ def create_data(modelCommand, force=False):
         if not force:
             sys.exit()
 
-# TODO switch to proper argument handling library and add -f --force
 if __name__ == "__main__":
-    # Argument Handling
-    if len(sys.argv) == 1: # Run Once
-        create_data(modelCommand=modelCommand)
-    elif sys.argv[1] == "-l" or sys.argv == "--loop":
-        while True: # Run on a permanent loop
-            create_data(modelCommand=modelCommand)
+    parser = argparse.ArgumentParser(description="Generate synthetic conversational data")
+    parser.add_argument("-l", "--loop", action="store_true", 
+                        help="Run in a continuous loop")
+    parser.add_argument("-f", "--force", action="store_true", 
+                        help="Continue execution even if errors occur")
+    args = parser.parse_args()
+    
+    if args.loop:
+        while True:
+            create_data(modelCommand=modelCommand, force=args.force)
     else:
-        print("Usage: data-builder (optional: -l / --loop)")
+        create_data(modelCommand=modelCommand, force=args.force)

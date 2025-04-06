@@ -1,0 +1,22 @@
+{
+    "Tell me about Aren Desai": "[arendesai.com] A detailed overview of Aren's background in computer science, data science, and robotics.",
+    "What is Aren's educational background?": ["[arendesai.com/portfolio#education] Aren holds a BS in Computer Science & Data Science from the University of Wisconsin-Madison (Spring 2025).", "[uwm.edu] Learn more about the university's computer science program."],
+    "What programming languages does Aren know?": ["[github.com/ArenKDesai] Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB.", "[kaggle.com/learn] Interactive tutorials for learning these languages."],
+    "Can you tell me about Aren's data science projects?": ["[arendesai.com/datascience] Projects include MarketSimOptimizer (MISO market simulation) and LMP Forecasting (LEAR & DNN price models).", "[github.com/ArenKDesai/MSO-README.md] Detailed README for the MarketSimOptimizer project."],
+    "What graphics projects has Aren worked on?": ["[github.com/ArenKDesai/Boat] A Blender/Unity 3D boat model.", "[arendesai.com/cybercity] A cyberpunk city environment created with Unity and Blender."],
+    "What robotics work has Aren done?": ["[github.com/WisconsinRobotics/WRoverSoftware] Software for the UW-Madison rover project.", "**robotics** Learn more about Wisconsin Robotics."],
+    "How can I see Aren's resume?": ["[arendesai.com/portfolio#resume] Download Aren's resume (nodetails.pdf) or CV (cv_nodetails.pdf).", "[linkedin.com/in/ArenKDesai] View Aren's LinkedIn profile for detailed experience."],
+    "What technical skills does Aren have in data science?": ["[github.com/ArenKDesai] Python, Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras.", "[dataquest.io] Interactive courses to build similar skills."],
+    "What is Aren's experience with machine learning?": ["[github.com/ArenKDesai/LMPF-README.md] LMP Forecasting project uses DNN models for price prediction.", "**machine_learning** Explore more about neural networks and deep learning."],
+    "Tell me about Aren's work experience": ["[arendesai.com/portfolio#experience] Madison Gas & Electric (Energy Supply Intern) and Compeer Financial (Data Analytics).", "[linkedin.com/company/madison-gas-and-electric] Learn more about MG&E."],
+    "What leadership roles does Aren have?": ["[github.com/orgs/GoogleDeveloperStudentClubs/teams] Google Developer Student Club Finance Lead.", "**leadership** Explore more about leadership opportunities in tech."],
+    "What courses has Aren taken at UW-Madison?": ["[uwm.edu/course_catalog] Data Science, Computer Graphics, and Robotics coursework.", "[coursera.org] Additional online courses in data science and AI."],
+    "How does Aren use Python?": ["[github.com/ArenKDesai] Python for data analysis, machine learning, and software development.", "**python** Explore more Python resources on RealPython."],
+    "What is the WRoverSoftware project?": ["[github.com/WisconsinRobotics/WRoverSoftware] Software for UW-Madison's rover project.", "**robotics** Learn more about Wisconsin Robotics."],
+    "Does Aren have experience with 3D graphics?": ["[github.com/ArenKDesai/Boat] Blender and Unity projects demonstrate expertise in 3D graphics.", "[unity.com] Learn more about Unity development."],
+    "What is Aren's career goal?": ["**career_goals** Explore opportunities in AI, machine learning, and robotics.", "**data_science** Learn more about data science careers."],
+    "How can I contact Aren?": ["[github.com/ArenKDesai] Connect with Aren on GitHub.", "[linkedin.com/in/ArenKDesai] View LinkedIn profile for contact information."],
+    "What is Aren's expertise in AI?": ["[github.com/ArenKDesai] Projects like LMP Forecasting showcase AI and machine learning skills.", "**ai** Explore more about artificial intelligence onTowards Data Science."],
+    "What tools does Aren use for data science?": ["[github.com/ArenKDesai] Tools include Jupyter Notebook, Pandas, NumPy, and TensorFlow.", "[datascience.toolsheds.org] Learn more about data science tools."],
+    "What is the MarketSimOptimizer project?": ["[github.com/ArenKDesai/MSO-README.md] A Python-based tool for MISO market simulation.", "**energy_market** Learn more about energy markets and simulations."]
+}

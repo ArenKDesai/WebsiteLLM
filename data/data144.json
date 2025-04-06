@@ -1,0 +1,53 @@
+{
+    "What is Aren Desai's educational background?": ["[arendesai.com/portfolio#education]aren desai has a bs in computer science and data science from uw-madison, expected spring 2025. his coursework includes advanced topics in machine learning, algorithms, and systems programming.", "**data science**"],
+    "What programming languages does Aren know?": ["[link to skills section]aren is proficient in python, sql, r, java, c/c++/c#, javascript, julia, and matlab.", "**programming**"],
+    "Can you explain Aren's experience with data science?": [
+        "[arendesai.com/datascience]", 
+        "aren has worked on projects like the market simulator optimizer and lmp forecasting, using tools like pandas, numpy, pytorch, and tensorflow."
+    ],
+    "What graphics-related skills does Aren have?": ["[arendesai.com/computergraphics]aren specializes in opengl, webgl, unity, blender, and gazebo for 3d modeling and simulation.", "**graphics**"],
+    "Tell me about Aren's robotics experience": ["[github.com/WisconsinRobotics/WRoverSoftware]aren contributed to the wrroversoftware project at uw-madison, focusing on ros2 development.", "**robotics**"],
+    "What is the MarketSimOptimizer?": ["[arendesai.com/datascience#marketsimoptimizer]a tool for simulating energy markets using optimization techniques.", "**energy markets**"],
+    "How does Aren use python in his work?": [
+        "[link to projects]", 
+        "aren uses python for data analysis, machine learning, and web development, leveraging libraries like pandas and flask."
+    ],
+    "What is the LMP Forecasting project about?": ["[arendesai.com/datascience#lmpforecasting]developed price forecasting models using lear and dnn techniques.", "**energy pricing**"],
+    "Can you share details about Aren's internship experiences?": [
+        "[link to experience section]", 
+        "aren interned at madison gas & electric and compeer financial, gaining hands-on experience in energy supply and data analytics."
+    ],
+    "What is the Boat project?": ["[github.com/ArenKDesai/Boat]a 3d boat model created using blender and unity.", "**3d modeling**"],
+    "How does Aren approach web development?": [
+        "[link to projects]", 
+        "aren uses javascript, html, and css for web-based projects like the book of joe and cybercity."
+    ],
+    "What is the Wisconsin Rover Software?": ["[github.com/WisconsinRobotics/WRoverSoftware]ros2-based software developed for a university rover project.", "**robotics**"],
+    "Tell me about Aren's leadership roles": [
+        "[link to experience section]", 
+        "aren served as finance lead for google developer student club and worked on ros2 development at wisconsin robotics."
+    ],
+    "What is the CyberCity project?": ["[arendesai.com/cybercity]a 3d cyberpunk city environment created using blender.", "**graphics**"],
+    "How does Aren use julia in his work?": [
+        "[link to skills section]", 
+        "aren uses julia for high-performance computing and data analysis, often integrating it with python."
+    ],
+    "What courses has Aren taken at uw-madison?": [
+        "[arendesai.com/coursework]", 
+        "courses include machine learning, algorithms, databases, and systems programming."
+    ],
+    "Can you tell me about Aren's resume?": ["[arendesai.com/portfolio#resume]aren's resume is available for download in pdf format.", "**experience**"],
+    "What tools does Aren use for data analysis?": [
+        "[link to skills section]", 
+        "tools include pandas, numpy, scikit-learn, and tensorflow for machine learning and data processing."
+    ],
+    "How did Aren contribute to the book of joe?": [
+        "[link to projects]", 
+        "aren developed a web-based game using html5, javascript, and unity."
+    ],
+    "What is Aren's experience with ros/ROS2?": ["[github.com/WisconsinRobotics/WRoverSoftware]contributed to ros2 development for robotics applications.", "**robotics**"],
+    "How does Aren stay updated with tech trends?": [
+        "[link to blog]", 
+        "aren follows tech blogs, attends conferences, and participates in open-source projects."
+    ]
+}

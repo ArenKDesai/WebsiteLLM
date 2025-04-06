@@ -1,0 +1,35 @@
+{
+    "What are some of Aren's most notable projects?": "[arendesai.com/portfolio] Explore his professional portfolio including data science, computer graphics, and robotics projects.",
+    "How did Aren get started in data science?": "[arendesai.com/datascience] Learn about his journey and projects in the field of data science.",
+    "Can you provide details about Aren's academic background?": [
+        "[arendesai.com/resume_nodetails.pdf] Review his education and coursework at UW-Madison.",
+        "[arendesai.com/cv_nodetails.pdf] Access a detailed CV with academic achievements."
+    ],
+    "What tools does Aren use for data analysis?": "[pandas.pydata.org] Discover how he uses Python libraries like Pandas, NumPy, and Scikit-Learn in his work.",
+    "Tell me about Aren's experience with machine learning.": [
+        "[arendesai.com/LMPF-README.md] Check out his work on LMP Forecasting using DNN models.",
+        "[github.com/ArenKDesai/ArenWebsite] Explore his GCP-hosted LLM project."
+    ],
+    "What programming languages does Aren know?": "**Programming Languages** - Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB.",
+    "How can I learn more about Aren's robotics work?": "[github.com/WisconsinRobotics/WRoverSoftware] Discover his contributions to the Wisconsin Rover project using ROS2.",
+    "What graphics software is Aren proficient in?": [
+        "**Computer Graphics Tools** - OpenGL, WebGL, Unity, Blender, Gazebo."
+    ],
+    "Where can I find Aren's resume?": "[arendesai.com/resume_nodetails.pdf] Download his concise resume with key details.",
+    "Can you tell me about Aren's work experience?": [
+        "**Energy Sector** - Madison Gas & Electric (Energy Supply Intern)",
+        "**Financial Services** - Compeer Financial (Data Analytics)"
+    ],
+    "What coursework has Aren completed at UW-Madison?": "[arendesai.com/coursework] Review his academic records and relevant courses.",
+    "How did Aren create the MarketSimOptimizer project?": "[arendesai.com/MSO-README.md] Explore the README for detailed information about this MISO market simulation tool.",
+    "What are some of Aren's leadership roles?": [
+        "**Leadership Experience** - Google Developer Student Club (Finance Lead), Wisconsin Robotics (Arm Developer)."
+    ],
+    "Where can I find Aren's portfolio game, Book of Joe?": "[arendesai.com/bookofjoe] Play or learn more about this web-based portfolio game.",
+    "What skills does Aren have in data science and machine learning?": [
+        "**Data Science Skills** - TensorFlow, PyTorch, Pandas, NumPy, Matplotlib."
+    ],
+    "How can I contact Aren for collaboration?": "[github.com/ArenKDesai] Connect with him on GitHub or through his LinkedIn profile.",
+    "What is the purpose of the GCP-hosted LLM project?": "[github.com/ArenKDesai/ArenWebsite] Learn about his innovative use of Google Cloud Platform for machine learning applications.",
+    "Where can I find Aren's thesis or research papers?": "[arendesai.com/publications] Access his academic publications and research work."
+}

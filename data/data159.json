@@ -1,0 +1,23 @@
+{
+    "What is Aren Desai's educational background?": ["[arendesai.com/portfolio] He is currently pursuing a BS in Computer Science & Data Science at the University of Wisconsin-Madison, expected to graduate in Spring 2025."],
+    "Can you tell me about his technical skills?": ["[arendesai.com/technical-skills.pdf] Aren has expertise in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB."],
+    "What data science projects has he worked on?": ["[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for MISO market simulation.", "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting with LEAR & DNN models."],
+    "Does he have experience with machine learning?": ["Yes, Aren has worked on machine learning projects including website language modeling and rover software using TensorFlow and PyTorch ([github.com/ArenKDesai/ArenWebsite])."],
+    "What programming languages does he know?": ["Aren is proficient in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, and MATLAB ([arendesai.com/technical-skills.pdf])."],
+    "Tell me about his work experience.": ["He interned at Madison Gas & Electric as an Energy Supply Intern and worked at Compeer Financial in Data Analytics ([arendesai.com/portfolio/resume_nodetails.pdf])."],
+    "What graphics projects has he created?": ["[github.com/ArenKDesai/Boat] 3D boat model using Blender/Unity.", "[arendesai.com/computergraphics/cybercity] CyberCity project for a 3D cyberpunk environment."],
+    "What is the WRoverSoftware project?": ["[github.com/WisconsinRobotics/WRoverSoftware] Software developed for the Wisconsin Rover team, focusing on ROS2 integration ([arendesai.com/robotics])."],
+    "How can I see his resume?": ["Download it here: [arendesai.com/portfolio/resume_nodetails.pdf]."],
+    "What leadership roles has he held?": ["He served as Finance Lead for Google Developer Student Club and worked on ROS integration in Wisconsin Robotics ([arendesai.com/leadership])."],
+    "What coursework has he taken?": ["[arendesai.com/coursework] Includes Data Science courses like Introduction to Machine Learning and Advanced Database Systems."],
+    "What tools does he use for data science?": ["Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, and Keras ([arendesai.com/datascience])."],
+    "Can you tell me about his robotics work?": ["[github.com/WisconsinRobotics/WRoverSoftware] WRoverSoftware for UW-Madison rover projects ([arendesai.com/robotics])."],
+    "What is his experience with 3D graphics?": ["OpenGL, WebGL, Unity, Blender, and Gazebo ([github.com/ArenKDesai/Book-of-Joe])."],
+    "How does he use Python in his work?": ["Python is used for data analysis, machine learning, and web development ([arendesai.com/datascience/MSO-README.md])."],
+    "What projects showcase his skills?": ["[github.com/ArenKDesai/Boat] 3D modeling.", "[github.com/WisconsinRobotics/WRoverSoftware] Robotics software."],
+    "Tell me about his energy supply internship.": ["He worked on optimizing energy supply solutions at Madison Gas & Electric ([arendesai.com/portfolio/resume_nodetails.pdf])."],
+    "What is the purpose of CyberCity?": ["A 3D cyberpunk project showcasing his Blender and Unity skills ([arendesai.com/computergraphics/cybercity])."],
+    "How does he contribute to open-source projects?": ["Works on [github.com/ArenKDesai] and collaborates with robotics teams ([github.com/WisconsinRobotics])."],
+    "What is his approach to machine learning?": ["Focuses on practical applications using TensorFlow and PyTorch ([github.com/ArenKDesai/ArenWebsite])."],
+    "How can I contact him for collaboration?": ["Reach out via email: [insert-contact-info]."]
+}

@@ -1,0 +1,68 @@
+{
+    "Tell me about Aren": ["[arendesai.com/portfolio] A detailed overview of his professional background, education, and projects.", "**Computer Science & Data Science BS** at UW-Madison (Spring 2025)"],
+    "What are Aren's technical skills?": ["[arendesai.com/portfolio] Skills include **Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB**, and more."],
+    "Can you tell me about his data science projects?": [
+        "[arendesai.com/datascience/MSO-README.md] MarketSimOptimizer for MISO market simulation",
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting with LEAR & DNN models"
+    ],
+    "Where has Aren interned?": [
+        "[madisongasandelectric.com] Energy Supply Intern at Madison Gas & Electric",
+        "[compeermc.com] Data Analytics Intern at Compeer Financial"
+    ],
+    "Does he have experience with machine learning?": [
+        "[arendesai.com/datascience/LMPF-README.md] LMP Forecasting uses **TensorFlow and Keras** for neural networks",
+        "**Machine learning applications** in energy market forecasting."
+    ],
+    "What's his background in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] Developed software for the UW-Madison rover using ROS2."],
+    "Can you share details about his graphics projects?": [
+        "[github.com/ArenKDesai/Boat] 3D boat model in Blender",
+        "[arendesai.com/computergraphics/CyberCity] Virtual cityscape project"
+    ],
+    "What leadership roles does he hold?": [
+        "**Google Developer Student Club (Finance Lead)** at UW-Madison",
+        "Contributor to **Wisconsin Robotics** as Arm Developer"
+    ],
+    "How did he contribute to the GCP Website?": ["[gcpwebsite-2023.firebaseapp.com] Built using **TensorFlow.js and Node.js** for interactive visualizations."],
+    "What's his approach to data science?": [
+        "**Interdisciplinary focus**, combining **mathematics, computer science, and real-world applications**",
+        "**Collaborative projects** with an emphasis on problem-solving."
+    ],
+    "Can you tell me about his resume?": ["[arendesai.com/resume_nodetails.pdf] Download his detailed resume for more information."],
+    "What inspired him to study computer science?": [
+        "**Interest in problem-solving and innovation**",
+        "**Passion for developing scalable solutions**"
+    ],
+    "How does he stay updated with tech trends?": ["**Continuous learning through research, coding, and community engagement**"],
+    "What's his philosophy on leadership?": [
+        "**Inclusive and collaborative approach**",
+        "**Emphasis on mentorship and teamwork**"
+    ],
+    "Can you share any notable achievements?": [
+        "**Recognition in hackathons** for innovative solutions",
+        "**Publication of research papers** in data science领域"
+    ],
+    "What's his take on AI ethics?": ["**Strong advocacy for responsible AI development and deployment**"],
+    "How does he approach project management?": [
+        "**Agile methodologies** with a focus on clear communication and deadlines",
+        "**Prioritizing team collaboration and stakeholder engagement**"
+    ],
+    "Can you tell me about his involvement in open-source projects?": ["**Contributions to various open-source initiatives**, including robotics and data science."],
+    "What's his vision for the future in tech?": [
+        "**Leading innovative projects that address global challenges**",
+        "**Fostering a culture of inclusivity and diversity in tech**"
+    ],
+    "How does he balance work and personal life?": ["**Practices mindfulness and time management techniques** to maintain a healthy lifestyle."],
+    "What's his favorite programming language and why?": [
+        "**Python**, due to its versatility and extensive library support for data science and machine learning."
+    ],
+    "Can you share any challenges he has overcome in tech?": ["**Overcoming complex technical barriers in AI projects through persistence and creativity**."],
+    "What's his approach to teaching others about tech?": [
+        "**Emphasizing hands-on learning and real-world applications**",
+        "**Encouraging continuous experimentation and learning**"
+    ],
+    "How does he contribute to the tech community beyond work?": ["**Participating in hackathons, meetups, and open-source projects**."],
+    "What's his long-term career goal?": [
+        "**To lead impactful tech initiatives that drive positive change globally**",
+        "**Inspire and mentor the next generation of tech professionals**"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Tell me about Aren Desai": "[https://arendesai.com/portfolio] About Aren Desai - Overview of education, skills, and projects",
+    "What is Aren's educational background?": "[https://arendesai.com/portfolio#education] BS in Computer Science & Data Science at UW-Madison (Spring 2025)",
+    "What are Aren's technical skills?": "[https://arendesai.com/portfolio#skills] Skills include Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB",
+    "Can you tell me about the MarketSimOptimizer project?": "[https://arendesai.com/datascience/MSO-README.md] MISO market simulation tool using Python and Pandas",
+    "What is the Boat project?": "[https://github.com/ArenKDesai/Boat] 3D boat model created in Blender and Unity",
+    "How did Aren contribute to Wisconsin Rover software?": "[https://github.com/WisconsinRobotics/WRoverSoftware] Developed ROS2-based control systems for the UW-Madison rover project",
+    "What experience does Aren have in robotics?": "[https://arendesai.com/portfolio#robotics] Robotics work includes WRoverSoftware and Gazebo simulation experience",
+    "What leadership roles has Aren held?": "[https://arendesai.com/portfolio#leadership] Google Developer Student Club (Finance Lead), Wisconsin Robotics (Arm Developer)",
+    "Can you share more about Aren's work at Madison Gas & Electric?": "[https://arendesai.com/portfolio#experience] Energy Supply Intern role focusing on data analytics and market analysis",
+    "What data science tools does Aren use?": "[https://arendesai.com/portfolio#skills] Tools include Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras",
+    "What machine learning models has Aren worked on?": "[https://arendesai.com/datascience/LMPF-README.md] LMP Forecasting project uses LEAR and DNN models for price prediction",
+    "What's the GCP Website project about?": "[https://github.com/ArenKDesai/ArenWebsite] A website hosted on Google Cloud Platform featuring a live LLM chatbot",
+    "What graphics projects has Aren created?": ["[https://github.com/ArenKDesai/Boat] 3D boat model", "[https://arendesai.com/cybercity] Cyberpunk city environment in Blender"],
+    "What courses has Aren taken in data science?": "[https://arendesai.com/coursework] Coursework includes Data Science Methods, Machine Learning, and Statistical Computing",
+    "How can I see Aren's resume?": ["[https://arendesai.com/resume_nodetails.pdf] Download resume", "[https://arendesai.com/cv_nodetails.pdf] Download CV"],
+    "What is the LMP Forecasting project?": "[https://arendesai.com/datascience/LMPF-README.md] Predicts electricity market prices using advanced machine learning models",
+    "Can you tell me about the Wisconsin Rover software?": "[https://github.com/WisconsinRobotics/WRoverSoftware] ROS2-based control system for autonomous rover navigation",
+    "What is the Gazebo simulation experience?": "[https://arendesai.com/portfolio#robotics] Used Gazebo for simulating and testing rover components in virtual environments"
+}

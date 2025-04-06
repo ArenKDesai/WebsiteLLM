@@ -1,0 +1,23 @@
+{
+    "What is Aren Desai's academic background?": ["[arendesai.com/portfolio] He holds a BS in Computer Science and Data Science from UW-Madison (Spring 2025)."],
+    "Can you tell me about his technical skills?": ["He specializes in Python, SQL, R, Java, C/C++/C#, JavaScript, Julia, MATLAB for programming. For data science: Pandas, NumPy, PyTorch, TensorFlow, Scikit-Learn, Keras. Graphics: OpenGL, WebGL, Unity, Blender. Robotics: ROS/ROS2, Gazebo."],
+    "What projects has he worked on in robotics?": ["[github.com/WisconsinRobotics/WRoverSoftware] He contributed to the WRoverSoftware project at UW-Madison, focusing on rover software development using ROS2."],
+    "What are his data science projects?": ["[arendesai.com/datascience] Notable projects include MarketSimOptimizer (MISO market simulation) and LMP Forecasting (LEAR & DNN price models)."],
+    "Does he have experience with cloud technologies?": ["Yes, he worked on a GCP-hosted website for an LLM project. See [github.com/ArenKDesai/ArenWebsite] for details."],
+    "Tell me about his work experience": ["He interned at Madison Gas & Electric (Energy Supply Intern) and Compeer Financial (Data Analytics)."],
+    "What graphics projects has he created?": ["[github.com/ArenKDesai] Projects include [github.com/ArenKDesai/graphics-projects] demonstrating skills in 3D rendering and game development."],
+    "How does he approach software development?": ["He emphasizes clean code, test-driven development, and continuous integration. See his GitHub profile for examples."],
+    "What is his involvement in robotics beyond WRoverSoftware?": ["He co-founded a robotics club at UW-Madison and organizes workshops on ROS and robotic systems design."],
+    "Which skills does he prioritize for data science?": ["Machine learning, statistical analysis, and big data processing. See [arendesai.com/skills] for more details."],
+    "Has he worked on any open-source projects?": ["Yes, he contributes to [github.com/ArenKDesai], including collaborative efforts in robotics and AI."],
+    "What is the purpose of his website's LLM project?": ["To explore and demonstrate natural language processing capabilities. Visit [github.com/ArenKDesai/llm-project] for more info."],
+    "How does his education tie into his career goals?": ["His dual major allows him to bridge software engineering with data analysis, preparing him for roles in AI and robotics."],
+    "Does he have plans for further education after graduation?": ["He is considering a Master's in Computer Science or Data Science to specialize in machine learning."],
+    "Can you describe his leadership roles in clubs?": ["He leads the UW Robotics Club, organizing events and competitions. See [uwrobotics.org] for more details."],
+    "Which programming languages does he use most frequently?": ["Python, C++, and JavaScript are his primary tools for software development and data science."],
+    "What inspired him to study computer science and data science?": ["Interest in problem-solving and AI led him to pursue these fields. He aims to develop intelligent systems that solve real-world problems."],
+    "How can visitors stay updated on his work?": ["Follow his GitHub profile [github.com/ArenKDesai] or visit his personal website [arendesai.com]." ],
+    "What is the most interesting project he's worked on?": ["The LLM project, as it combines NLP and deep learning to create conversational AI. Check out [github.com/ArenKDesai/llm-project]."],
+    "Does he have any notable collaborations?": ["He collaborated with UW-Madison's robotics team on the WRoverSoftware and led a student project on computer vision."],
+    "What tools does he use for graphics?": ["OpenGL, WebGL, Unity, Blender. See [github.com/ArenKDesai/graphics-projects] for examples."]
+}
